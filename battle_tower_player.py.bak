@@ -44,6 +44,7 @@ class BattleTowerPlayer(Player):
 
                 # Special handling for status moves.
                 if move.category == MoveCategory.STATUS:
+                    print("Evaluating status move "+ move.id)
                     # If it's a move we can use, add it to status moves list.
                     
                     if Effect.TAUNT in battle.active_pokemon.effects:
@@ -54,6 +55,7 @@ class BattleTowerPlayer(Player):
                         # Heal logic is handled elsewhere.
                         continue
 
+                    print("Checking if " + move.id + " works against target...")
                     if move.target != "self" and not self.move_works_against_target(move, battle.active_pokemon, battle.opponent_active_pokemon):
                         # Skip if move targets a foe but foe is immune to it.
                         continue
