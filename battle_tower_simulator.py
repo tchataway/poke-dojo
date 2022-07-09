@@ -13,6 +13,19 @@ async def main():
     current_battle = 1
     used_trainer_names = []
 
+    # Get specific trainer and team.
+#    trainer_name_and_team = team_provider.get_specific_team("Jamison", "Team 2")
+#    player = BattleTowerPlayer(
+#        player_configuration=PlayerConfiguration(trainer_name_and_team[0], None),
+#        battle_format="gen8bdsp3v3singles",
+#        server_configuration=LocalhostServerConfiguration,
+#        team=trainer_name_and_team[1],
+#        log_level=10,
+#    )
+#    
+#    await player.send_challenges("Pugnotaur", n_challenges=1)
+#    return
+
     # Standard set rotation
     while current_set < 8: # 8 would be Master.
         if current_battle < 8: # Only 7 battles in each set.
@@ -25,8 +38,6 @@ async def main():
                 elif current_set == 7:
                     # 49th battle, load special set.
                     set_name = "49 Streak Battle"
-            # Get specific trainer and team.
-            #trainer_name_and_team = team_provider.get_specific_team("Palmer", "Team 3")
     
             # Get random trainer and team from set.
             trainer_name_and_team = team_provider.get_random_team(set_name)
@@ -34,7 +45,7 @@ async def main():
             # Check if we've used this trainer before; if so, update their name.
             trainer_name = trainer_name_and_team[0]
             name_count = 0
-            
+
             while trainer_name in used_trainer_names:
                 name_count = name_count + 1
                 trainer_name = trainer_name + str(name_count)
