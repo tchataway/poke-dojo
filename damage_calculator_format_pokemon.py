@@ -1,5 +1,6 @@
 from poke_env.data import POKEDEX
 from poke_env.environment.pokemon import Pokemon
+from ability_dex import AbilityDex
 import random
 
 class DamageCalculatorFormatPokemon():
@@ -10,16 +11,26 @@ class DamageCalculatorFormatPokemon():
         pokedex_entry = POKEDEX[pokemon.species]
         print(pokedex_entry)
         self.species = pokedex_entry.get('name')
+        poss_abilities = list(pokedex_entry.get('abilities').values())
 
         if pokemon.ability is None:
             # Don't know ability, so randomly pick one from possible options.
-            poss_abilities = list(pokedex_entry.get('abilities').values())
             print(poss_abilities)
-            self.ability = random.choice(poss_abilities)
+            random_ability = random.choice(poss_abilities)
+            print("Randomly selected " + random_ability)
+            self.ability = random_ability
         else:
-            self.ability = pokemon.ability
+            # poke_env Pokemon have condensed ability IDs, but the damage calculator
+            # needs the verbose version, so convert that here.
+            ability_dex = AbilityDex()
+            self.ability = ability_dex.get_ability(pokemon.ability)
 
-        self.item = pokemon.item
+        if pokemon.item is None:
+            # API shits its little pants if there's no value here, so put garbage in.
+            self.item = "poopypants"
+        else:
+            self.item = pokemon.item
+
         self.level = 50
 
     def formatted(self):
