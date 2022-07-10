@@ -175,8 +175,12 @@ class BattleTowerPlayer(Player):
                 if effect.name == move.volatile_status.upper(): # TODO: Implement better conversion for volatile status IDs
                     return False
                 
-            # Singles only, so follow me won't work either.
             if move.volatile_status == "followme":
+                # Singles only, so follow me won't work either.
+                return False
+
+            if move.volatile_status == "encore" and target.first_turn:
+                # Don't try to encore when they haven't performed yet.
                 return False
 
         if not (target.damage_multiplier(move) > 0):
@@ -191,7 +195,7 @@ class BattleTowerPlayer(Player):
             return False
 
         # TODO: Check item.
-        
+
         if move.volatile_status == "attract" and not self.genders_are_attract_compatible(user.gender, target.gender):
             return False
 
