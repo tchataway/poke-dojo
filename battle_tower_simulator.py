@@ -12,6 +12,12 @@ async def main():
     current_set = 1
     current_battle = 1
     used_trainer_names = []
+    player_to_challenge = "Default"
+
+    with open('.\\config\\challenger.txt') as challenger_file:
+        lines = challenger_file.readlines()
+        if len(lines) > 0:
+            player_to_challenge = lines[0]
 
     # Get specific trainer and team.
 #    trainer_name_and_team = team_provider.get_specific_team("Jamison", "Team 2")
@@ -23,7 +29,7 @@ async def main():
 #        log_level=10,
 #    )
 #    
-#    await player.send_challenges("Pugnotaur", n_challenges=1)
+#    await player.send_challenges(player_to_challenge, n_challenges=1)
 #    return
 
     # Standard set rotation
@@ -62,7 +68,7 @@ async def main():
         
             # Sending challenges to 'your_username'.
             print("Starting battle for set " + str(current_set) + ", battle number " + str(current_battle))
-            await player.send_challenges("Pugnotaur", n_challenges=1)
+            await player.send_challenges(player_to_challenge, n_challenges=1)
     
             # Battle complete; proceed to next one (even if we won!).
             current_battle = current_battle + 1
