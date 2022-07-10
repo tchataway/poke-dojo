@@ -42,3 +42,19 @@ class UtilityFunctions():
             ability = ability_dex.get_ability(pokemon.ability)
 
         return ability
+
+    def is_move_negated_by_ability(self, move, user_ability, target_ability):
+        print(move)
+        print(user_ability)
+        print(target_ability)
+        if user_ability == "Mold Breaker":
+            # Mold Breaker ignores target's ability.
+            return False
+
+        if move.volatile_status == "confusion" and target_ability == "Own Tempo":
+            return True
+
+        if move.volatile_status == "attract" and target_ability == "Oblivious":
+            return True
+
+        return False

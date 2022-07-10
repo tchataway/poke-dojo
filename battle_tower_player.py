@@ -183,8 +183,15 @@ class BattleTowerPlayer(Player):
             # Move doesn't work due to typing.
             return False
 
-        # TODO: Check abilities here.
+        print("Checking abilities...")
+        utils = UtilityFunctions()
+        if utils.is_move_negated_by_ability(move,
+            utils.get_or_guess_ability(user),
+            utils.get_or_guess_ability(target)):
+            return False
 
+        # TODO: Check item.
+        
         if move.volatile_status == "attract" and not self.genders_are_attract_compatible(user.gender, target.gender):
             return False
 
@@ -192,7 +199,6 @@ class BattleTowerPlayer(Player):
         if move.target != "self" and Effect.SUBSTITUTE in list(target.effects.keys()):
             if move.category == MoveCategory.STATUS and utils.move_targets_single_pokemon(move.target):
                 # Status moves don't work on substitutes of other Pokemon.
-                print(move.id + " doesn't work due to substitute in play; skipping.")
                 return False
 
         return True
