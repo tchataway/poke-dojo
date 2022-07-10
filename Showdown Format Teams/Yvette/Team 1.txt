@@ -1,0 +1,31 @@
+Forretress @ Custap Berry
+Ability: Sturdy
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+IVs: 0 SpA / 0 Spe
+- Gyro Ball
+- Earthquake
+- Explosion
+- Rock Tomb
+
+Toxicroak @ Scope Lens
+Ability: Poison Touch
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Poison Jab
+- X-scissor
+- Giga Impact
+- Focus Blast
+
+Abomasnow @ Leftovers
+Ability: Snow Warning
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 0 SpA
+- Wood Hammer
+- Ingrain
+- Substitute
+- Avalanche

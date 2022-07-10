@@ -1,0 +1,30 @@
+Togekiss @ Leftovers
+Ability: Serene Grace
+Level: 50
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+IVs: 0 Atk
+- Thunder Wave
+- Double Team
+- Substitute
+- Air Slash
+
+Snorlax @ Figy Berry
+Ability: Gluttony
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Def
+Adamant Nature
+- Body Slam
+- Curse
+- Heavy Slam
+- Yawn
+
+Arcanine @ Choice Band
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Flare Blitz
+- Wild Charge
+- Play Rough
+- Close Combat

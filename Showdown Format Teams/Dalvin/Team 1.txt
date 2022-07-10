@@ -1,0 +1,30 @@
+Kangaskhan @ Salac Berry
+Ability: Scrappy
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Endure
+- Reversal
+- Crunch
+- Earthquake
+
+Heracross @ Coba Berry
+Ability: Moxie
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Megahorn
+- Stone Edge
+- Facade
+- Shadow Claw
+
+Gallade @ Kasib Berry
+Ability: Steadfast
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Psycho Cut
+- Close Combat
+- Shadow Sneak
+- Destiny Bond

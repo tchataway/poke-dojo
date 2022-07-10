@@ -1,0 +1,30 @@
+Feraligatr @ Wacan Berry
+Ability: Torrent
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Waterfall
+- Earthquake
+- Ice Fang
+- Dragon Dance
+
+Cradily @ Sitrus Berry
+Ability: Storm Drain
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Relaxed Nature
+- Mirror Coat
+- Energy Ball
+- Stone Edge
+- Ingrain
+
+Magmortar @ Wiki Berry
+Ability: Flame Body
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Docile Nature
+- Earthquake
+- Flamethrower
+- Thunderbolt
+- Will-o-wisp

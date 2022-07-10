@@ -1,0 +1,32 @@
+Glaceon @ Leftovers
+Ability: Ice Body
+Level: 50
+EVs: 220 HP / 220 SpA / 44 Spe
+Modest Nature
+IVs: 0 Atk / 25 Def / 25 SpD
+- Mirror Coat
+- Tail Whip
+- Sand Attack
+- Last Resort
+
+Gardevoir @ Lum Berry
+Ability: Synchronize
+Level: 50
+EVs: 60 HP / 204 SpA / 204 Spe
+Timid Nature
+IVs: 0 Atk / 20 Def / 20 SpD
+- Psychic
+- Shadow Ball
+- Thunder Wave
+- Confuse Ray
+
+Claydol @ Hard Stone
+Ability: Levitate
+Level: 50
+EVs: 204 HP / 204 Atk / 60 SpA
+Hardy Nature
+IVs: 20 Def / 20 SpD / 20 Spe
+- Rock Polish
+- Earthquake
+- Rock Slide
+- Psychic

@@ -1,0 +1,31 @@
+Armaldo @ Wide Lens
+Ability: Battle Armor
+Level: 50
+EVs: 204 HP / 60 Atk / 204 SpD
+Careful Nature
+- Stone Edge
+- Slash
+- X-scissor
+- Iron Tail
+
+Nidoking @ Life Orb
+Ability: Sheer Force
+Level: 50
+EVs: 60 HP / 204 SpA / 204 Spe
+Modest Nature
+IVs: 0 Atk / 20 Def / 20 SpD
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Slowking @ Wise Glasses
+Ability: Own Tempo
+Level: 50
+EVs: 204 HP / 60 Def / 204 SpA
+Modest Nature
+IVs: 0 Atk / 20 SpD / 0 Spe
+- Psychic
+- Scald
+- Trick Room
+- Ice Beam

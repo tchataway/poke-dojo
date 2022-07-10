@@ -1,0 +1,32 @@
+Kabuto @ Sitrus Berry
+Ability: Battle Armor
+Level: 50
+EVs: 108 HP / 108 SpA
+Hardy Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Mega Drain
+- Ancient Power
+- Sand Attack
+- Protect
+
+Castform @ Persim Berry
+Ability: Forecast
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Hasty Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Ember
+- Water Pulse
+- Shock Wave
+- Weather Ball
+
+Raticate @ Silk Scarf
+Ability: Guts
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Naive Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Endeavor
+- Super Fang
+- Scary Face
+- Quick Attack

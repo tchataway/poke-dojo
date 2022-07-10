@@ -1,0 +1,32 @@
+Medicham @ Focus Band
+Ability: Pure Power
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Jolly Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- High Jump Kick
+- Thunder Punch
+- Ice Punch
+- Fire Punch
+
+Manectric @ Magnet
+Ability: Lightning Rod
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Jolly Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Spark
+- Ice Fang
+- Bite
+- Howl
+
+Ambipom @ Bright Powder
+Ability: Technician
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Def / 4 SpA / 4 SpD / 4 Spe
+Impish Nature
+IVs: 15 SpA / 15 SpD / 15 Spe
+- Double Team
+- Baton Pass
+- Agility
+- Double Hit

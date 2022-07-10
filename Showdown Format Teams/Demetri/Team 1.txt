@@ -1,0 +1,29 @@
+Leafeon @ Shed Shell
+Ability: Chlorophyll
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpD
+Sassy Nature
+- Grass Knot
+- Aerial Ace
+- Energy Ball
+- Bite
+
+Jolteon @ Razor Claw
+Ability: Volt Absorb
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Thunder Wave
+- Thunderbolt
+- Shadow Ball
+- Flash
+
+Moltres @ Bright Powder
+Ability: Flame Body
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Overheat
+- Sky Attack
+- Fire Blast
+- U-turn

@@ -1,0 +1,32 @@
+Budew @ Big Root
+Ability: Poison Point
+Level: 50
+EVs: 108 SpA / 108 Spe
+Timid Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Giga Drain
+- Stun Spore
+- Worry Seed
+- Growth
+
+Bidoof @ Metronome
+Ability: Simple
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Defense Curl
+- Headbutt
+- Rollout
+- Yawn
+
+Growlithe @ Shuca Berry
+Ability: Intimidate
+Level: 50
+EVs: 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Flame Wheel
+- Bite
+- Roar
+- Agility

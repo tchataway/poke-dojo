@@ -1,0 +1,32 @@
+Milotic @ Salac Berry
+Ability: Competitive
+Level: 50
+EVs: 36 HP / 220 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk / 25 Def / 25 SpD
+- Hydro Pump
+- Ice Beam
+- Recover
+- Hypnosis
+
+Magnezone @ Quick Claw
+Ability: Sturdy
+Level: 50
+EVs: 44 HP / 220 SpA / 220 Spe
+Modest Nature
+IVs: 0 Atk / 25 Def / 25 SpD
+- Thunderbolt
+- Flash Cannon
+- Tri Attack
+- Volt Switch
+
+Umbreon @ Leftovers
+Ability: Inner Focus
+Level: 50
+EVs: 220 HP / 220 Def / 44 SpD
+Bold Nature
+IVs: 0 Atk / 25 SpA / 25 Spe
+- Moonlight
+- Dark Pulse
+- Yawn
+- Protect

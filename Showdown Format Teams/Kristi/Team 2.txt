@@ -1,0 +1,29 @@
+Registeel @ Quick Claw
+Ability: Clear Body
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Explosion
+- Double Team
+- Swagger
+- Substitute
+
+Weezing @ Bright Powder
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpD
+Calm Nature
+- Sludge Bomb
+- Fire Blast
+- Will-o-wisp
+- Pain Split
+
+Wailord @ Leftovers
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Curse
+- Earthquake
+- Waterfall
+- Double Team

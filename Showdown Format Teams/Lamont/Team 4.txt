@@ -1,0 +1,31 @@
+Butterfree @ Leftovers
+Ability: Compoundeyes
+Level: 50
+EVs: 108 HP / 108 Spe
+Timid Nature
+- Sleep Powder
+- Quiver Dance
+- Substitute
+- Bug Buzz
+
+Beautifly @ Mental Herb
+Ability: Swarm
+Level: 50
+EVs: 108 SpA / 108 Spe
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Bug Buzz
+- Mega Drain
+- Attract
+- Quiver Dance
+
+Magby @ Lax Incense
+Ability: Flame Body
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Fire Punch
+- Smokescreen
+- Confuse Ray
+- Smog

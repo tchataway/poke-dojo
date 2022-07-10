@@ -1,0 +1,30 @@
+Skuntank @ Shuca Berry
+Ability: Aftermath
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Night Slash
+- Poison Jab
+- Explosion
+- Flamethrower
+
+Exeggutor @ Miracle Seed
+Ability: Chlorophyll
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Leech Seed
+- Worry Seed
+- Bullet Seed
+- Psychic
+
+Regigigas @ Shell Bell
+Ability: Slow Start
+Level: 50
+EVs: 252 HP / 124 Atk / 124 SpA / 4 SpD / 4 Spe
+Quiet Nature
+- Thunderbolt
+- Focus Blast
+- Earthquake
+- Drain Punch

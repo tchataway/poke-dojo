@@ -1,0 +1,32 @@
+Heracross @ Focus Band
+Ability: Moxie
+Level: 50
+EVs: 60 HP / 204 Atk / 204 Spe
+Jolly Nature
+IVs: 20 Def / 0 SpA / 20 SpD
+- Close Combat
+- Stone Edge
+- Megahorn
+- Earthquake
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+Level: 50
+EVs: 220 HP / 220 Def / 44 SpA
+Bold Nature
+IVs: 0 Atk / 25 SpD / 25 Spe
+- Scald
+- Ice Beam
+- Acid Armor
+- Rest
+
+Tangrowth @ Big Root
+Ability: Regenerator
+Level: 50
+EVs: 220 HP / 44 SpA / 220 SpD
+Calm Nature
+IVs: 0 Atk / 25 Def / 25 Spe
+- Leech Seed
+- Double Team
+- Stun Spore
+- Giga Drain

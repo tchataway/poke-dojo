@@ -1,0 +1,31 @@
+Carvanha @ Shell Bell
+Ability: Rough Skin
+Level: 50
+EVs: 108 HP / 108 SpA
+Quiet Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Bite
+- Screech
+- Scary Face
+- Swagger
+
+Geodude @ Sitrus Berry
+Ability: Sturdy
+Level: 50
+EVs: 108 HP / 108 Atk
+Brave Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Bulldoze
+- Rock Blast
+- Strength
+- Protect
+
+Shellos @ Lax Incense
+Ability: Storm Drain
+Level: 50
+EVs: 108 HP / 108 Def
+Relaxed Nature
+- Water Pulse
+- Mud-slap
+- Harden
+- Rain Dance

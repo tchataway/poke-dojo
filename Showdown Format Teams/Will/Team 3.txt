@@ -1,0 +1,31 @@
+Grovyle @ Bright Powder
+Ability: Overgrow
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Relaxed Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Fury Cutter
+- Endeavor
+- Brick Break
+- Double Team
+
+Wigglytuff @ Silk Scarf
+Ability: Competitive
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpD
+Relaxed Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Sing
+- Disable
+- Wish
+- Dazzling Gleam
+
+Sudowoodo @ Hard Stone
+Ability: Rock Head
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Hardy Nature
+- Rock Slide
+- Double-edge
+- Sandstorm
+- Block

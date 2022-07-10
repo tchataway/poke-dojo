@@ -1,0 +1,29 @@
+Cresselia @ Focus Band
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Lunar Dance
+- Safeguard
+- Future Sight
+- Psychic
+
+Regigigas @ Chople Berry
+Ability: Slow Start
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Crush Grip
+- Protect
+- Stone Edge
+- Brick Break
+
+Golduck @ Wide Lens
+Ability: Cloud Nine
+Level: 50
+EVs: 252 Atk / 4 SpA / 252 Spe
+Hasty Nature
+- Hydro Pump
+- Zen Headbutt
+- Shadow Claw
+- Brine

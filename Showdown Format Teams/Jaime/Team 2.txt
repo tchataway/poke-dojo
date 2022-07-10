@@ -1,0 +1,32 @@
+Lickilicky @ Expert Belt
+Ability: Oblivious
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+IVs: 0 Atk
+- Surf
+- Ice Beam
+- Thunderbolt
+- Shadow Ball
+
+Salamence @ King's Rock
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Dragon Dance
+- Earthquake
+- Outrage
+- Zen Headbutt
+
+Whiscash @ Zoom Lens
+Ability: Oblivious
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+IVs: 0 Atk
+- Hydro Pump
+- Blizzard
+- Fissure
+- Future Sight

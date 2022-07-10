@@ -1,0 +1,31 @@
+Espeon @ Light Clay
+Ability: Magic Bounce
+Level: 50
+EVs: 252 HP / 4 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Reflect
+- Dazzling Gleam
+- Baton Pass
+- Light Screen
+
+Cloyster @ King's Rock
+Ability: Skill Link
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Shell Smash
+- Icicle Spear
+- Rock Blast
+- Razor Shell
+
+Raikou @ Shuca Berry
+Ability: Pressure
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Thunderbolt
+- Scald
+- Shadow Ball
+- Calm Mind

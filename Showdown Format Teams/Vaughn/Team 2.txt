@@ -1,0 +1,32 @@
+Hitmontop @ Liechi Berry
+Ability: Intimidate
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Def
+Hardy Nature
+IVs: 0 SpA / 0 SpD / 0 Spe
+- Triple Kick
+- Dig
+- Mach Punch
+- Fake Out
+
+Feraligatr @ King's Rock
+Ability: Torrent
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Jolly Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Scary Face
+- Waterfall
+- Rock Slide
+- Ice Fang
+
+Venusaur @ Power Herb
+Ability: Overgrow
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Brave Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Skull Bash
+- Worry Seed
+- Earthquake
+- Petal Dance

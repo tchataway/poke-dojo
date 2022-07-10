@@ -1,0 +1,29 @@
+Umbreon @ Leftovers
+Ability: Inner Focus
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Foul Play
+- Swagger
+- Yawn
+- Protect
+
+Weezing @ Black Sludge
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Fire Blast
+- Sludge Bomb
+- Will-o-wisp
+- Pain Split
+
+Tyranitar @ Lum Berry
+Ability: Sand Stream
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Stone Edge
+- Crunch
+- Dragon Dance

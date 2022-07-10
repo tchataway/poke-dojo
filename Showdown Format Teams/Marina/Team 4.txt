@@ -1,0 +1,32 @@
+Dustox @ Silver Powder
+Ability: Shield Dust
+Level: 50
+EVs: 108 HP / 108 SpA
+Modest Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Bug Buzz
+- Toxic
+- Psybeam
+- Whirlwind
+
+Volbeat @ Liechi Berry
+Ability: Swarm
+Level: 50
+EVs: 108 HP / 108 SpA
+Quirky Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Bug Buzz
+- Confuse Ray
+- Quick Attack
+- Helping Hand
+
+Machoke @ Focus Band
+Ability: Guts
+Level: 50
+EVs: 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Low Kick
+- Rock Tomb
+- Facade
+- Scary Face

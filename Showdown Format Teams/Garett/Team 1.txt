@@ -1,0 +1,32 @@
+Meganium @ Leftovers
+Ability: Overgrow
+Level: 50
+EVs: 148 HP / 148 SpA / 148 SpD
+Calm Nature
+IVs: 15 Atk / 15 Def / 15 Spe
+- Giga Drain
+- Leech Seed
+- Synthesis
+- Substitute
+
+Electabuzz @ Cheri Berry
+Ability: Static
+Level: 50
+EVs: 148 HP / 148 Atk / 148 SpA
+Relaxed Nature
+IVs: 10 Def / 10 SpD / 10 Spe
+- Thunderbolt
+- Thunder Wave
+- Brick Break
+- Light Screen
+
+Girafarig @ Petaya Berry
+Ability: Sap Sipper
+Level: 50
+EVs: 148 HP / 148 SpA / 148 SpD
+Quiet Nature
+IVs: 0 Atk / 0 Def / 0 Spe
+- Psybeam
+- Thunderbolt
+- Wish
+- Skill Swap

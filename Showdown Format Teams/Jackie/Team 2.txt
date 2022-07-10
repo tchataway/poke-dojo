@@ -1,0 +1,32 @@
+Rhydon @ Wise Glasses
+Ability: Lightning Rod
+Level: 50
+EVs: 148 HP / 4 Atk / 148 Def / 148 SpA / 4 SpD / 4 Spe
+Quiet Nature
+IVs: 15 Atk / 15 SpD / 15 Spe
+- Ice Beam
+- Thunderbolt
+- Dragon Pulse
+- Surf
+
+Glalie @ Leftovers
+Ability: Moody
+Level: 50
+EVs: 148 HP / 4 Atk / 4 Def / 148 SpA / 4 SpD / 148 Spe
+Timid Nature
+IVs: 15 Atk / 15 Def / 15 SpD
+- Protect
+- Substitute
+- Frost Breath
+- Sheer Cold
+
+Lanturn @ Rindo Berry
+Ability: Volt Absorb
+Level: 50
+EVs: 148 HP / 4 Atk / 148 Def / 148 SpA / 4 SpD / 4 Spe
+Bold Nature
+IVs: 15 Atk / 15 SpD / 15 Spe
+- Scald
+- Shock Wave
+- Ice Beam
+- Double Team

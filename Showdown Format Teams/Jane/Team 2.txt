@@ -1,0 +1,31 @@
+Torterra @ Heat Rock
+Ability: Overgrow
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 148 SpA / 4 SpD / 4 Spe
+Serious Nature
+IVs: 15 Def / 15 SpD / 15 Spe
+- Sunny Day
+- Synthesis
+- Solar Beam
+- Stone Edge
+
+Vespiquen @ Razor Claw
+Ability: Pressure
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Adamant Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Attack Order
+- Slash
+- Defend Order
+
+Feraligatr @ King's Rock
+Ability: Torrent
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Jolly Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Scary Face
+- Waterfall
+- Rock Slide
+- Ice Fang

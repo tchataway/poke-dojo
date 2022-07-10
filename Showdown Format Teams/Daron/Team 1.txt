@@ -1,0 +1,32 @@
+Alakazam @ Life Orb
+Ability: Magic Guard
+Level: 50
+EVs: 60 HP / 204 SpA / 204 Spe
+Modest Nature
+IVs: 0 Atk / 20 Def / 20 SpD
+- Psyshock
+- Psychic
+- Focus Blast
+- Energy Ball
+
+Empoleon @ Wacan Berry
+Ability: Torrent
+Level: 50
+EVs: 220 Atk / 220 SpA / 44 Spe
+Docile Nature
+IVs: 0 HP / 25 Def / 25 SpD
+- Drill Peck
+- Brick Break
+- Aqua Jet
+- Ice Beam
+
+Salamence @ Cheri Berry
+Ability: Intimidate
+Level: 50
+EVs: 44 HP / 220 Atk / 220 Spe
+Adamant Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Fly
+- Aerial Ace
+- Steel Wing
+- Roost

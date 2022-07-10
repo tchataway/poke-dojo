@@ -1,0 +1,32 @@
+Spinda @ Silk Scarf
+Ability: Own Tempo
+Level: 50
+EVs: 108 HP / 108 Def
+Relaxed Nature
+IVs: 0 Atk / 0 SpA / 0 SpD / 0 Spe
+- Flail
+- Teeter Dance
+- Psybeam
+- Icy Wind
+
+Glameow @ Quick Claw
+Ability: Limber
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Fake Out
+- Fury Swipes
+- Growl
+- Attract
+
+Grimer @ Black Sludge
+Ability: Stench
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Sludge
+- Rock Tomb
+- Acid Armor
+- Minimize

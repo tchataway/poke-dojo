@@ -1,0 +1,29 @@
+Latias @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 4 SpA / 252 Spe
+Timid Nature
+- Calm Mind
+- Recover
+- Stored Power
+- Mystical Fire
+
+Mamoswine @ Focus Sash
+Ability: Thick Fat
+Level: 50
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Earthquake
+- Icicle Spear
+- Ice Shard
+- Rock Tomb
+
+Lanturn @ Sitrus Berry
+Ability: Water Absorb
+Level: 50
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Scald
+- Ice Beam
+- Volt Switch
+- Thunderbolt

@@ -1,0 +1,30 @@
+Slowking @ Bright Powder
+Ability: Regenerator
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+- Psychic
+- Surf
+- Nasty Plot
+- Swagger
+
+Ambipom @ Wise Glasses
+Ability: Technician
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Shadow Ball
+- Thunderbolt
+- Swift
+- Nasty Plot
+
+Regirock @ Leftovers
+Ability: Clear Body
+Level: 50
+EVs: 252 HP / 4 Atk / 252 SpD
+Careful Nature
+- Stone Edge
+- Earthquake
+- Brick Break
+- Sandstorm

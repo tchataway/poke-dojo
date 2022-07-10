@@ -1,0 +1,31 @@
+Gengar @ Focus Sash
+Ability: Cursed Body
+Level: 50
+EVs: 60 HP / 204 SpA / 204 Spe
+Timid Nature
+IVs: 0 Atk / 20 Def / 20 SpD
+- Shadow Ball
+- Psychic
+- Energy Ball
+- Focus Blast
+
+Charizard @ Charti Berry
+Ability: Blaze
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Modest Nature
+IVs: 15 Atk / 15 Def / 15 SpD
+- Flamethrower
+- Sunny Day
+- Focus Blast
+- Ancient Power
+
+Froslass @ Focus Band
+Ability: Cursed Body
+Level: 50
+EVs: 148 HP / 4 Atk / 4 Def / 148 SpA / 4 SpD / 148 Spe
+Timid Nature
+- Blizzard
+- Shadow Ball
+- Thunderbolt
+- Will-o-wisp

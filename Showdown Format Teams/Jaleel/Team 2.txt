@@ -1,0 +1,32 @@
+Luxio @ Magnet
+Ability: Intimidate
+Level: 50
+EVs: 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Spark
+- Bite
+- Roar
+- Swagger
+
+Gible @ Soft Sand
+Ability: Rough Skin
+Level: 50
+EVs: 108 HP / 108 Atk
+Brave Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Dragon Claw
+- Dig
+- Sand Tomb
+- Sand Attack
+
+Psyduck @ Persim Berry
+Ability: Cloud Nine
+Level: 50
+EVs: 108 SpA / 108 Spe
+Hasty Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Confusion
+- Fury Swipes
+- Aerial Ace
+- Disable

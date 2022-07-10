@@ -1,0 +1,32 @@
+Gloom @ Persim Berry
+Ability: Chlorophyll
+Level: 50
+EVs: 108 HP / 108 SpA
+Modest Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Petal Dance
+- Acid
+- Stun Spore
+- Moonlight
+
+Furret @ Liechi Berry
+Ability: Keen Eye
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Serious Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Slam
+- Protect
+- Helping Hand
+- Follow Me
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpA
+Quiet Nature
+IVs: 0 Atk / 0 SpD / 0 Spe
+- Water Pulse
+- Aerial Ace
+- Stockpile
+- Swallow

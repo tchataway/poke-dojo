@@ -1,0 +1,32 @@
+Milotic @ Salac Berry
+Ability: Competitive
+Level: 50
+EVs: 36 HP / 220 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk / 25 Def / 25 SpD
+- Hydro Pump
+- Ice Beam
+- Recover
+- Hypnosis
+
+Gyarados @ Lum Berry
+Ability: Intimidate
+Level: 50
+EVs: 44 HP / 220 Atk / 220 Spe
+Adamant Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang
+
+Umbreon @ Leftovers
+Ability: Inner Focus
+Level: 50
+EVs: 220 HP / 220 Def / 44 SpD
+Bold Nature
+IVs: 0 Atk / 25 SpA / 25 Spe
+- Moonlight
+- Dark Pulse
+- Yawn
+- Protect

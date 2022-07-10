@@ -1,0 +1,32 @@
+Clefable @ Life Orb
+Ability: Magic Guard
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Modest Nature
+IVs: 10 Atk / 10 Def / 10 SpD
+- Moonblast
+- Flamethrower
+- Thunderbolt
+- Moonlight
+
+Golbat @ Scope Lens
+Ability: Inner Focus
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Jolly Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Poison Fang
+- Confuse Ray
+- Wing Attack
+- Steel Wing
+
+Stantler @ Twisted Spoon
+Ability: Intimidate
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Gentle Nature
+IVs: 10 Atk / 10 Def / 10 SpD
+- Extrasensory
+- Confuse Ray
+- Stomp
+- Sand Attack

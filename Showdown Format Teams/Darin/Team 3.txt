@@ -1,0 +1,32 @@
+Masquerain @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Timid Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Hydro Pump
+- Air Slash
+- Bug Buzz
+- Stun Spore
+
+Arbok @ Persim Berry
+Ability: Intimidate
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Poison Fang
+- Dig
+- Bite
+- Glare
+
+Magcargo @ Lax Incense
+Ability: Flame Body
+Level: 50
+EVs: 108 HP / 108 Atk / 108 SpA
+Gentle Nature
+IVs: 0 Def / 0 SpD / 0 Spe
+- Rock Slide
+- Ember
+- Acid Armor
+- Sandstorm

@@ -1,0 +1,31 @@
+Zapdos @ Sharp Beak
+Ability: Static
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Rain Dance
+- Thunder
+- Charge Beam
+- Drill Peck
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+IVs: 0 SpA
+- Earthquake
+- Ice Fang
+- Slack Off
+- Yawn
+
+Nidoking @ Wise Glasses
+Ability: Sheer Force
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Earth Power
+- Dragon Pulse
+- Sludge Bomb
+- Sandstorm

@@ -1,0 +1,30 @@
+Regice @ Ganlon Berry
+Ability: Clear Body
+Level: 50
+EVs: 252 HP / 4 Atk / 252 SpA
+Serious Nature
+- Focus Blast
+- Blizzard
+- Giga Impact
+- Rock Polish
+
+Absol @ Focus Sash
+Ability: Pressure
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Swagger
+- Night Slash
+- Sucker Punch
+- Taunt
+
+Tangrowth @ Leftovers
+Ability: Regenerator
+Level: 50
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+- Knock Off
+- Rock Tomb
+- Leech Seed
+- Poison Jab

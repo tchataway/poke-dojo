@@ -1,0 +1,32 @@
+Chimecho @ Twisted Spoon
+Ability: Levitate
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpA
+Sassy Nature
+IVs: 0 Atk / 0 SpD / 0 Spe
+- Psychic
+- Take Down
+- Heal Bell
+- Safeguard
+
+Sneasel @ Focus Sash
+Ability: Pickpocket
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Ice Shard
+- Fake Out
+- Ice Punch
+- Throat Chop
+
+Raticate @ Silk Scarf
+Ability: Guts
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Naive Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Endeavor
+- Super Fang
+- Scary Face
+- Quick Attack

@@ -1,0 +1,32 @@
+Grotle @ Big Root
+Ability: Overgrow
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Hardy Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Mega Drain
+- Bite
+- Leech Seed
+- Synthesis
+
+Grovyle @ Bright Powder
+Ability: Overgrow
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Relaxed Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Fury Cutter
+- Endeavor
+- Brick Break
+- Double Team
+
+Gabite @ Yache Berry
+Ability: Rough Skin
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Hardy Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Dragon Claw
+- Take Down
+- Sand Attack
+- Roar

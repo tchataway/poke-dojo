@@ -1,0 +1,30 @@
+Altaria @ Dragon Fang
+Ability: Cloud Nine
+Level: 50
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Roost
+- Dragon Pulse
+- Hyper Voice
+- Dragon Claw
+
+Nidoqueen @ Bright Powder
+Ability: Poison Point
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+- Stone Edge
+- Avalanche
+- Iron Tail
+- Aerial Ace
+
+Manectric @ Shuca Berry
+Ability: Lightning Rod
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Thunderbolt
+- Overheat
+- Roar
+- Thunder Wave

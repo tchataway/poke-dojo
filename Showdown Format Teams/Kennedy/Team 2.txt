@@ -1,0 +1,31 @@
+Lopunny @ Focus Band
+Ability: Limber
+Level: 50
+EVs: 252 HP / 252 SpD / 4 Spe
+Careful Nature
+- Mirror Coat
+- Cosmic Power
+- Charm
+- Drain Punch
+
+Heracross @ Scope Lens
+Ability: Moxie
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Close Combat
+- Aerial Ace
+- Night Slash
+- Bulk Up
+
+Weavile @ Chople Berry
+Ability: Pickpocket
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Night Slash
+- Ice Shard
+- Ice Punch
+- Fake Out

@@ -1,0 +1,32 @@
+Quilava @ Focus Band
+Ability: Blaze
+Level: 50
+EVs: 108 HP / 108 Atk / 108 SpD
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 Spe
+- Flame Wheel
+- Fury Swipes
+- Swift
+- Smokescreen
+
+Monferno @ Coba Berry
+Ability: Blaze
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Hardy Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Mach Punch
+- Feint
+- Torment
+- U-turn
+
+Gabite @ Yache Berry
+Ability: Rough Skin
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Hardy Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Dragon Claw
+- Take Down
+- Sand Attack
+- Roar

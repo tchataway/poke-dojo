@@ -1,0 +1,31 @@
+Milotic @ Leftovers
+Ability: Cute Charm
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 0 Atk
+- Surf
+- Ice Beam
+- Aqua Ring
+- Haze
+
+Lanturn @ Quick Claw
+Ability: Volt Absorb
+Level: 50
+EVs: 252 HP / 4 Def / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Charge
+- Charge Beam
+- Hydro Pump
+- Ice Beam
+
+Regice @ Ganlon Berry
+Ability: Clear Body
+Level: 50
+EVs: 252 HP / 4 Atk / 252 SpA
+Serious Nature
+- Focus Blast
+- Blizzard
+- Giga Impact
+- Rock Polish

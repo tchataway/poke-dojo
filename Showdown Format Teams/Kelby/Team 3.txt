@@ -1,0 +1,29 @@
+Honchkrow @ Black Glasses
+Ability: Moxie
+Level: 50
+EVs: 156 HP / 252 Atk / 100 Def
+Adamant Nature
+- Night Slash
+- Sucker Punch
+- Brave Bird
+- Thunder Wave
+
+Claydol @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Iron Defense
+- Body Press
+- Ice Beam
+- Earth Power
+
+Venusaur @ Black Sludge
+Ability: Overgrow
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+- Giga Drain
+- Sludge Bomb
+- Earth Power
+- Sleep Powder

@@ -1,0 +1,32 @@
+Walrein @ Quick Claw
+Ability: Thick Fat
+Level: 50
+EVs: 220 HP / 44 Atk / 220 Def
+Impish Nature
+IVs: 25 Atk / 0 SpA / 25 Spe
+- Rest
+- Sleep Talk
+- Sheer Cold
+- Fissure
+
+Snorlax @ Leftovers
+Ability: Immunity
+Level: 50
+EVs: 44 HP / 220 Atk / 220 Def
+Adamant Nature
+IVs: 0 SpA / 25 SpD / 25 Spe
+- Body Slam
+- Earthquake
+- Curse
+- Yawn
+
+Dugtrio @ Bright Powder
+Ability: Arena Trap
+Level: 50
+EVs: 220 Atk / 220 SpD / 44 Spe
+Careful Nature
+IVs: 25 HP / 25 Def / 0 SpA
+- Swagger
+- Attract
+- Sand Attack
+- Sucker Punch

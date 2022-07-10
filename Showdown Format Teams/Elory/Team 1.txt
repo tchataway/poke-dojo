@@ -1,0 +1,32 @@
+Snorunt @ King's Rock
+Ability: Moody
+Level: 50
+EVs: 108 HP / 108 Atk
+Brave Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Icy Wind
+- Headbutt
+- Protect
+- Bite
+
+Machop @ Scope Lens
+Ability: No Guard
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Seismic Toss
+- Revenge
+- Rock Tomb
+- Scary Face
+
+Shieldon @ Focus Sash
+Ability: Sturdy
+Level: 50
+EVs: 108 HP / 108 Def
+Sassy Nature
+IVs: 0 Atk / 0 SpA / 0 SpD / 0 Spe
+- Take Down
+- Protect
+- Iron Defense
+- Metal Sound

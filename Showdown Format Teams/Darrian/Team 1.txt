@@ -1,0 +1,31 @@
+Typhlosion @ Wide Lens
+Ability: Blaze
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Hardy Nature
+- Will-o-wisp
+- Focus Blast
+- Double Team
+- Fire Blast
+
+Kingler @ Scope Lens
+Ability: Hyper Cutter
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Adamant Nature
+IVs: 10 Def / 10 SpA / 10 SpD
+- Crabhammer
+- Metal Claw
+- Knock Off
+- Protect
+
+Girafarig @ Petaya Berry
+Ability: Sap Sipper
+Level: 50
+EVs: 148 HP / 148 SpA / 148 SpD
+Quiet Nature
+IVs: 0 Atk / 0 Def / 0 Spe
+- Psybeam
+- Thunderbolt
+- Wish
+- Skill Swap

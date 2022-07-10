@@ -1,0 +1,29 @@
+Nidoking @ Expert Belt
+Ability: Poison Point
+Level: 50
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Earth Power
+- Sludge Bomb
+- Ice Beam
+- Shadow Ball
+
+Slowbro @ Quick Claw
+Ability: Regenerator
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+- Calm Mind
+- Psychic
+- Shadow Ball
+- Flamethrower
+
+Moltres @ King's Rock
+Ability: Flame Body
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Air Slash
+- Agility
+- Heat Wave
+- Will-o-wisp

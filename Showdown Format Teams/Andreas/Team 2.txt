@@ -1,0 +1,30 @@
+Suicune @ Chesto Berry
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+- Calm Mind
+- Rest
+- Scald
+- Ice Beam
+
+Regigigas @ Chople Berry
+Ability: Slow Start
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Crush Grip
+- Protect
+- Stone Edge
+- Brick Break
+
+Venusaur @ Quick Claw
+Ability: Overgrow
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 0 SpA
+- Earthquake
+- Outrage
+- Petal Blizzard
+- Curse

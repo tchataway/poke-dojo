@@ -1,0 +1,29 @@
+Cresselia @ Wiki Berry
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Calm Mind
+- Moonlight
+- Moonblast
+- Psyshock
+
+Charizard @ Sitrus Berry
+Ability: Blaze
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Belly Drum
+- Dragon Claw
+- Fire Punch
+- Earthquake
+
+Abomasnow @ Choice Scarf
+Ability: Snow Warning
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Blizzard
+- Energy Ball
+- Earth Power
+- Focus Blast

@@ -8,7 +8,7 @@ class ShowdownTeamProvider:
         # Build trainer set directory
         self.trainer_set_directory = {}
         self.trainer_names = {}
-        csv_path = "C:\\Code\\showdown-parser\\Trainer CSVs"
+        csv_path = ".\\Trainer CSVs"
         trainer_files = [f for f in listdir(csv_path) if isfile(join(csv_path, f))]
 
         for trainer_file in trainer_files:
@@ -32,7 +32,7 @@ class ShowdownTeamProvider:
             csv_file.close()
 
     def get_specific_team(self, trainer_name, team_name):
-        team_file_path = "C:\\Code\\showdown-parser\\Showdown Format Teams\\" + trainer_name + "\\" + team_name + ".txt"
+        team_file_path = ".\\Showdown Format Teams\\" + trainer_name + "\\" + team_name + ".txt"
         team_file = open(team_file_path)
         team = team_file.read()
         team_file.close()

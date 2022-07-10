@@ -1,0 +1,31 @@
+Metagross @ Occa Berry
+Ability: Clear Body
+Level: 50
+EVs: 44 HP / 220 Atk / 220 Spe
+Adamant Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Magnet Rise
+- Rock Polish
+- Zen Headbutt
+- Meteor Mash
+
+Jolteon @ Magnet
+Ability: Volt Absorb
+Level: 50
+EVs: 36 HP / 220 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk / 25 Def / 25 SpD
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Yawn
+
+Flareon @ Charcoal
+Ability: Flash Fire
+Level: 50
+EVs: 220 HP / 220 Atk / 44 Def
+Adamant Nature
+- Will-o-wisp
+- Flare Blitz
+- Iron Tail
+- Quick Attack

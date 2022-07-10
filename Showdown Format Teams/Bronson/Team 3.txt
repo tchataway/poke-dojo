@@ -1,0 +1,31 @@
+Glaceon @ Leftovers
+Ability: Ice Body
+Level: 50
+EVs: 220 HP / 220 SpA / 44 Spe
+Modest Nature
+IVs: 0 Atk / 25 Def / 25 SpD
+- Mirror Coat
+- Tail Whip
+- Sand Attack
+- Last Resort
+
+Probopass @ Rock Incense
+Ability: Sturdy
+Level: 50
+EVs: 220 HP / 44 Atk / 220 Def
+Impish Nature
+- Rock Polish
+- Stealth Rock
+- Lock-on
+- Stone Edge
+
+Jolteon @ Magnet
+Ability: Volt Absorb
+Level: 50
+EVs: 36 HP / 220 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk / 25 Def / 25 SpD
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Yawn

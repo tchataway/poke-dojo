@@ -1,0 +1,31 @@
+Muk @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 0 SpA
+- Gunk Shot
+- Brick Break
+- Shadow Punch
+- Rock Slide
+
+Regirock @ Smooth Rock
+Ability: Sturdy
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Sandstorm
+- Stone Edge
+- Earthquake
+- Iron Defense
+
+Infernape @ Wise Glasses
+Ability: Blaze
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Flamethrower
+- Focus Blast
+- Calm Mind
+- Grass Knot

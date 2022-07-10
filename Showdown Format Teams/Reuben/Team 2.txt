@@ -1,0 +1,32 @@
+Seadra @ Mystic Water
+Ability: Sniper
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Sassy Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Aurora Beam
+- Smokescreen
+- Water Gun
+- Rain Dance
+
+Cherrim @ Miracle Seed
+Ability: Flower Gift
+Level: 50
+EVs: 108 HP / 108 Atk / 108 SpA
+Hardy Nature
+IVs: 0 Def / 0 SpD / 0 Spe
+- Petal Dance
+- Weather Ball
+- Leech Seed
+- Sunny Day
+
+Misdreavus @ Focus Band
+Ability: Levitate
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpD
+Impish Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Pain Split
+- Shadow Ball
+- Confuse Ray
+- Thunder Wave

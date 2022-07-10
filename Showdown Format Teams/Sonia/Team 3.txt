@@ -1,0 +1,32 @@
+Staraptor @ Choice Band
+Ability: Intimidate
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Adamant Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Brave Bird
+- Close Combat
+- U-turn
+- Facade
+
+Victreebel @ Sitrus Berry
+Ability: Gluttony
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Adamant Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Leaf Blade
+- Poison Jab
+- Leech Life
+- Strength Sap
+
+Absol @ White Herb
+Ability: Pressure
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 148 SpD / 4 Spe
+Careful Nature
+IVs: 15 Def / 15 SpA / 15 Spe
+- Slash
+- Night Slash
+- Double Team
+- Taunt

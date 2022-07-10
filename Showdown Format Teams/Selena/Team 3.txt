@@ -1,0 +1,32 @@
+Bronzor @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 108 Atk / 108 SpA
+Hardy Nature
+IVs: 0 HP / 0 Def / 0 SpD / 0 Spe
+- Confusion
+- Hypnosis
+- Confuse Ray
+- Gyro Ball
+
+Totodile @ Wacan Berry
+Ability: Torrent
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Waterfall
+- Aerial Ace
+- Slash
+- Screech
+
+Goldeen @ Petaya Berry
+Ability: Lightning Rod
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Waterfall
+- Peck
+- Agility
+- Horn Drill

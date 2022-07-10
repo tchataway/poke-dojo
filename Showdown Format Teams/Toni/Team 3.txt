@@ -1,0 +1,32 @@
+Squirtle @ Focus Band
+Ability: Torrent
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Aqua Tail
+- Bite
+- Withdraw
+- Protect
+
+Gible @ Soft Sand
+Ability: Rough Skin
+Level: 50
+EVs: 108 HP / 108 Atk
+Brave Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Dragon Claw
+- Dig
+- Sand Tomb
+- Sand Attack
+
+Delibird @ Never-Melt Ice
+Ability: Vital Spirit
+Level: 50
+EVs: 108 HP / 108 Spe
+Docile Nature
+IVs: 0 Atk / 0 Def / 0 SpA / 0 SpD
+- Present
+- Ice Beam
+- Aerial Ace
+- Hail

@@ -1,0 +1,31 @@
+Jynx @ Odd Incense
+Ability: Dry Skin
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Lovely Kiss
+- Dream Eater
+- Sweet Kiss
+- Energy Ball
+
+Typhlosion @ Shuca Berry
+Ability: Blaze
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Flare Blitz
+- Earthquake
+- Shadow Claw
+- Aerial Ace
+
+Nidoqueen @ Wide Lens
+Ability: Sheer Force
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Earth Power
+- Sludge Bomb
+- Fire Blast
+- Blizzard

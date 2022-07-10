@@ -1,0 +1,32 @@
+Camerupt @ Sitrus Berry
+Ability: Solid Rock
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Quirky Nature
+IVs: 10 Atk / 10 Def / 10 SpD
+- Eruption
+- Protect
+- Sandstorm
+- Rock Slide
+
+Dodrio @ Chesto Berry
+Ability: Early Bird
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Adamant Nature
+IVs: 10 Def / 10 SpA / 10 SpD
+- Drill Peck
+- Tri Attack
+- Sleep Talk
+- Rest
+
+Octillery @ Leftovers
+Ability: Moody
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Modest Nature
+IVs: 10 Atk / 10 Def / 10 SpD
+- Octazooka
+- Ice Beam
+- Psychic
+- Protect

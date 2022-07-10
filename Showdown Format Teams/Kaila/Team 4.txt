@@ -1,0 +1,29 @@
+Blaziken @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Fire Punch
+- Close Combat
+- Acrobatics
+- Swords Dance
+
+Salamence @ Choice Scarf
+Ability: Moxie
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Outrage
+- Thrash
+- Crunch
+- Earthquake
+
+Jolteon @ Choice Specs
+Ability: Volt Absorb
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Volt Switch
+- Thunderbolt
+- Shadow Ball
+- Baton Pass

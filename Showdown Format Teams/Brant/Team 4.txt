@@ -1,0 +1,29 @@
+Raikou @ Choice Specs
+Ability: Inner Focus
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Scald
+
+Suicune @ Leftovers
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Rest
+- Sleep Talk
+- Scald
+- Ice Beam
+
+Entei @ Choice Band
+Ability: Inner Focus
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Sacred Fire
+- Extreme Speed
+- Crunch
+- Stone Edge

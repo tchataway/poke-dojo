@@ -1,0 +1,31 @@
+Gardevoir @ Choice Scarf
+Ability: Trace
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Moonblast
+- Psychic
+- Thunderbolt
+- Mystical Fire
+
+Metagross @ Wise Glasses
+Ability: Clear Body
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Psychic
+- Flash Cannon
+- Shadow Ball
+- Sludge Bomb
+
+Moltres @ Heat Rock
+Ability: Flame Body
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Sunny Day
+- Flamethrower
+- Solar Beam
+- Endure

@@ -1,0 +1,31 @@
+Dugtrio @ Bright Powder
+Ability: Arena Trap
+Level: 50
+EVs: 220 Atk / 220 SpD / 44 Spe
+Careful Nature
+IVs: 25 HP / 25 Def / 0 SpA
+- Swagger
+- Attract
+- Sand Attack
+- Sucker Punch
+
+Aggron @ Chople Berry
+Ability: Sturdy
+Level: 50
+EVs: 44 HP / 220 Atk / 220 Spe
+Jolly Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Rock Polish
+- Iron Head
+- Earthquake
+- Dragon Rush
+
+Flareon @ Charcoal
+Ability: Flash Fire
+Level: 50
+EVs: 220 HP / 220 Atk / 44 Def
+Adamant Nature
+- Will-o-wisp
+- Flare Blitz
+- Iron Tail
+- Quick Attack

@@ -1,0 +1,32 @@
+Cyndaquil @ Focus Sash
+Ability: Blaze
+Level: 50
+EVs: 108 Atk / 108 SpA
+Docile Nature
+IVs: 0 HP / 0 Def / 0 SpD / 0 Spe
+- Flame Wheel
+- Swift
+- Quick Attack
+- Smokescreen
+
+Luxio @ Magnet
+Ability: Intimidate
+Level: 50
+EVs: 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Spark
+- Bite
+- Roar
+- Swagger
+
+Roselia @ Black Sludge
+Ability: Poison Point
+Level: 50
+EVs: 108 SpA / 108 Spe
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Magical Leaf
+- Toxic
+- Sludge Bomb
+- Cotton Spore

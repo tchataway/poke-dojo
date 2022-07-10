@@ -1,0 +1,31 @@
+Rampardos @ Focus Sash
+Ability: Mold Breaker
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Rock Polish
+- Stone Edge
+- Earthquake
+- Zen Headbutt
+
+Bastiodon @ Quick Claw
+Ability: Sturdy
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+IVs: 0 Atk
+- Sandstorm
+- Thunder
+- Blizzard
+- Fire Blast
+
+Heatran @ Shuca Berry
+Ability: Flash Fire
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Flamethrower
+- Earth Power
+- Dragon Pulse
+- Ancient Power

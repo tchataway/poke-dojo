@@ -1,0 +1,31 @@
+Smoochum @ Bright Powder
+Ability: Oblivious
+Level: 50
+EVs: 108 HP / 108 SpA
+Modest Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Sweet Kiss
+- Sing
+- Confusion
+- Ice Beam
+
+Torchic @ Sitrus Berry
+Ability: Blaze
+Level: 50
+EVs: 108 SpA / 108 Spe
+Timid Nature
+- Will-o-wisp
+- Feather Dance
+- Double Team
+- Flamethrower
+
+Stunky @ Poison Barb
+Ability: Aftermath
+Level: 50
+EVs: 108 HP / 108 Spe
+Hardy Nature
+IVs: 0 Atk / 0 Def / 0 SpA / 0 SpD
+- Poison Gas
+- Fury Swipes
+- Screech
+- Smokescreen

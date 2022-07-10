@@ -1,0 +1,30 @@
+Heatran @ Choice Scarf
+Ability: Flash Fire
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Magma Storm
+- Flash Cannon
+- Earth Power
+- Dragon Pulse
+
+Moltres @ Lax Incense
+Ability: Flame Body
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Mystical Fire
+- Hurricane
+- Will-o-wisp
+- Roost
+
+Feraligatr @ Life Orb
+Ability: Sheer Force
+Level: 50
+EVs: 20 HP / 252 Atk / 236 Spe
+Jolly Nature
+- Waterfall
+- Ice Punch
+- Crunch
+- Dragon Dance

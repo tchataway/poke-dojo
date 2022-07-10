@@ -1,0 +1,30 @@
+Breloom @ Toxic Orb
+Ability: Poison Heal
+Level: 50
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Spore
+- Substitute
+- Bulk Up
+- Rock Tomb
+
+Infernape @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Close Combat
+- Fire Punch
+- Fake Out
+- Mach Punch
+
+Togekiss @ Scope Lens
+Ability: Super Luck
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Air Slash
+- Flamethrower
+- Dazzling Gleam
+- Thunder Wave

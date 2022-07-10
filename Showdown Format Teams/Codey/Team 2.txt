@@ -1,0 +1,32 @@
+Qwilfish @ Cheri Berry
+Ability: Intimidate
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpD
+Impish Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Bubble Beam
+- Pin Missile
+- Spikes
+- Minimize
+
+Gligar @ Scope Lens
+Ability: Hyper Cutter
+Level: 50
+EVs: 108 HP / 108 Def / 108 Spe
+Hasty Nature
+IVs: 0 Atk / 0 SpA / 0 SpD
+- Metal Claw
+- Dig
+- Aerial Ace
+- Quick Attack
+
+Wigglytuff @ Silk Scarf
+Ability: Competitive
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpD
+Relaxed Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Sing
+- Disable
+- Wish
+- Dazzling Gleam

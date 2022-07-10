@@ -1,0 +1,32 @@
+Starly @ Sharp Beak
+Ability: Keen Eye
+Level: 50
+EVs: 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Wing Attack
+- Quick Attack
+- Growl
+- Endeavor
+
+Machop @ Scope Lens
+Ability: No Guard
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Seismic Toss
+- Revenge
+- Rock Tomb
+- Scary Face
+
+Pidgeotto @ White Herb
+Ability: Big Pecks
+Level: 50
+EVs: 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Aerial Ace
+- Quick Attack
+- Feather Dance
+- Sand Attack

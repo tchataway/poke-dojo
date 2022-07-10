@@ -1,0 +1,32 @@
+Cherrim @ Miracle Seed
+Ability: Flower Gift
+Level: 50
+EVs: 108 HP / 108 Atk / 108 SpA
+Hardy Nature
+IVs: 0 Def / 0 SpD / 0 Spe
+- Petal Dance
+- Weather Ball
+- Leech Seed
+- Sunny Day
+
+Noctowl @ Persim Berry
+Ability: Keen Eye
+Level: 50
+EVs: 148 HP / 148 Def / 148 SpA
+Relaxed Nature
+IVs: 0 Atk / 0 SpD / 0 Spe
+- Air Slash
+- Aerial Ace
+- Psychic
+- Reflect
+
+Kingler @ Scope Lens
+Ability: Hyper Cutter
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Adamant Nature
+IVs: 10 Def / 10 SpA / 10 SpD
+- Crabhammer
+- Metal Claw
+- Knock Off
+- Protect

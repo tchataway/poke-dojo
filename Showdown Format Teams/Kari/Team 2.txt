@@ -1,0 +1,31 @@
+Gliscor @ Sitrus Berry
+Ability: Hyper Cutter
+Level: 50
+EVs: 204 HP / 60 Atk / 204 Def
+Impish Nature
+IVs: 0 SpA / 20 SpD / 20 Spe
+- Earthquake
+- Guillotine
+- Fire Fang
+- Acrobatics
+
+Ninetales @ Rawst Berry
+Ability: Drought
+Level: 50
+EVs: 60 HP / 204 SpA / 204 Spe
+Timid Nature
+- Solar Beam
+- Disable
+- Will-o-wisp
+- Flamethrower
+
+Golduck @ Pecha Berry
+Ability: Cloud Nine
+Level: 50
+EVs: 60 Atk / 204 SpA / 204 Spe
+Naive Nature
+IVs: 20 HP / 20 Def / 20 SpD
+- Psychic
+- Disable
+- Surf
+- Brick Break

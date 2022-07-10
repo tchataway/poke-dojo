@@ -1,0 +1,31 @@
+Gorebyss @ Focus Sash
+Ability: Swift Swim
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Modest Nature
+IVs: 10 Atk / 10 Def / 10 SpD
+- Hydro Pump
+- Psychic
+- Baton Pass
+- Shell Smash
+
+Omastar @ Shell Bell
+Ability: Swift Swim
+Level: 50
+EVs: 148 HP / 148 Atk / 148 SpA
+Quirky Nature
+IVs: 10 Def / 10 SpD / 10 Spe
+- Bubble Beam
+- Rock Blast
+- Tickle
+- Ancient Power
+
+Dusclops @ Leftovers
+Ability: Pressure
+Level: 50
+EVs: 148 HP / 148 Def / 148 SpD
+Impish Nature
+- Will-o-wisp
+- Night Shade
+- Pain Split
+- Confuse Ray

@@ -1,0 +1,32 @@
+Magnezone @ Quick Claw
+Ability: Sturdy
+Level: 50
+EVs: 44 HP / 220 SpA / 220 Spe
+Modest Nature
+IVs: 0 Atk / 25 Def / 25 SpD
+- Thunderbolt
+- Flash Cannon
+- Tri Attack
+- Volt Switch
+
+Torterra @ White Herb
+Ability: Overgrow
+Level: 50
+EVs: 220 HP / 44 Atk / 220 SpA
+Quiet Nature
+IVs: 25 Def / 25 SpD / 0 Spe
+- Leaf Storm
+- Worry Seed
+- Earthquake
+- Bite
+
+Gyarados @ Lum Berry
+Ability: Intimidate
+Level: 50
+EVs: 44 HP / 220 Atk / 220 Spe
+Adamant Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang

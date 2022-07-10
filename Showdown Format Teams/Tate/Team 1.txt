@@ -1,0 +1,30 @@
+Roselia @ Black Sludge
+Ability: Poison Point
+Level: 50
+EVs: 108 SpA / 108 Spe
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Magical Leaf
+- Toxic
+- Sludge Bomb
+- Cotton Spore
+
+Combee @ Quick Claw
+Ability: Honey Gather
+Level: 50
+EVs: 108 SpA / 108 Spe
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Sweet Scent
+- Gust
+
+Koffing @ Poison Barb
+Ability: Levitate
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Sludge
+- Smokescreen
+- Torment
+- Haze

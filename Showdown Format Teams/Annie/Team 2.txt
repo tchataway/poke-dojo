@@ -1,0 +1,32 @@
+Croconaw @ Scope Lens
+Ability: Torrent
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Def
+Docile Nature
+IVs: 0 SpA / 0 SpD / 0 Spe
+- Slash
+- Water Pulse
+- Bite
+- Scary Face
+
+Sealeo @ Icy Rock
+Ability: Ice Body
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpD
+Relaxed Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Blizzard
+- Hail
+- Snore
+- Rest
+
+Dunsparce @ Lax Incense
+Ability: Serene Grace
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Def
+Docile Nature
+IVs: 0 SpA / 0 SpD / 0 Spe
+- Headbutt
+- Glare
+- Defense Curl
+- Rollout

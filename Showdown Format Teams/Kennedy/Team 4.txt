@@ -1,0 +1,29 @@
+Milotic @ Life Orb
+Ability: Competitive
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Scald
+- Ice Beam
+- Hydro Pump
+- Dragon Pulse
+
+Tyranitar @ Lum Berry
+Ability: Sand Stream
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Stone Edge
+- Crunch
+- Dragon Dance
+
+Latios @ Choice Specs
+Ability: Levitate
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Draco Meteor
+- Surf
+- Thunderbolt
+- Psychic

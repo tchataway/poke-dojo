@@ -1,0 +1,30 @@
+Whiscash @ Chesto Berry
+Ability: Oblivious
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpD
+Sassy Nature
+- Fissure
+- Amnesia
+- Spark
+- Rest
+
+Leafeon @ Shed Shell
+Ability: Chlorophyll
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpD
+Sassy Nature
+- Grass Knot
+- Aerial Ace
+- Energy Ball
+- Bite
+
+Meganium @ Light Clay
+Ability: Overgrow
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 0 Atk
+- Leech Seed
+- Leaf Storm
+- Light Screen
+- Reflect

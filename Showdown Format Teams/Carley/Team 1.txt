@@ -1,0 +1,32 @@
+Porygon-Z @ Choice Specs
+Ability: Download
+Level: 50
+EVs: 36 HP / 252 SpA / 220 Spe
+Modest Nature
+IVs: 0 Atk / 25 Def / 25 SpD
+- Tri Attack
+- Shadow Ball
+- Ice Beam
+- Thunderbolt
+
+Lapras @ Lum Berry
+Ability: Shell Armor
+Level: 50
+EVs: 44 HP / 220 Atk / 220 Spe
+Adamant Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Dragon Dance
+- Body Slam
+- Waterfall
+- Ice Shard
+
+Togekiss @ Wide Lens
+Ability: Hustle
+Level: 50
+EVs: 44 HP / 220 Atk / 220 Spe
+Adamant Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Extreme Speed
+- Aerial Ace
+- Steel Wing
+- Roost

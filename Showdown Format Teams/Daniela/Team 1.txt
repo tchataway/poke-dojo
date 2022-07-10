@@ -1,0 +1,32 @@
+Kabutops @ Scope Lens
+Ability: Swift Swim
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Adamant Nature
+IVs: 10 Def / 10 SpA / 10 SpD
+- Slash
+- Dig
+- Night Slash
+- Metal Sound
+
+Raichu @ Wide Lens
+Ability: Lightning Rod
+Level: 50
+EVs: 148 HP / 4 Atk / 4 Def / 148 SpA / 4 SpD / 148 Spe
+Docile Nature
+IVs: 15 Atk / 15 Def / 15 SpD
+- Thunderbolt
+- Quick Attack
+- Slam
+- Iron Tail
+
+Granbull @ Razor Claw
+Ability: Intimidate
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Def / 4 SpA / 4 SpD / 4 Spe
+Brave Nature
+IVs: 15 SpA / 15 SpD / 15 Spe
+- Thunder Wave
+- Bite
+- Rock Slide
+- Giga Impact

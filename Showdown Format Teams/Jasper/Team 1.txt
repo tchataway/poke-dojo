@@ -1,0 +1,32 @@
+Pidgeot @ Sharp Beak
+Ability: Big Pecks
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Jolly Nature
+IVs: 10 Def / 10 SpA / 10 SpD
+- U-turn
+- Feather Dance
+- Brave Bird
+- Quick Attack
+
+Venomoth @ Persim Berry
+Ability: Shield Dust
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Quirky Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Bug Buzz
+- Psybeam
+- Sleep Powder
+- Skill Swap
+
+Sharpedo @ Scope Lens
+Ability: Speed Boost
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Adamant Nature
+IVs: 10 Def / 10 SpA / 10 SpD
+- Slash
+- Bite
+- Water Pulse
+- Scary Face

@@ -1,0 +1,29 @@
+Raikou @ Lax Incense
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 4 Def / 252 Spe
+Timid Nature
+- Scald
+- Calm Mind
+- Rest
+- Double Team
+
+Regice @ Shell Bell
+Ability: Clear Body
+Level: 50
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Ice Beam
+- Thunderbolt
+- Hyper Beam
+- Flash Cannon
+
+Latias @ Bright Powder
+Ability: Levitate
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Psychic
+- Dragon Pulse
+- Thunderbolt
+- Surf

@@ -1,0 +1,32 @@
+Bonsly @ Passho Berry
+Ability: Sturdy
+Level: 50
+EVs: 108 HP / 108 SpD
+Careful Nature
+IVs: 0 Atk / 0 Def / 0 SpA / 0 Spe
+- Fake Tears
+- Rock Throw
+- Copycat
+- Low Kick
+
+Dustox @ Silver Powder
+Ability: Shield Dust
+Level: 50
+EVs: 108 HP / 108 SpA
+Modest Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Bug Buzz
+- Toxic
+- Psybeam
+- Whirlwind
+
+Wailmer @ Mystic Water
+Ability: Oblivious
+Level: 50
+EVs: 108 HP / 108 Def
+Docile Nature
+IVs: 0 Atk / 0 SpA / 0 SpD / 0 Spe
+- Whirlpool
+- Roar
+- Defense Curl
+- Rollout

@@ -1,0 +1,32 @@
+Grovyle @ Bright Powder
+Ability: Overgrow
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Relaxed Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Fury Cutter
+- Endeavor
+- Brick Break
+- Double Team
+
+Kecleon @ Focus Band
+Ability: Color Change
+Level: 50
+EVs: 108 HP / 108 Def / 108 Spe
+Naive Nature
+IVs: 0 Atk / 0 SpA / 0 SpD
+- Brick Break
+- Psybeam
+- Magic Coat
+- Shadow Sneak
+
+Castform @ Persim Berry
+Ability: Forecast
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Hasty Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Ember
+- Water Pulse
+- Shock Wave
+- Weather Ball

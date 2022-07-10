@@ -1,0 +1,32 @@
+Wigglytuff @ Silk Scarf
+Ability: Competitive
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpD
+Relaxed Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Sing
+- Disable
+- Wish
+- Dazzling Gleam
+
+Sealeo @ Icy Rock
+Ability: Ice Body
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpD
+Relaxed Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Blizzard
+- Hail
+- Snore
+- Rest
+
+Lunatone @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpD
+Quiet Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm

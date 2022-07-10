@@ -1,0 +1,30 @@
+Alakazam @ Life Orb
+Ability: Magic Guard
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Psyshock
+- Shadow Ball
+- Energy Ball
+- Dazzling Gleam
+
+Salamence @ King's Rock
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Dragon Dance
+- Earthquake
+- Outrage
+- Zen Headbutt
+
+Weavile @ Focus Sash
+Ability: Pickpocket
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Night Slash
+- Ice Punch
+- Ice Shard
+- Swords Dance

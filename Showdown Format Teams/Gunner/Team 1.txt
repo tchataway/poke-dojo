@@ -1,0 +1,32 @@
+Gyarados @ Lum Berry
+Ability: Intimidate
+Level: 50
+EVs: 44 HP / 220 Atk / 220 Spe
+Adamant Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang
+
+Roserade @ Big Root
+Ability: Poison Point
+Level: 50
+EVs: 204 HP / 204 Def / 60 SpA
+Bold Nature
+IVs: 0 Atk / 20 SpD / 20 Spe
+- Leech Seed
+- Ingrain
+- Giga Drain
+- Substitute
+
+Floatzel @ Life Orb
+Ability: Swift Swim
+Level: 50
+EVs: 60 Atk / 204 SpA / 204 Spe
+Naive Nature
+IVs: 20 HP / 20 Def / 20 SpD
+- Waterfall
+- Aqua Jet
+- Ice Beam
+- Focus Blast

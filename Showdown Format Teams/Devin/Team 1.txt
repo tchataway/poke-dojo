@@ -1,0 +1,32 @@
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpA
+Quiet Nature
+IVs: 0 Atk / 0 SpD / 0 Spe
+- Water Pulse
+- Aerial Ace
+- Stockpile
+- Swallow
+
+Vigoroth @ Focus Band
+Ability: Vital Spirit
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Lonely Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Slash
+- Counter
+- Encore
+- Uproar
+
+Bayleef @ Bright Powder
+Ability: Overgrow
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Docile Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Razor Leaf
+- Synthesis
+- Safeguard
+- Light Screen

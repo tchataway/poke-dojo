@@ -1,0 +1,30 @@
+Latias @ Lum Berry
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Calm Mind
+- Dragon Pulse
+- Psychic
+- Roost
+
+Medicham @ Salac Berry
+Ability: Pure Power
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Endure
+- Reversal
+- Psycho Cut
+- Thunder Punch
+
+Blaziken @ Passho Berry
+Ability: Speed Boost
+Level: 50
+EVs: 252 Atk / 4 SpA / 252 Spe
+Naughty Nature
+- Overheat
+- Flare Blitz
+- Protect
+- Close Combat

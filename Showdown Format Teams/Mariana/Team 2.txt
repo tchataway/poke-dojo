@@ -1,0 +1,29 @@
+Houndoom @ Passho Berry
+Ability: Flash Fire
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Fire Fang
+- Thunder Fang
+- Crunch
+- Will-o-wisp
+
+Ursaring @ Flame Orb
+Ability: Guts
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Facade
+- Protect
+- Earthquake
+- Crunch
+
+Nidoking @ Expert Belt
+Ability: Poison Point
+Level: 50
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Earth Power
+- Sludge Bomb
+- Ice Beam
+- Shadow Ball

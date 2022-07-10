@@ -1,0 +1,32 @@
+Kangaskhan @ Pecha Berry
+Ability: Scrappy
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 148 SpA / 4 SpD / 4 Spe
+Rash Nature
+IVs: 15 Def / 15 SpD / 15 Spe
+- Thunderbolt
+- Focus Punch
+- Ice Beam
+- Drain Punch
+
+Luxray @ Shuca Berry
+Ability: Intimidate
+Level: 50
+EVs: 204 HP / 60 Def / 204 SpA
+Quiet Nature
+IVs: 20 Atk / 20 SpD / 20 Spe
+- Charge
+- Charge Beam
+- Thunderbolt
+- Flash
+
+Toxicroak @ Black Glasses
+Ability: Dry Skin
+Level: 50
+EVs: 60 HP / 204 Atk / 204 Spe
+Adamant Nature
+IVs: 20 Def / 0 SpA / 20 SpD
+- Poison Jab
+- Drain Punch
+- Sucker Punch
+- Flatter

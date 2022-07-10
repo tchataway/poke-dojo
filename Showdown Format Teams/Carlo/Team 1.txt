@@ -1,0 +1,30 @@
+Heatran @ Quick Claw
+Ability: Flash Fire
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Explosion
+- Fire Fang
+- Crunch
+- Iron Head
+
+Arcanine @ Salac Berry
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Endure
+- Reversal
+- Flare Blitz
+- Play Rough
+
+Latios @ Expert Belt
+Ability: Levitate
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Psychic
+- Dragon Pulse
+- Ice Beam
+- Shadow Ball

@@ -1,0 +1,32 @@
+Omanyte @ Sitrus Berry
+Ability: Shell Armor
+Level: 50
+EVs: 108 HP / 108 Atk
+Quirky Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Mud Shot
+- Water Gun
+- Ancient Power
+- Tickle
+
+Corsola @ Focus Sash
+Ability: Natural Cure
+Level: 50
+EVs: 108 HP / 108 SpA
+Impish Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Bubble Beam
+- Mirror Coat
+- Attract
+- Ancient Power
+
+Poliwhirl @ Petaya Berry
+Ability: Water Absorb
+Level: 50
+EVs: 108 HP / 108 SpA
+Quirky Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Water Pulse
+- Earth Power
+- Hypnosis
+- Rain Dance

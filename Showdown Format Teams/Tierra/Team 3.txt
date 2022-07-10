@@ -1,0 +1,32 @@
+Bellossom @ Power Herb
+Ability: Chlorophyll
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Modest Nature
+IVs: 10 Atk / 10 Def / 10 SpD
+- Solar Beam
+- Safeguard
+- Sunny Day
+- Synthesis
+
+Carnivine @ Rose Incense
+Ability: Levitate
+Level: 50
+EVs: 148 HP / 148 Def / 148 SpD
+Sassy Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Power Whip
+- Crunch
+- Sweet Scent
+- Leech Seed
+
+Ninjask @ Petaya Berry
+Ability: Speed Boost
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Mild Nature
+IVs: 10 Def / 10 SpA / 10 SpD
+- Baton Pass
+- Swords Dance
+- Endure
+- Dig

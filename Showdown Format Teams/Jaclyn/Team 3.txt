@@ -1,0 +1,29 @@
+Flygon @ Choice Specs
+Ability: Levitate
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Boomburst
+- Draco Meteor
+- Earth Power
+- Flamethrower
+
+Slaking @ Sitrus Berry
+Ability: Truant
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Giga Impact
+- Earthquake
+- Night Slash
+- Hammer Arm
+
+Infernape @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Close Combat
+- Fire Punch
+- Fake Out
+- Mach Punch

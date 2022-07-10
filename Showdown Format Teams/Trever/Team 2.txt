@@ -1,0 +1,32 @@
+Bronzor @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 108 Atk / 108 SpA
+Hardy Nature
+IVs: 0 HP / 0 Def / 0 SpD / 0 Spe
+- Confusion
+- Hypnosis
+- Confuse Ray
+- Gyro Ball
+
+Poliwhirl @ Petaya Berry
+Ability: Water Absorb
+Level: 50
+EVs: 108 HP / 108 SpA
+Quirky Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Water Pulse
+- Earth Power
+- Hypnosis
+- Rain Dance
+
+Parasect @ Sticky Barb
+Ability: Effect Spore
+Level: 50
+EVs: 108 HP / 108 Spe
+Rash Nature
+IVs: 0 Atk / 0 Def / 0 SpA / 0 SpD
+- Slash
+- Psybeam
+- Spore
+- Flash

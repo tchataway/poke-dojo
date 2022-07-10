@@ -1,0 +1,32 @@
+Murkrow @ Wacan Berry
+Ability: Prankster
+Level: 50
+EVs: 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Dark Pulse
+- Fly
+- Torment
+- Taunt
+
+Yanma @ Lax Incense
+Ability: Speed Boost
+Level: 50
+EVs: 108 SpA / 108 Spe
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Bug Buzz
+- Air Slash
+- Double Team
+- Detect
+
+Munchlax @ Figy Berry
+Ability: Gluttony
+Level: 50
+EVs: 108 HP / 108 Def
+Relaxed Nature
+IVs: 0 Atk / 0 SpA / 0 SpD / 0 Spe
+- Metronome
+- Recycle
+- Stockpile
+- Fissure

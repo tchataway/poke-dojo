@@ -1,0 +1,32 @@
+Chimchar @ Sitrus Berry
+Ability: Blaze
+Level: 50
+EVs: 108 SpA / 108 Spe
+Timid Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Fire Spin
+- Double Team
+- Nasty Plot
+- Grass Knot
+
+Bonsly @ Passho Berry
+Ability: Sturdy
+Level: 50
+EVs: 108 HP / 108 SpD
+Careful Nature
+IVs: 0 Atk / 0 Def / 0 SpA / 0 Spe
+- Fake Tears
+- Rock Throw
+- Copycat
+- Low Kick
+
+Delibird @ Never-Melt Ice
+Ability: Vital Spirit
+Level: 50
+EVs: 108 HP / 108 Spe
+Docile Nature
+IVs: 0 Atk / 0 Def / 0 SpA / 0 SpD
+- Present
+- Ice Beam
+- Aerial Ace
+- Hail

@@ -1,0 +1,30 @@
+Lopunny @ Focus Band
+Ability: Limber
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Fire Punch
+- Charm
+- Encore
+- Thunder Punch
+
+Entei @ Wise Glasses
+Ability: Inner Focus
+Level: 50
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+- Lava Plume
+- Snarl
+- Calm Mind
+- Extrasensory
+
+Abomasnow @ Zoom Lens
+Ability: Snow Warning
+Level: 50
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Blizzard
+- Sheer Cold
+- Focus Blast
+- Water Pulse

@@ -1,0 +1,32 @@
+Solrock @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpD
+Quiet Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm
+
+Seadra @ Mystic Water
+Ability: Sniper
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Sassy Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Aurora Beam
+- Smokescreen
+- Water Gun
+- Rain Dance
+
+Furret @ Liechi Berry
+Ability: Keen Eye
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Serious Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Slam
+- Protect
+- Helping Hand
+- Follow Me

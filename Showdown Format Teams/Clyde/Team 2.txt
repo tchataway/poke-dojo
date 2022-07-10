@@ -1,0 +1,30 @@
+Gallade @ Kasib Berry
+Ability: Steadfast
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Psycho Cut
+- Close Combat
+- Shadow Sneak
+- Destiny Bond
+
+Gastrodon @ Rindo Berry
+Ability: Storm Drain
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Surf
+- Earth Power
+- Recover
+- Counter
+
+Ludicolo @ Lum Berry
+Ability: Swift Swim
+Level: 50
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Hydro Pump
+- Ice Beam
+- Grass Knot
+- Focus Blast

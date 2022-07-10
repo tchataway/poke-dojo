@@ -1,0 +1,32 @@
+Abomasnow @ Occa Berry
+Ability: Snow Warning
+Level: 50
+EVs: 204 HP / 60 Atk / 204 SpA
+Mild Nature
+IVs: 20 Def / 20 SpD / 20 Spe
+- Blizzard
+- Earthquake
+- Brick Break
+- Giga Drain
+
+Donphan @ Lum Berry
+Ability: Sturdy
+Level: 50
+EVs: 60 HP / 204 Atk / 20 Def / 20 SpD / 204 Spe
+Adamant Nature
+IVs: 20 Def / 0 SpA / 20 SpD
+- Earthquake
+- Ice Shard
+- Rock Slide
+- Play Rough
+
+Ampharos @ Toxic Orb
+Ability: Static
+Level: 50
+EVs: 204 HP / 60 Def / 204 SpD
+Mild Nature
+IVs: 20 Atk / 20 SpA / 0 Spe
+- Thunder Wave
+- Facade
+- Fling
+- Rest

@@ -1,0 +1,30 @@
+Lucario @ Lum Berry
+Ability: Inner Focus
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Close Combat
+- Meteor Mash
+- Ice Punch
+- Bullet Punch
+
+Flygon @ Focus Sash
+Ability: Levitate
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 Atk
+- Earthquake
+- Outrage
+- Thunder Punch
+- Dragon Dance
+
+Porygon-Z @ Silk Scarf
+Ability: Adaptability
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Tri Attack
+- Thunderbolt
+- Ice Beam
+- Shadow Ball

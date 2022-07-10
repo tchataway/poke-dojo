@@ -1,0 +1,32 @@
+Lickilicky @ Chesto Berry
+Ability: Own Tempo
+Level: 50
+EVs: 204 HP / 60 Atk / 204 SpD
+Careful Nature
+IVs: 20 Def / 0 SpA / 20 Spe
+- Belly Drum
+- Rest
+- Explosion
+- Earthquake
+
+Vileplume @ Big Root
+Ability: Chlorophyll
+Level: 50
+EVs: 148 HP / 4 Atk / 4 Def / 148 SpA / 148 SpD / 4 Spe
+Lax Nature
+IVs: 15 Atk / 15 Def / 15 Spe
+- Poison Powder
+- Sleep Powder
+- Stun Spore
+- Giga Drain
+
+Absol @ White Herb
+Ability: Pressure
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 148 SpD / 4 Spe
+Careful Nature
+IVs: 15 Def / 15 SpA / 15 Spe
+- Slash
+- Night Slash
+- Double Team
+- Taunt

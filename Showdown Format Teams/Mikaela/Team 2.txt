@@ -1,0 +1,32 @@
+Chimchar @ Sitrus Berry
+Ability: Blaze
+Level: 50
+EVs: 108 SpA / 108 Spe
+Timid Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Fire Spin
+- Double Team
+- Nasty Plot
+- Grass Knot
+
+Beedrill @ Focus Sash
+Ability: Swarm
+Level: 50
+EVs: 108 Atk / 108 Spe
+Jolly Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Poison Jab
+- Fell Stinger
+- Endeavor
+- Agility
+
+Pachirisu @ Shuca Berry
+Ability: Volt Absorb
+Level: 50
+EVs: 108 HP / 108 Spe
+Modest Nature
+IVs: 0 Atk / 0 Def / 0 SpA / 0 SpD
+- Discharge
+- Sweet Kiss
+- Quick Attack
+- Nuzzle

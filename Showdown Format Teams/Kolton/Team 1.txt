@@ -1,0 +1,32 @@
+Cacturne @ Scope Lens
+Ability: Water Absorb
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Jolly Nature
+IVs: 10 Def / 10 SpA / 10 SpD
+- Seed Bomb
+- Sucker Punch
+- Poison Jab
+- Revenge
+
+Crawdaunt @ Choice Band
+Ability: Adaptability
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Adamant Nature
+IVs: 10 Def / 10 SpA / 10 SpD
+- Superpower
+- Rock Slide
+- Knock Off
+- Aqua Jet
+
+Torkoal @ Sitrus Berry
+Ability: Drought
+Level: 50
+EVs: 148 HP / 148 Def / 148 SpD
+Relaxed Nature
+IVs: 10 Atk / 10 SpA / 10 Spe
+- Lava Plume
+- Earthquake
+- Stealth Rock
+- Yawn

@@ -1,0 +1,32 @@
+Espeon @ Light Clay
+Ability: Magic Bounce
+Level: 50
+EVs: 252 HP / 4 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Reflect
+- Dazzling Gleam
+- Baton Pass
+- Light Screen
+
+Blaziken @ Expert Belt
+Ability: Speed Boost
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Flare Blitz
+- Close Combat
+- Thunder Punch
+- Swords Dance
+
+Clefable @ Sitrus Berry
+Ability: Unaware
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 0 Atk
+- Moonblast
+- Calm Mind
+- Minimize
+- Moonlight

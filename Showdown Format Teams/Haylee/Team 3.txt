@@ -1,0 +1,30 @@
+Swampert @ Sitrus Berry
+Ability: Damp
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Waterfall
+- Earthquake
+- Yawn
+- Counter
+
+Togekiss @ Choice Scarf
+Ability: Serene Grace
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Air Slash
+- Dazzling Gleam
+- Grass Knot
+- Fire Blast
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance

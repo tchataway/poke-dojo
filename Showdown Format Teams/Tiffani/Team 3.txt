@@ -1,0 +1,30 @@
+Mismagius @ Spell Tag
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Relaxed Nature
+- Shadow Ball
+- Payback
+- Energy Ball
+- Psychic
+
+Glalie @ Scope Lens
+Ability: Moody
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Ice Beam
+- Shadow Ball
+- Water Pulse
+- Safeguard
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+IVs: 0 SpA
+- Earthquake
+- Ice Fang
+- Slack Off
+- Yawn

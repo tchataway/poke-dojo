@@ -1,0 +1,32 @@
+Ursaring @ Flame Orb
+Ability: Guts
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Facade
+- Aerial Ace
+- Sleep Talk
+- Rest
+
+Porygon2 @ Wise Glasses
+Ability: Trace
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 0 Atk
+- Ice Beam
+- Defense Curl
+- Recover
+- Tri Attack
+
+Granbull @ Quick Claw
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Ice Fang
+- Stone Edge
+- Crunch
+- Earthquake

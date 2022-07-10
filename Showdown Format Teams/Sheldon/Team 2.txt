@@ -1,0 +1,32 @@
+Masquerain @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Timid Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Hydro Pump
+- Air Slash
+- Bug Buzz
+- Stun Spore
+
+Qwilfish @ Cheri Berry
+Ability: Intimidate
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpD
+Impish Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Bubble Beam
+- Pin Missile
+- Spikes
+- Minimize
+
+Quilava @ Focus Band
+Ability: Blaze
+Level: 50
+EVs: 108 HP / 108 Atk / 108 SpD
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 Spe
+- Flame Wheel
+- Fury Swipes
+- Swift
+- Smokescreen

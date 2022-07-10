@@ -1,0 +1,32 @@
+Metang @ Focus Band
+Ability: Clear Body
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Hardy Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Metal Claw
+- Confusion
+- Take Down
+- Scary Face
+
+Mawile @ Bright Powder
+Ability: Intimidate
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Crunch
+- Fake Tears
+- Iron Defense
+- Baton Pass
+
+Poliwhirl @ Petaya Berry
+Ability: Water Absorb
+Level: 50
+EVs: 108 HP / 108 SpA
+Quirky Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Water Pulse
+- Earth Power
+- Hypnosis
+- Rain Dance

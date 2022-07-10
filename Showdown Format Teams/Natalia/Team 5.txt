@@ -1,0 +1,32 @@
+Pelipper @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 0 Atk
+- Hydro Pump
+- Ice Beam
+- Hurricane
+- U-turn
+
+Relicanth @ Figy Berry
+Ability: Swift Swim
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Waterfall
+- Head Smash
+- Earthquake
+- Body Press
+
+Zapdos @ Life Orb
+Ability: Static
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Thunder
+- Hurricane
+- Heat Wave
+- Volt Switch

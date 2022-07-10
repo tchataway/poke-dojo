@@ -1,0 +1,31 @@
+Crobat @ Sharp Beak
+Ability: Inner Focus
+Level: 50
+EVs: 36 HP / 220 Atk / 252 Spe
+Jolly Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Brave Bird
+- Zen Headbutt
+- Cross Poison
+- U-turn
+
+Dragonite @ Wide Lens
+Ability: Multiscale
+Level: 50
+EVs: 36 HP / 252 Atk / 220 Spe
+Adamant Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Outrage
+- Aqua Tail
+- Iron Tail
+- Stone Edge
+
+Probopass @ Rock Incense
+Ability: Sturdy
+Level: 50
+EVs: 220 HP / 44 Atk / 220 Def
+Impish Nature
+- Rock Polish
+- Stealth Rock
+- Lock-on
+- Stone Edge

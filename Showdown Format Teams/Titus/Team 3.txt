@@ -1,0 +1,30 @@
+Rampardos @ Choice Scarf
+Ability: Mold Breaker
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Head Smash
+- Zen Headbutt
+- Earthquake
+- Iron Head
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance
+
+Honchkrow @ Black Glasses
+Ability: Moxie
+Level: 50
+EVs: 156 HP / 252 Atk / 100 Def
+Adamant Nature
+- Night Slash
+- Sucker Punch
+- Brave Bird
+- Thunder Wave

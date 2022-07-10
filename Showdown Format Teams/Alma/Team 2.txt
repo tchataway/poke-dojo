@@ -1,0 +1,32 @@
+Tangrowth @ Big Root
+Ability: Regenerator
+Level: 50
+EVs: 220 HP / 44 SpA / 220 SpD
+Calm Nature
+IVs: 0 Atk / 25 Def / 25 Spe
+- Leech Seed
+- Double Team
+- Stun Spore
+- Giga Drain
+
+Slaking @ Sitrus Berry
+Ability: Truant
+Level: 50
+EVs: 44 HP / 220 Atk / 220 SpD
+Careful Nature
+IVs: 25 Def / 0 SpA / 25 Spe
+- Counter
+- Encore
+- Body Slam
+- Slack Off
+
+Meganium @ Occa Berry
+Ability: Overgrow
+Level: 50
+EVs: 44 HP / 220 SpA / 220 Spe
+Modest Nature
+IVs: 0 Atk / 25 Def / 25 SpD
+- Solar Beam
+- Sunny Day
+- Synthesis
+- Ancient Power

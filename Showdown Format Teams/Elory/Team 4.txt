@@ -1,0 +1,32 @@
+Haunter @ Persim Berry
+Ability: Levitate
+Level: 50
+EVs: 108 Atk / 108 Spe
+Rash Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Shadow Punch
+- Confuse Ray
+- Spite
+- Grudge
+
+Aipom @ Silk Scarf
+Ability: Skill Link
+Level: 50
+EVs: 108 Atk / 108 Spe
+Jolly Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Fury Swipes
+- Sand Attack
+- Baton Pass
+- Agility
+
+Wailmer @ Mystic Water
+Ability: Oblivious
+Level: 50
+EVs: 108 HP / 108 Def
+Docile Nature
+IVs: 0 Atk / 0 SpA / 0 SpD / 0 Spe
+- Whirlpool
+- Roar
+- Defense Curl
+- Rollout

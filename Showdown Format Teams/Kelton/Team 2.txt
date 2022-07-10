@@ -1,0 +1,32 @@
+Lapras @ Sitrus Berry
+Ability: Shell Armor
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpD
+Calm Nature
+IVs: 0 Atk
+- Sheer Cold
+- Sleep Talk
+- Rest
+- Double Team
+
+Vespiquen @ Leftovers
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 252 SpD / 4 Spe
+Careful Nature
+IVs: 0 Atk
+- Double Team
+- Defend Order
+- Roost
+- Toxic
+
+Raichu @ Focus Band
+Ability: Lightning Rod
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Thunder Punch
+- Feint
+- Brick Break
+- Double Team

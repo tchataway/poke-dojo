@@ -1,0 +1,29 @@
+Flareon @ White Herb
+Ability: Flash Fire
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+- Overheat
+- Giga Impact
+- Iron Tail
+- Quick Attack
+
+Zapdos @ Focus Band
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 4 SpA / 252 Spe
+Docile Nature
+- Roost
+- Ancient Power
+- Drill Peck
+- Discharge
+
+Regigigas @ Leftovers
+Ability: Slow Start
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+- Substitute
+- Double Team
+- Thunder Wave
+- Ice Punch

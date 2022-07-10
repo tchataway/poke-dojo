@@ -1,0 +1,32 @@
+Wartortle @ Focus Band
+Ability: Torrent
+Level: 50
+EVs: 108 HP / 108 Atk / 108 SpD
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 Spe
+- Aqua Tail
+- Bite
+- Rapid Spin
+- Yawn
+
+Arbok @ Persim Berry
+Ability: Intimidate
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Poison Fang
+- Dig
+- Bite
+- Glare
+
+Bibarel @ Metronome
+Ability: Simple
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Def
+Adamant Nature
+IVs: 0 SpA / 0 SpD / 0 Spe
+- Defense Curl
+- Rollout
+- Waterfall
+- Yawn

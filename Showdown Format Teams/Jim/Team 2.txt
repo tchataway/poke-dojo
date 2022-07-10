@@ -1,0 +1,32 @@
+Rapidash @ Chesto Berry
+Ability: Flame Body
+Level: 50
+EVs: 60 HP / 204 SpA / 204 Spe
+Modest Nature
+IVs: 0 Atk / 20 Def / 20 SpD
+- Sunny Day
+- Fire Blast
+- Solar Beam
+- Rest
+
+Porygon2 @ Leftovers
+Ability: Analytic
+Level: 50
+EVs: 204 HP / 60 SpA / 204 SpD
+Calm Nature
+IVs: 0 Atk / 20 Def / 20 Spe
+- Magnet Rise
+- Conversion
+- Recover
+- Charge Beam
+
+Claydol @ Hard Stone
+Ability: Levitate
+Level: 50
+EVs: 204 HP / 204 Atk / 60 SpA
+Hardy Nature
+IVs: 20 Def / 20 SpD / 20 Spe
+- Rock Polish
+- Earthquake
+- Rock Slide
+- Psychic

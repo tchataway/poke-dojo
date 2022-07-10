@@ -1,0 +1,30 @@
+Raikou @ Wise Glasses
+Ability: Pressure
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Shadow Ball
+- Scald
+- Thunderbolt
+- Volt Switch
+
+Alakazam @ Colbur Berry
+Ability: Magic Guard
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Psychic
+- Calm Mind
+- Shadow Ball
+- Future Sight
+
+Pinsir @ Bright Powder
+Ability: Mold Breaker
+Level: 50
+EVs: 4 HP / 252 Atk / 252 SpD
+Careful Nature
+- Bulk Up
+- Earthquake
+- X-scissor
+- Stone Edge

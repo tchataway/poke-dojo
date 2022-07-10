@@ -1,0 +1,30 @@
+Entei @ Passho Berry
+Ability: Inner Focus
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Fire Fang
+- Iron Tail
+- Bite
+- Double Team
+
+Tauros @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Double-edge
+- Payback
+- Stone Edge
+- Substitute
+
+Jynx @ Wise Glasses
+Ability: Dry Skin
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Ice Beam
+- Psychic
+- Focus Blast
+- Shadow Ball

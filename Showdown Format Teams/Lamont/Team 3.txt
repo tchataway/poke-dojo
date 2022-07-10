@@ -1,0 +1,32 @@
+Turtwig @ Occa Berry
+Ability: Overgrow
+Level: 50
+EVs: 108 HP / 108 Atk
+Brave Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Grass Knot
+- Bite
+- Curse
+- Withdraw
+
+Squirtle @ Sitrus Berry
+Ability: Torrent
+Level: 50
+EVs: 108 HP / 108 SpA
+Modest Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Water Pulse
+- Brine
+- Ice Beam
+- Protect
+
+Magnemite @ Rawst Berry
+Ability: Sturdy
+Level: 50
+EVs: 108 HP / 108 SpA
+Modest Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Shock Wave
+- Supersonic
+- Metal Sound
+- Reflect

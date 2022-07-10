@@ -1,0 +1,31 @@
+Empoleon @ Chesto Berry
+Ability: Torrent
+Level: 50
+EVs: 148 HP / 4 Atk / 4 Def / 148 SpA / 148 SpD / 4 Spe
+Calm Nature
+IVs: 15 Atk / 15 Def / 15 Spe
+- Aqua Ring
+- Double Team
+- Whirlpool
+- Rest
+
+Banette @ Rawst Berry
+Ability: Cursed Body
+Level: 50
+EVs: 148 HP / 148 Def / 148 SpD
+Sassy Nature
+- Night Shade
+- Will-o-wisp
+- Spite
+- Knock Off
+
+Camerupt @ Sitrus Berry
+Ability: Solid Rock
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Quirky Nature
+IVs: 10 Atk / 10 Def / 10 SpD
+- Eruption
+- Protect
+- Sandstorm
+- Rock Slide

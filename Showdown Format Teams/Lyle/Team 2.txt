@@ -1,0 +1,30 @@
+Garchomp @ Focus Sash
+Ability: Rough Skin
+Level: 50
+EVs: 252 Atk / 4 SpA / 252 Spe
+Naive Nature
+- Draco Meteor
+- Earthquake
+- Rock Tomb
+- Stealth Rock
+
+Bronzong @ Custap Berry
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+IVs: 0 Spe
+- Gyro Ball
+- Body Press
+- Iron Defense
+- Earthquake
+
+Latias @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Mist Ball
+- Dragon Pulse
+- Calm Mind
+- Safeguard

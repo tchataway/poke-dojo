@@ -1,0 +1,32 @@
+Bronzong @ Twisted Spoon
+Ability: Levitate
+Level: 50
+EVs: 204 HP / 60 Def / 204 SpA
+Quiet Nature
+IVs: 20 Def / 20 SpD / 0 Spe
+- Trick Room
+- Gyro Ball
+- Flash Cannon
+- Hypnosis
+
+Feraligatr @ King's Rock
+Ability: Torrent
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Jolly Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Scary Face
+- Waterfall
+- Rock Slide
+- Ice Fang
+
+Marowak @ Thick Club
+Ability: Battle Armor
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Jolly Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Brick Break
+- Earthquake
+- Rock Tomb
+- Iron Head

@@ -1,0 +1,32 @@
+Chikorita @ Bright Powder
+Ability: Overgrow
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Body Slam
+- Bullet Seed
+- Growl
+- Light Screen
+
+Ariados @ Focus Sash
+Ability: Insomnia
+Level: 50
+EVs: 108 HP / 108 Spe
+Timid Nature
+IVs: 0 Atk / 0 Def / 0 SpA / 0 SpD
+- Sticky Web
+- Toxic Spikes
+- Night Shade
+- Toxic Thread
+
+Kadabra @ Twisted Spoon
+Ability: Inner Focus
+Level: 50
+EVs: 108 SpA / 108 Spe
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Confusion
+- Role Play
+- Future Sight
+- Disable

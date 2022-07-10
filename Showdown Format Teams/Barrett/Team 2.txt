@@ -1,0 +1,30 @@
+Manectric @ Damp Rock
+Ability: Lightning Rod
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Rain Dance
+- Thunder
+- Thunder Wave
+- Hyper Beam
+
+Rhydon @ Passho Berry
+Ability: Lightning Rod
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+- Earthquake
+- Hammer Arm
+- Shadow Claw
+- Stone Edge
+
+Granbull @ Muscle Band
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Fire Fang
+- Play Rough
+- Brick Break
+- Thunder Fang

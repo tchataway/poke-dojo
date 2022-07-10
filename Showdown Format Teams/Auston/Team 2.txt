@@ -1,0 +1,32 @@
+Rhyperior @ Zoom Lens
+Ability: Solid Rock
+Level: 50
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+IVs: 0 SpA
+- Stone Edge
+- Megahorn
+- Dragon Rush
+- Avalanche
+
+Medicham @ Salac Berry
+Ability: Pure Power
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Endure
+- Reversal
+- Psycho Cut
+- Thunder Punch
+
+Electrode @ Shuca Berry
+Ability: Aftermath
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Magnet Rise
+- Charge Beam
+- Hyper Beam
+- Thunder Wave

@@ -1,0 +1,32 @@
+Weepinbell @ Aguav Berry
+Ability: Gluttony
+Level: 50
+EVs: 108 HP / 108 SpA
+Quiet Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Razor Leaf
+- Acid
+- Wrap
+- Sweet Scent
+
+Wartortle @ Focus Band
+Ability: Torrent
+Level: 50
+EVs: 108 HP / 108 Atk / 108 SpD
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 Spe
+- Aqua Tail
+- Bite
+- Rapid Spin
+- Yawn
+
+Linoone @ Sitrus Berry
+Ability: Gluttony
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Extreme Speed
+- Sand Attack
+- Covet
+- Tickle

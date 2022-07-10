@@ -1,0 +1,32 @@
+Infernape @ Coba Berry
+Ability: Blaze
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Quirky Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Fake Out
+- Mach Punch
+- U-turn
+- Overheat
+
+Kangaskhan @ Pecha Berry
+Ability: Scrappy
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 148 SpA / 4 SpD / 4 Spe
+Rash Nature
+IVs: 15 Def / 15 SpD / 15 Spe
+- Thunderbolt
+- Focus Punch
+- Ice Beam
+- Drain Punch
+
+Golem @ Liechi Berry
+Ability: Sturdy
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Jolly Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Endure
+- Earthquake
+- Flail
+- Rock Tomb

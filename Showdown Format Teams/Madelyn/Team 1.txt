@@ -1,0 +1,30 @@
+Latios @ Expert Belt
+Ability: Levitate
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Psychic
+- Dragon Pulse
+- Ice Beam
+- Shadow Ball
+
+Granbull @ Quick Claw
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Ice Fang
+- Stone Edge
+- Crunch
+- Earthquake
+
+Sceptile @ Occa Berry
+Ability: Overgrow
+Level: 50
+EVs: 4 Atk / 252 SpA / 252 Spe
+Serious Nature
+- Leaf Storm
+- Aerial Ace
+- Leaf Blade
+- Focus Blast

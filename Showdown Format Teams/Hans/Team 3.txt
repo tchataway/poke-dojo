@@ -1,0 +1,29 @@
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 252 HP / 4 Def / 252 Spe
+Bold Nature
+- Scald
+- Ice Beam
+- Protect
+- Perish Song
+
+Registeel @ Life Orb
+Ability: Clear Body
+Level: 50
+EVs: 4 HP / 252 Atk / 252 SpA
+Brave Nature
+- Explosion
+- Iron Head
+- Flash Cannon
+- Thunderbolt
+
+Claydol @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Iron Defense
+- Body Press
+- Ice Beam
+- Earth Power

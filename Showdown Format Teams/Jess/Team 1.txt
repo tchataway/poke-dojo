@@ -1,0 +1,30 @@
+Froslass @ Lax Incense
+Ability: Cursed Body
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Light Screen
+- Ice Beam
+- Shadow Ball
+- Psychic
+
+Swampert @ Sitrus Berry
+Ability: Torrent
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+- Waterfall
+- Earthquake
+- Ice Punch
+- Curse
+
+Mamoswine @ Leftovers
+Ability: Thick Fat
+Level: 50
+EVs: 252 HP / 4 Atk / 252 SpD
+Careful Nature
+IVs: 0 SpA
+- Fissure
+- Double Team
+- Avalanche
+- Earthquake

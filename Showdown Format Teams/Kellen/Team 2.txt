@@ -1,0 +1,32 @@
+Gengar @ Focus Sash
+Ability: Cursed Body
+Level: 50
+EVs: 60 HP / 204 SpA / 204 Spe
+Timid Nature
+IVs: 0 Atk / 20 Def / 20 SpD
+- Shadow Ball
+- Psychic
+- Energy Ball
+- Focus Blast
+
+Lapras @ Lum Berry
+Ability: Shell Armor
+Level: 50
+EVs: 44 HP / 220 Atk / 220 Spe
+Adamant Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Dragon Dance
+- Body Slam
+- Waterfall
+- Ice Shard
+
+Blaziken @ Life Orb
+Ability: Blaze
+Level: 50
+EVs: 68 HP / 220 Atk / 220 Spe
+Jolly Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Protect
+- Close Combat
+- Flare Blitz
+- Baton Pass

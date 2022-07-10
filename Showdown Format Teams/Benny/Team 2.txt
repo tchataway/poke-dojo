@@ -1,0 +1,29 @@
+Glaceon @ Focus Sash
+Ability: Ice Body
+Level: 50
+EVs: 252 Atk / 4 Def / 252 Spe
+Naughty Nature
+- Hyper Beam
+- Mirror Coat
+- Avalanche
+- Freeze-dry
+
+Magmortar @ Wiki Berry
+Ability: Flame Body
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Docile Nature
+- Earthquake
+- Flamethrower
+- Thunderbolt
+- Will-o-wisp
+
+Electrode @ Jaboca Berry
+Ability: Aftermath
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Thunderbolt
+- Volt Switch
+- Swift
+- Thunder Wave

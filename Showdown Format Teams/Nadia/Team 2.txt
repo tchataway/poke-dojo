@@ -1,0 +1,32 @@
+Lanturn @ Expert Belt
+Ability: Volt Absorb
+Level: 50
+EVs: 252 HP / 4 SpA / 252 SpD
+Calm Nature
+IVs: 0 Atk
+- Thunderbolt
+- Charge
+- Scald
+- Surf
+
+Absol @ Focus Sash
+Ability: Pressure
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Swagger
+- Night Slash
+- Sucker Punch
+- Taunt
+
+Gengar @ Payapa Berry
+Ability: Cursed Body
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Explosion
+- Thunder Punch
+- Poison Jab
+- Shadow Claw

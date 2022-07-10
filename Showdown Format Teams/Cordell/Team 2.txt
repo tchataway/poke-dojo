@@ -1,0 +1,32 @@
+Solrock @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpD
+Quiet Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm
+
+Sneasel @ Focus Sash
+Ability: Pickpocket
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Ice Shard
+- Fake Out
+- Ice Punch
+- Throat Chop
+
+Mothim @ Coba Berry
+Ability: Tinted Lens
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Modest Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Psybeam
+- Gust
+- Poison Powder
+- Bug Buzz

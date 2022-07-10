@@ -1,0 +1,30 @@
+Bulbasaur @ Bright Powder
+Ability: Overgrow
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Razor Leaf
+- Take Down
+- Sleep Powder
+- Leech Seed
+
+Croagunk @ Black Sludge
+Ability: Poison Touch
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+- Poison Jab
+- Mud-slap
+- Taunt
+- Swagger
+
+Drifloon @ Grip Claw
+Ability: Aftermath
+Level: 50
+EVs: 108 HP / 108 Spe
+Quirky Nature
+- Shadow Ball
+- Will-o-wisp
+- Gust
+- Astonish

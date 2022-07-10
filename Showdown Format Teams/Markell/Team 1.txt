@@ -1,0 +1,32 @@
+Skuntank @ Bright Powder
+Ability: Aftermath
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Jolly Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Explosion
+- Night Slash
+- Poison Jab
+- Play Rough
+
+Bastiodon @ Custap Berry
+Ability: Sturdy
+Level: 50
+EVs: 60 HP / 204 Atk / 204 Spe
+Adamant Nature
+IVs: 20 Def / 0 SpA / 20 SpD
+- Metal Burst
+- Taunt
+- Iron Head
+- Stone Edge
+
+Ursaring @ Flame Orb
+Ability: Guts
+Level: 50
+EVs: 60 HP / 204 Atk / 204 Spe
+Adamant Nature
+IVs: 20 Def / 0 SpA / 20 SpD
+- Facade
+- Earthquake
+- Rock Tomb
+- Protect

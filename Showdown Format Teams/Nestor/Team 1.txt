@@ -1,0 +1,31 @@
+Croagunk @ Black Sludge
+Ability: Poison Touch
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+- Poison Jab
+- Mud-slap
+- Taunt
+- Swagger
+
+Chikorita @ Leftovers
+Ability: Overgrow
+Level: 50
+EVs: 108 HP / 108 Def
+Bold Nature
+IVs: 0 Atk / 0 SpA / 0 SpD / 0 Spe
+- Magical Leaf
+- Reflect
+- Synthesis
+- Poison Powder
+
+Luvdisc @ Quick Claw
+Ability: Swift Swim
+Level: 50
+EVs: 108 HP / 108 Def
+Relaxed Nature
+IVs: 0 Atk / 0 SpA / 0 SpD / 0 Spe
+- Sweet Kiss
+- Attract
+- Water Pulse
+- Rain Dance

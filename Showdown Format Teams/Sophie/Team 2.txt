@@ -1,0 +1,32 @@
+Empoleon @ Wacan Berry
+Ability: Torrent
+Level: 50
+EVs: 220 Atk / 220 SpA / 44 Spe
+Docile Nature
+IVs: 0 HP / 25 Def / 25 SpD
+- Drill Peck
+- Brick Break
+- Aqua Jet
+- Ice Beam
+
+Roserade @ Big Root
+Ability: Poison Point
+Level: 50
+EVs: 204 HP / 204 Def / 60 SpA
+Bold Nature
+IVs: 0 Atk / 20 SpD / 20 Spe
+- Leech Seed
+- Ingrain
+- Giga Drain
+- Substitute
+
+Politoed @ Quick Claw
+Ability: Drizzle
+Level: 50
+EVs: 204 HP / 60 Atk / 204 Def
+Impish Nature
+IVs: 0 SpA / 20 SpD / 20 Spe
+- Perish Song
+- Ice Beam
+- Surf
+- Hypnosis

@@ -1,0 +1,32 @@
+Shinx @ King's Rock
+Ability: Intimidate
+Level: 50
+EVs: 108 Atk / 108 Spe
+Jolly Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Spark
+- Bite
+- Roar
+- Leer
+
+Totodile @ Wacan Berry
+Ability: Torrent
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Waterfall
+- Aerial Ace
+- Slash
+- Screech
+
+Buneary @ Black Belt
+Ability: Limber
+Level: 50
+EVs: 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Bounce
+- Quick Attack
+- Charm
+- Splash

@@ -1,0 +1,31 @@
+Lanturn @ Expert Belt
+Ability: Volt Absorb
+Level: 50
+EVs: 252 HP / 4 SpA / 252 SpD
+Calm Nature
+IVs: 0 Atk
+- Thunderbolt
+- Charge
+- Scald
+- Surf
+
+Glaceon @ Focus Sash
+Ability: Ice Body
+Level: 50
+EVs: 252 Atk / 4 Def / 252 Spe
+Naughty Nature
+- Hyper Beam
+- Mirror Coat
+- Avalanche
+- Freeze-dry
+
+Ninetales @ White Herb
+Ability: Drought
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Solar Beam
+- Overheat
+- Psyshock
+- Nasty Plot

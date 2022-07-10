@@ -1,0 +1,31 @@
+Scizor @ Choice Band
+Ability: Technician
+Level: 50
+EVs: 204 HP / 204 Atk / 60 Def
+Adamant Nature
+IVs: 0 SpA / 20 SpD / 20 Spe
+- Bullet Punch
+- Quick Attack
+- U-turn
+- Thief
+
+Blaziken @ Shell Bell
+Ability: Blaze
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Adamant Nature
+- Aerial Ace
+- Flare Blitz
+- Will-o-wisp
+- Bulk Up
+
+Manectric @ Magnet
+Ability: Lightning Rod
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Jolly Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Spark
+- Ice Fang
+- Bite
+- Howl

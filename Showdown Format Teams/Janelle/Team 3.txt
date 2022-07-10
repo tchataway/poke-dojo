@@ -1,0 +1,32 @@
+Cherrim @ Miracle Seed
+Ability: Flower Gift
+Level: 50
+EVs: 108 HP / 108 Atk / 108 SpA
+Hardy Nature
+IVs: 0 Def / 0 SpD / 0 Spe
+- Petal Dance
+- Weather Ball
+- Leech Seed
+- Sunny Day
+
+Dragonair @ Cheri Berry
+Ability: Shed Skin
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Docile Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Dragon Breath
+- Leer
+- Wrap
+- Safeguard
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpA
+Quiet Nature
+IVs: 0 Atk / 0 SpD / 0 Spe
+- Water Pulse
+- Aerial Ace
+- Stockpile
+- Swallow

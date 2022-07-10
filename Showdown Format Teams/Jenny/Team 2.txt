@@ -1,0 +1,31 @@
+Vulpix @ Focus Sash
+Ability: Drought
+Level: 50
+EVs: 108 SpA / 108 Spe
+Modest Nature
+- Will-o-wisp
+- Confuse Ray
+- Fire Spin
+- Quick Attack
+
+Geodude @ Sitrus Berry
+Ability: Sturdy
+Level: 50
+EVs: 108 HP / 108 Atk
+Brave Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Bulldoze
+- Rock Blast
+- Strength
+- Protect
+
+Chinchou @ Lax Incense
+Ability: Volt Absorb
+Level: 50
+EVs: 108 HP / 108 Spe
+Hardy Nature
+IVs: 0 Atk / 0 Def / 0 SpA / 0 SpD
+- Spark
+- Bubble Beam
+- Confuse Ray
+- Take Down

@@ -1,0 +1,31 @@
+Breloom @ Toxic Orb
+Ability: Poison Heal
+Level: 50
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Spore
+- Substitute
+- Bulk Up
+- Rock Tomb
+
+Arcanine @ Salac Berry
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Endure
+- Reversal
+- Flare Blitz
+- Play Rough
+
+Golduck @ Muscle Band
+Ability: Cloud Nine
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Swagger
+- Psych Up
+- Waterfall
+- Cross Chop

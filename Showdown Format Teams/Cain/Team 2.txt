@@ -1,0 +1,29 @@
+Regice @ Shell Bell
+Ability: Clear Body
+Level: 50
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Ice Beam
+- Thunderbolt
+- Hyper Beam
+- Flash Cannon
+
+Armaldo @ Focus Band
+Ability: Battle Armor
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+- Sandstorm
+- Brick Break
+- Aerial Ace
+- Giga Impact
+
+Suicune @ Chesto Berry
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 252 SpD / 4 Spe
+Calm Nature
+- Calm Mind
+- Rest
+- Scald
+- Ice Beam

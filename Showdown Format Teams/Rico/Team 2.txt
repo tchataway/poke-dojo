@@ -1,0 +1,32 @@
+Drapion @ Rawst Berry
+Ability: Battle Armor
+Level: 50
+EVs: 204 HP / 204 Atk / 60 Spe
+Adamant Nature
+IVs: 20 Def / 0 SpA / 20 SpD
+- Acupressure
+- Toxic Spikes
+- Crunch
+- Cross Poison
+
+Weavile @ Razor Claw
+Ability: Pressure
+Level: 50
+EVs: 60 HP / 204 Atk / 204 Spe
+Jolly Nature
+IVs: 20 Def / 0 SpA / 20 SpD
+- Night Slash
+- Ice Punch
+- Ice Shard
+- Shadow Claw
+
+Honchkrow @ Power Herb
+Ability: Super Luck
+Level: 50
+EVs: 60 HP / 204 Atk / 204 Spe
+Jolly Nature
+IVs: 20 Def / 0 SpA / 20 SpD
+- Night Slash
+- Sky Attack
+- Brave Bird
+- Payback

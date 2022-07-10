@@ -1,0 +1,32 @@
+Blastoise @ Iron Ball
+Ability: Torrent
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Def
+Brave Nature
+IVs: 15 SpA / 15 SpD / 15 Spe
+- Double Team
+- Focus Punch
+- Aqua Jet
+- Gyro Ball
+
+Granbull @ Razor Claw
+Ability: Intimidate
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Def / 4 SpA / 4 SpD / 4 Spe
+Brave Nature
+IVs: 15 SpA / 15 SpD / 15 Spe
+- Thunder Wave
+- Bite
+- Rock Slide
+- Giga Impact
+
+Sceptile @ Leftovers
+Ability: Overgrow
+Level: 50
+EVs: 148 HP / 4 Atk / 148 Def / 148 SpA / 4 SpD / 4 Spe
+Bold Nature
+IVs: 15 Atk / 15 SpD / 15 Spe
+- Leech Seed
+- Double Team
+- Dragon Pulse
+- Giga Drain

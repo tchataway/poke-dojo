@@ -1,0 +1,31 @@
+Nidoqueen @ Wide Lens
+Ability: Sheer Force
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Earth Power
+- Sludge Bomb
+- Fire Blast
+- Blizzard
+
+Cresselia @ Lum Berry
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Double Team
+- Moonlight
+- Calm Mind
+- Ice Beam
+
+Skuntank @ Leftovers
+Ability: Aftermath
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Dark Pulse
+- Flamethrower
+- Toxic
+- Double Team

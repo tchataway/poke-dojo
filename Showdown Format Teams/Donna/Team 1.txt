@@ -1,0 +1,32 @@
+Carnivine @ Rose Incense
+Ability: Levitate
+Level: 50
+EVs: 148 HP / 148 Def / 148 SpD
+Sassy Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Power Whip
+- Crunch
+- Sweet Scent
+- Leech Seed
+
+Slowbro @ Leftovers
+Ability: Oblivious
+Level: 50
+EVs: 148 HP / 4 Atk / 148 Def / 148 SpA / 4 SpD / 4 Spe
+Bold Nature
+IVs: 15 Atk / 15 SpD / 15 Spe
+- Calm Mind
+- Slack Off
+- Psychic
+- Surf
+
+Ludicolo @ Muscle Band
+Ability: Own Tempo
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Adamant Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Waterfall
+- Razor Leaf
+- Drain Punch
+- Swords Dance

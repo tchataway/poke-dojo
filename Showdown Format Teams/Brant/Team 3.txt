@@ -1,0 +1,29 @@
+Raikou @ Choice Specs
+Ability: Inner Focus
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Scald
+
+Snorlax @ Figy Berry
+Ability: Gluttony
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Def
+Adamant Nature
+- Body Slam
+- Curse
+- Heavy Slam
+- Yawn
+
+Entei @ Choice Band
+Ability: Inner Focus
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Sacred Fire
+- Extreme Speed
+- Crunch
+- Stone Edge

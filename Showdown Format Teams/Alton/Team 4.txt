@@ -1,0 +1,30 @@
+Politoed @ Bright Powder
+Ability: Drizzle
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 0 Atk
+- Surf
+- Focus Blast
+- Ice Beam
+- Perish Song
+
+Ampharos @ Chesto Berry
+Ability: Static
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Thunder Wave
+- Charge Beam
+- Dragon Pulse
+- Rest
+
+Blissey @ Leftovers
+Ability: Serene Grace
+Level: 50
+EVs: 252 Def / 252 SpA / 4 Spe
+Bold Nature
+- Soft-boiled
+- Tri Attack
+- Thunderbolt
+- Flamethrower

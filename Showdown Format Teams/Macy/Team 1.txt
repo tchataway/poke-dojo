@@ -1,0 +1,32 @@
+Tauros @ Lum Berry
+Ability: Intimidate
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Jolly Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Thrash
+- Zen Headbutt
+- Earthquake
+- Giga Impact
+
+Meganium @ Leftovers
+Ability: Overgrow
+Level: 50
+EVs: 148 HP / 148 SpA / 148 SpD
+Calm Nature
+IVs: 15 Atk / 15 Def / 15 Spe
+- Giga Drain
+- Leech Seed
+- Synthesis
+- Substitute
+
+Jynx @ Bright Powder
+Ability: Dry Skin
+Level: 50
+EVs: 148 HP / 4 Atk / 148 Def / 148 SpA / 4 SpD / 4 Spe
+Bold Nature
+IVs: 15 Atk / 15 SpD / 15 Spe
+- Mean Look
+- Perish Song
+- Protect
+- Lovely Kiss

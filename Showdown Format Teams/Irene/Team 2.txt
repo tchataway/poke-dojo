@@ -1,0 +1,32 @@
+Porygon-Z @ Choice Specs
+Ability: Download
+Level: 50
+EVs: 36 HP / 252 SpA / 220 Spe
+Modest Nature
+IVs: 0 Atk / 25 Def / 25 SpD
+- Tri Attack
+- Shadow Ball
+- Ice Beam
+- Thunderbolt
+
+Blaziken @ Life Orb
+Ability: Blaze
+Level: 50
+EVs: 68 HP / 220 Atk / 220 Spe
+Jolly Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Protect
+- Close Combat
+- Flare Blitz
+- Baton Pass
+
+Crobat @ Sharp Beak
+Ability: Inner Focus
+Level: 50
+EVs: 36 HP / 220 Atk / 252 Spe
+Jolly Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Brave Bird
+- Zen Headbutt
+- Cross Poison
+- U-turn

@@ -1,0 +1,29 @@
+Ambipom @ Muscle Band
+Ability: Technician
+Level: 50
+EVs: 20 HP / 244 Atk / 84 Def / 4 SpD / 156 Spe
+Jolly Nature
+- Double Hit
+- Thief
+- Dual Chop
+- Fake Out
+
+Jynx @ Odd Incense
+Ability: Dry Skin
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Lovely Kiss
+- Dream Eater
+- Sweet Kiss
+- Energy Ball
+
+Regice @ Chesto Berry
+Ability: Clear Body
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Ice Beam
+- Ancient Power
+- Charge Beam
+- Rest

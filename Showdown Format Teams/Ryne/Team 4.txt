@@ -1,0 +1,29 @@
+Milotic @ Life Orb
+Ability: Competitive
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Scald
+- Ice Beam
+- Hydro Pump
+- Dragon Pulse
+
+Magmortar @ Sitrus Berry
+Ability: Vital Spirit
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+- Fire Blast
+- Thunderbolt
+- Psychic
+- Belch
+
+Zapdos @ Magnet
+Ability: Static
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Discharge
+- Volt Switch
+- Roost
+- Hurricane

@@ -1,0 +1,32 @@
+Gengar @ Payapa Berry
+Ability: Cursed Body
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Explosion
+- Thunder Punch
+- Poison Jab
+- Shadow Claw
+
+Ludicolo @ Leftovers
+Ability: Rain Dish
+Level: 50
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+IVs: 0 Atk
+- Leech Seed
+- Double Team
+- Scald
+- Substitute
+
+Flygon @ Focus Sash
+Ability: Levitate
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 Atk
+- Earthquake
+- Outrage
+- Thunder Punch
+- Dragon Dance

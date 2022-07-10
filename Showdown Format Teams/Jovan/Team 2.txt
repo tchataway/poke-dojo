@@ -1,0 +1,32 @@
+Bayleef @ Bright Powder
+Ability: Overgrow
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Docile Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Razor Leaf
+- Synthesis
+- Safeguard
+- Light Screen
+
+Croconaw @ Scope Lens
+Ability: Torrent
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Def
+Docile Nature
+IVs: 0 SpA / 0 SpD / 0 Spe
+- Slash
+- Water Pulse
+- Bite
+- Scary Face
+
+Solrock @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpD
+Quiet Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm

@@ -1,0 +1,30 @@
+Politoed @ Salac Berry
+Ability: Drizzle
+Level: 50
+EVs: 252 HP / 252 SpD / 4 Spe
+Careful Nature
+- Belly Drum
+- Waterfall
+- Earthquake
+- Rest
+
+Gliscor @ Yache Berry
+Ability: Hyper Cutter
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Earthquake
+- Guillotine
+- Poison Jab
+- Thunder Fang
+
+Suicune @ Chesto Berry
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 252 SpD / 4 Spe
+Calm Nature
+- Calm Mind
+- Rest
+- Scald
+- Ice Beam

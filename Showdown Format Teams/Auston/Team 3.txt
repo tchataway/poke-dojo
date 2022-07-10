@@ -1,0 +1,29 @@
+Drifblim @ Sitrus Berry
+Ability: Unburden
+Level: 50
+EVs: 252 HP / 4 Def / 252 Spe
+Timid Nature
+- Baton Pass
+- Will-o-wisp
+- Strength Sap
+- Minimize
+
+Moltres @ Lax Incense
+Ability: Flame Body
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Mystical Fire
+- Hurricane
+- Will-o-wisp
+- Roost
+
+Latios @ Choice Specs
+Ability: Levitate
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Draco Meteor
+- Surf
+- Thunderbolt
+- Psychic

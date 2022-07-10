@@ -1,0 +1,32 @@
+Ludicolo @ Muscle Band
+Ability: Own Tempo
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Adamant Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Waterfall
+- Razor Leaf
+- Drain Punch
+- Swords Dance
+
+Hitmontop @ Liechi Berry
+Ability: Intimidate
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Def
+Hardy Nature
+IVs: 0 SpA / 0 SpD / 0 Spe
+- Triple Kick
+- Dig
+- Mach Punch
+- Fake Out
+
+Octillery @ Leftovers
+Ability: Moody
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Modest Nature
+IVs: 10 Atk / 10 Def / 10 SpD
+- Octazooka
+- Ice Beam
+- Psychic
+- Protect

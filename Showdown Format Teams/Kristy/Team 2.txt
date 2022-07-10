@@ -1,0 +1,30 @@
+Starmie @ Focus Sash
+Ability: Natural Cure
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Hydro Pump
+- Thunderbolt
+- Ice Beam
+- Psychic
+
+Ambipom @ Muscle Band
+Ability: Technician
+Level: 50
+EVs: 20 HP / 244 Atk / 84 Def / 4 SpD / 156 Spe
+Jolly Nature
+- Double Hit
+- Thief
+- Dual Chop
+- Fake Out
+
+Articuno @ Chesto Berry
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Agility
+- Ice Beam
+- Water Pulse
+- Rest

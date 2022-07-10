@@ -1,0 +1,30 @@
+Shuppet @ Rawst Berry
+Ability: Insomnia
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+- Will-o-wisp
+- Shadow Sneak
+- Grudge
+- Knock Off
+
+Torchic @ Sitrus Berry
+Ability: Blaze
+Level: 50
+EVs: 108 SpA / 108 Spe
+Timid Nature
+- Will-o-wisp
+- Feather Dance
+- Double Team
+- Flamethrower
+
+Skiploom @ Big Root
+Ability: Chlorophyll
+Level: 50
+EVs: 108 HP / 108 Spe
+Timid Nature
+IVs: 0 Atk / 0 Def / 0 SpA / 0 SpD
+- Mega Drain
+- Leech Seed
+- Cotton Spore
+- Synthesis

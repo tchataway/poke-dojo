@@ -1,0 +1,29 @@
+Scizor @ Sitrus Berry
+Ability: Technician
+Level: 50
+EVs: 236 HP / 252 Atk / 20 Def
+Adamant Nature
+- Bullet Punch
+- Thief
+- Roost
+- Swords Dance
+
+Lucario @ Lum Berry
+Ability: Inner Focus
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Close Combat
+- Meteor Mash
+- Ice Punch
+- Bullet Punch
+
+Breloom @ Focus Sash
+Ability: Technician
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Spore
+- Mach Punch
+- Counter
+- Bullet Seed

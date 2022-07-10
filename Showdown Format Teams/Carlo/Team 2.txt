@@ -1,0 +1,30 @@
+Tauros @ Chesto Berry
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Facade
+- Iron Tail
+- Rest
+
+Slowbro @ Lum Berry
+Ability: Regenerator
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 0 SpA
+- Yawn
+- Zen Headbutt
+- Earthquake
+- Brick Break
+
+Regirock @ Quick Claw
+Ability: Clear Body
+Level: 50
+EVs: 252 HP / 4 Atk / 252 SpD
+Careful Nature
+- Explosion
+- Stone Edge
+- Earthquake
+- Brick Break

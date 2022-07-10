@@ -1,0 +1,31 @@
+Porygon-Z @ Bright Powder
+Ability: Download
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 SpA
+- Thunderbolt
+- Ice Beam
+- Shadow Ball
+- Tri Attack
+
+Entei @ Passho Berry
+Ability: Inner Focus
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Fire Fang
+- Iron Tail
+- Bite
+- Double Team
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Outrage
+- Earthquake
+- Thunder Punch
+- Brick Break

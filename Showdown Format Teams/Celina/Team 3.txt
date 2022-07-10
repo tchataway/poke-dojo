@@ -1,0 +1,30 @@
+Electivire @ Wide Lens
+Ability: Motor Drive
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Relaxed Nature
+- Thunder
+- Dynamic Punch
+- Rock Slide
+- Iron Tail
+
+Electrode @ Shuca Berry
+Ability: Aftermath
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Magnet Rise
+- Charge Beam
+- Hyper Beam
+- Thunder Wave
+
+Drifblim @ Wise Glasses
+Ability: Aftermath
+Level: 50
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Hypnosis
+- Dream Eater
+- Charge Beam
+- Shadow Ball

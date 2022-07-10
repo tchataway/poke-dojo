@@ -1,0 +1,32 @@
+Skuntank @ Bright Powder
+Ability: Aftermath
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Jolly Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Explosion
+- Night Slash
+- Poison Jab
+- Play Rough
+
+Forretress @ Occa Berry
+Ability: Sturdy
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 148 SpD / 4 Spe
+Careful Nature
+IVs: 15 Def / 15 SpA / 15 Spe
+- Gyro Ball
+- Counter
+- Spikes
+- Toxic Spikes
+
+Whiscash @ Leftovers
+Ability: Hydration
+Level: 50
+EVs: 148 HP / 4 Atk / 148 Def / 148 SpA / 4 SpD / 4 Spe
+Relaxed Nature
+IVs: 15 Atk / 15 SpD / 15 Spe
+- Earthquake
+- Water Pulse
+- Tickle
+- Sandstorm

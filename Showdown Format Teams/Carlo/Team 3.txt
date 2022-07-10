@@ -1,0 +1,29 @@
+Raikou @ Choice Specs
+Ability: Inner Focus
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Scald
+
+Medicham @ Expert Belt
+Ability: Pure Power
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- High Jump Kick
+- Ice Punch
+- Fire Punch
+- Fake Out
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Scald
+- Acid Armor
+- Yawn
+- Baton Pass

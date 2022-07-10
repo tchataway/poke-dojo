@@ -1,0 +1,32 @@
+Weepinbell @ Aguav Berry
+Ability: Gluttony
+Level: 50
+EVs: 108 HP / 108 SpA
+Quiet Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Razor Leaf
+- Acid
+- Wrap
+- Sweet Scent
+
+Loudred @ Focus Band
+Ability: Scrappy
+Level: 50
+EVs: 108 HP / 108 SpA
+Modest Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Hyper Voice
+- Howl
+- Astonish
+- Supersonic
+
+Onix @ Sitrus Berry
+Ability: Sturdy
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Rock Slide
+- Bind
+- Dragon Breath
+- Sandstorm

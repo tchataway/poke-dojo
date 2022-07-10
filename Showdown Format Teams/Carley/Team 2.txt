@@ -1,0 +1,32 @@
+Electivire @ Cheri Berry
+Ability: Motor Drive
+Level: 50
+EVs: 220 HP / 44 Atk / 220 Def
+Impish Nature
+IVs: 0 SpA / 25 SpD / 25 Spe
+- Thunder Punch
+- Cross Chop
+- Thunder Wave
+- Screech
+
+Mamoswine @ Icy Rock
+Ability: Snow Cloak
+Level: 50
+EVs: 44 HP / 220 SpA / 220 Spe
+Modest Nature
+IVs: 0 Atk / 25 Def / 25 SpD
+- Hail
+- Blizzard
+- Mud Shot
+- Ancient Power
+
+Magnezone @ Quick Claw
+Ability: Sturdy
+Level: 50
+EVs: 44 HP / 220 SpA / 220 Spe
+Modest Nature
+IVs: 0 Atk / 25 Def / 25 SpD
+- Thunderbolt
+- Flash Cannon
+- Tri Attack
+- Volt Switch

@@ -1,0 +1,31 @@
+Sableye @ Black Glasses
+Ability: Prankster
+Level: 50
+EVs: 108 HP / 108 Spe
+Lonely Nature
+- Will-o-wisp
+- Confuse Ray
+- Night Shade
+- Fake Out
+
+Lickitung @ Sitrus Berry
+Ability: Own Tempo
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Slam
+- Brick Break
+- Lick
+- Screech
+
+Ledian @ Focus Band
+Ability: Early Bird
+Level: 50
+EVs: 108 HP / 108 SpD
+Bashful Nature
+IVs: 0 Atk / 0 Def / 0 SpA / 0 Spe
+- Light Screen
+- Baton Pass
+- Swords Dance
+- Agility

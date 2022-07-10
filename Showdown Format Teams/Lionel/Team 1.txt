@@ -1,0 +1,32 @@
+Mamoswine @ Icy Rock
+Ability: Snow Cloak
+Level: 50
+EVs: 44 HP / 220 SpA / 220 Spe
+Modest Nature
+IVs: 0 Atk / 25 Def / 25 SpD
+- Hail
+- Blizzard
+- Mud Shot
+- Ancient Power
+
+Dragonite @ Wide Lens
+Ability: Multiscale
+Level: 50
+EVs: 36 HP / 252 Atk / 220 Spe
+Adamant Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Outrage
+- Aqua Tail
+- Iron Tail
+- Stone Edge
+
+Rhyperior @ Expert Belt
+Ability: Solid Rock
+Level: 50
+EVs: 44 HP / 220 SpA / 220 SpD
+Quiet Nature
+IVs: 0 Atk / 0 SpD / 0 Spe
+- Rock Wrecker
+- Ice Beam
+- Thunderbolt
+- Flamethrower

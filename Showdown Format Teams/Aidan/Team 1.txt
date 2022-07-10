@@ -1,0 +1,30 @@
+Kangaskhan @ Focus Sash
+Ability: Scrappy
+Level: 50
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+IVs: 0 SpA
+- Endure
+- Reversal
+- Fake Out
+- Double Hit
+
+Shiftry @ Quick Claw
+Ability: Chlorophyll
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Explosion
+- Fake Out
+- X-scissor
+- Sucker Punch
+
+Tangrowth @ Leftovers
+Ability: Regenerator
+Level: 50
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+- Knock Off
+- Rock Tomb
+- Leech Seed
+- Poison Jab

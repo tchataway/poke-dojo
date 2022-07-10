@@ -1,0 +1,30 @@
+Gardevoir @ Choice Specs
+Ability: Trace
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Moonblast
+- Psychic
+- Thunderbolt
+- Mystical Fire
+
+Charizard @ Sitrus Berry
+Ability: Blaze
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Belly Drum
+- Dragon Claw
+- Fire Punch
+- Earthquake
+
+Rampardos @ Choice Scarf
+Ability: Mold Breaker
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Head Smash
+- Zen Headbutt
+- Earthquake
+- Iron Head

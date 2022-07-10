@@ -1,0 +1,32 @@
+Riolu @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Force Palm
+- Counter
+- Copycat
+- Screech
+
+Flaaffy @ Shuca Berry
+Ability: Static
+Level: 50
+EVs: 108 HP / 108 SpA
+Mild Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Shock Wave
+- Thunder Wave
+- Cotton Spore
+- Light Screen
+
+Kabuto @ Sitrus Berry
+Ability: Battle Armor
+Level: 50
+EVs: 108 HP / 108 SpA
+Hardy Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Mega Drain
+- Ancient Power
+- Sand Attack
+- Protect

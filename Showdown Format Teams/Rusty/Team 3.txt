@@ -1,0 +1,32 @@
+Kangaskhan @ Focus Sash
+Ability: Scrappy
+Level: 50
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+IVs: 0 SpA
+- Endure
+- Reversal
+- Fake Out
+- Double Hit
+
+Aggron @ Shuca Berry
+Ability: Sturdy
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 0 SpA
+- Stone Edge
+- Avalanche
+- Payback
+- Earthquake
+
+Charizard @ King's Rock
+Ability: Blaze
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Flare Blitz
+- Wing Attack
+- Dragon Rush
+- Dragon Dance

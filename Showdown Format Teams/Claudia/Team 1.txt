@@ -1,0 +1,32 @@
+Slowking @ Wise Glasses
+Ability: Own Tempo
+Level: 50
+EVs: 204 HP / 60 Def / 204 SpA
+Modest Nature
+IVs: 0 Atk / 20 SpD / 0 Spe
+- Psychic
+- Scald
+- Trick Room
+- Ice Beam
+
+Steelix @ Occa Berry
+Ability: Sturdy
+Level: 50
+EVs: 204 HP / 204 Def / 60 SpA
+Bold Nature
+IVs: 0 Atk / 20 SpD / 20 Spe
+- Thunder Fang
+- Fire Fang
+- Ice Fang
+- Crunch
+
+Rapidash @ Chesto Berry
+Ability: Flame Body
+Level: 50
+EVs: 60 HP / 204 SpA / 204 Spe
+Modest Nature
+IVs: 0 Atk / 20 Def / 20 SpD
+- Sunny Day
+- Fire Blast
+- Solar Beam
+- Rest

@@ -1,0 +1,32 @@
+Fearow @ Sharp Beak
+Ability: Keen Eye
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Drill Peck
+- Tri Attack
+- Facade
+- Roost
+
+Kabutops @ Scope Lens
+Ability: Swift Swim
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Adamant Nature
+IVs: 10 Def / 10 SpA / 10 SpD
+- Slash
+- Dig
+- Night Slash
+- Metal Sound
+
+Hitmonlee @ Black Belt
+Ability: Limber
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Blaze Kick
+- Close Combat
+- Focus Energy
+- Facade

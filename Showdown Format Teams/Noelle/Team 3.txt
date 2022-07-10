@@ -1,0 +1,29 @@
+Latias @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 4 SpA / 252 Spe
+Timid Nature
+- Calm Mind
+- Recover
+- Stored Power
+- Mystical Fire
+
+Latios @ Choice Specs
+Ability: Levitate
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Draco Meteor
+- Surf
+- Thunderbolt
+- Psychic
+
+Togekiss @ Scope Lens
+Ability: Super Luck
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Air Slash
+- Flamethrower
+- Dazzling Gleam
+- Thunder Wave

@@ -1,0 +1,32 @@
+Beedrill @ Focus Sash
+Ability: Swarm
+Level: 50
+EVs: 108 Atk / 108 Spe
+Jolly Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Poison Jab
+- Fell Stinger
+- Endeavor
+- Agility
+
+Haunter @ Persim Berry
+Ability: Levitate
+Level: 50
+EVs: 108 Atk / 108 Spe
+Rash Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Shadow Punch
+- Confuse Ray
+- Spite
+- Grudge
+
+Omanyte @ Sitrus Berry
+Ability: Shell Armor
+Level: 50
+EVs: 108 HP / 108 Atk
+Quirky Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Mud Shot
+- Water Gun
+- Ancient Power
+- Tickle

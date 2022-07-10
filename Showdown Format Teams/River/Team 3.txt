@@ -1,0 +1,29 @@
+Weavile @ Focus Sash
+Ability: Pickpocket
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Night Slash
+- Ice Punch
+- Ice Shard
+- Swords Dance
+
+Slaking @ Sitrus Berry
+Ability: Truant
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Giga Impact
+- Earthquake
+- Night Slash
+- Hammer Arm
+
+Suicune @ Leftovers
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Rest
+- Sleep Talk
+- Scald
+- Ice Beam

@@ -1,0 +1,30 @@
+Quagsire @ Focus Sash
+Ability: Unaware
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+IVs: 0 Spe
+- Counter
+- Focus Punch
+- Yawn
+- Ice Beam
+
+Rapidash @ Focus Band
+Ability: Flash Fire
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Flare Blitz
+- Megahorn
+- Horn Drill
+- Poison Jab
+
+Suicune @ Icy Rock
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Modest Nature
+- Hail
+- Scald
+- Ice Beam
+- Blizzard

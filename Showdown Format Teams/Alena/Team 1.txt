@@ -1,0 +1,32 @@
+Elekid @ Cheri Berry
+Ability: Static
+Level: 50
+EVs: 108 Atk / 108 Spe
+Naive Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Thunder Punch
+- Quick Attack
+- Swift
+- Light Screen
+
+Nidorino @ Focus Band
+Ability: Poison Point
+Level: 50
+EVs: 108 Atk / 108 SpA
+Quirky Nature
+IVs: 0 HP / 0 Def / 0 SpD / 0 Spe
+- Double Kick
+- Water Pulse
+- Toxic Spikes
+- Flatter
+
+Omanyte @ Sitrus Berry
+Ability: Shell Armor
+Level: 50
+EVs: 108 HP / 108 Atk
+Quirky Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Mud Shot
+- Water Gun
+- Ancient Power
+- Tickle

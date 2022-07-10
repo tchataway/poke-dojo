@@ -1,0 +1,31 @@
+Delcatty @ Sitrus Berry
+Ability: Cute Charm
+Level: 50
+EVs: 108 SpA / 108 Spe
+Lonely Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Fake Out
+- Sing
+- Double Team
+- Shadow Ball
+
+Wormadam @ Coba Berry
+Ability: Overcoat
+Level: 50
+EVs: 108 Def / 108 SpD / 108 Spe
+Modest Nature
+- Razor Leaf
+- Psybeam
+- Protect
+- Bug Buzz
+
+Sunflora @ Persim Berry
+Ability: Solar Power
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Quirky Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Petal Dance
+- Ingrain
+- Leech Seed
+- Light Screen

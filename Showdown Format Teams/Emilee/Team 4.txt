@@ -1,0 +1,31 @@
+Espeon @ Bright Powder
+Ability: Magic Bounce
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Reflect
+- Shadow Ball
+- Psychic
+- Morning Sun
+
+Zapdos @ King's Rock
+Ability: Pressure
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Drill Peck
+- U-turn
+- Steel Wing
+- Ancient Power
+
+Altaria @ White Herb
+Ability: Cloud Nine
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Draco Meteor
+- Hyper Beam
+- Ice Beam
+- Flamethrower

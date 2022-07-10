@@ -1,0 +1,29 @@
+Regigigas @ Chople Berry
+Ability: Slow Start
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Crush Grip
+- Ice Punch
+- Stone Edge
+- Protect
+
+Heatran @ Bright Powder
+Ability: Flash Fire
+Level: 50
+EVs: 252 HP / 4 Atk / 252 SpA
+Modest Nature
+- Earth Power
+- Magma Storm
+- Dark Pulse
+- Flash Cannon
+
+Cresselia @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 4 Def / 252 Spe
+Timid Nature
+- Calm Mind
+- Moonlight
+- Stored Power
+- Substitute

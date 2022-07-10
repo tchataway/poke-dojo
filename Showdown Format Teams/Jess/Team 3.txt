@@ -1,0 +1,29 @@
+Suicune @ Leftovers
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Rest
+- Sleep Talk
+- Scald
+- Ice Beam
+
+Starmie @ Focus Sash
+Ability: Natural Cure
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Hydro Pump
+- Dazzling Gleam
+- Ice Beam
+- Psychic
+
+Typhlosion @ Choice Scarf
+Ability: Flash Fire
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Eruption
+- Flamethrower
+- Extrasensory
+- Focus Blast

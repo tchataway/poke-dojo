@@ -1,0 +1,32 @@
+Rampardos @ Persim Berry
+Ability: Mold Breaker
+Level: 50
+EVs: 60 HP / 204 Atk / 204 Spe
+Adamant Nature
+IVs: 20 Def / 0 SpA / 20 SpD
+- Thrash
+- Headbutt
+- Zen Headbutt
+- Head Smash
+
+Ampharos @ Toxic Orb
+Ability: Static
+Level: 50
+EVs: 204 HP / 60 Def / 204 SpD
+Mild Nature
+IVs: 20 Atk / 20 SpA / 0 Spe
+- Thunder Wave
+- Facade
+- Fling
+- Rest
+
+Floatzel @ Life Orb
+Ability: Swift Swim
+Level: 50
+EVs: 60 Atk / 204 SpA / 204 Spe
+Naive Nature
+IVs: 20 HP / 20 Def / 20 SpD
+- Waterfall
+- Aqua Jet
+- Ice Beam
+- Focus Blast

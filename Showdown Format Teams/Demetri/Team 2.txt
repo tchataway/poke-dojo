@@ -1,0 +1,30 @@
+Articuno @ Bright Powder
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 4 SpA / 252 Spe
+Timid Nature
+- Roost
+- Ice Beam
+- Sheer Cold
+- Double Team
+
+Entei @ Leftovers
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 4 SpA / 252 Spe
+Timid Nature
+- Fire Blast
+- Extrasensory
+- Shadow Ball
+- Calm Mind
+
+Infernape @ Wise Glasses
+Ability: Blaze
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Flamethrower
+- Focus Blast
+- Calm Mind
+- Grass Knot

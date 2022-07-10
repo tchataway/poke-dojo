@@ -1,0 +1,30 @@
+Gengar @ Bright Powder
+Ability: Cursed Body
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Hypnosis
+- Dream Eater
+- Shadow Ball
+- Focus Blast
+
+Ambipom @ Wise Glasses
+Ability: Technician
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Shadow Ball
+- Thunderbolt
+- Swift
+- Nasty Plot
+
+Latias @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Mist Ball
+- Dragon Pulse
+- Calm Mind
+- Safeguard

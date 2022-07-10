@@ -1,0 +1,32 @@
+Doduo @ Liechi Berry
+Ability: Early Bird
+Level: 50
+EVs: 108 Atk / 108 Spe
+Jolly Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Fury Attack
+- Uproar
+- Quick Attack
+- Rest
+
+Chimchar @ Focus Sash
+Ability: Blaze
+Level: 50
+EVs: 108 Atk / 108 Spe
+Jolly Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Flame Wheel
+- Acrobatics
+- Fury Swipes
+- Bulk Up
+
+Clamperl @ Deep Sea Scale
+Ability: Shell Armor
+Level: 50
+EVs: 108 SpA / 108 Spe
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Surf
+- Protect
+- Iron Defense
+- Double Team

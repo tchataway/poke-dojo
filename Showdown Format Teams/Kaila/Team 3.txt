@@ -1,0 +1,30 @@
+Blaziken @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Fire Punch
+- Close Combat
+- Acrobatics
+- Swords Dance
+
+Rhyperior @ Muscle Band
+Ability: Solid Rock
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 0 SpA
+- Rock Slide
+- Earthquake
+- Ice Punch
+- Thunder Punch
+
+Jolteon @ Choice Specs
+Ability: Volt Absorb
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Volt Switch
+- Thunderbolt
+- Shadow Ball
+- Baton Pass

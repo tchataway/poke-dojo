@@ -1,0 +1,30 @@
+Crobat @ Sharp Beak
+Ability: Inner Focus
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Sleep Talk
+- Cross Poison
+- Brave Bird
+- U-turn
+
+Cresselia @ Focus Band
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Lunar Dance
+- Safeguard
+- Future Sight
+- Psychic
+
+Weezing @ Quick Claw
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+- Sludge Bomb
+- Fire Blast
+- Dark Pulse
+- Destiny Bond

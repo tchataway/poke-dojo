@@ -1,0 +1,30 @@
+Suicune @ Icy Rock
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Modest Nature
+- Hail
+- Scald
+- Ice Beam
+- Blizzard
+
+Togekiss @ Leftovers
+Ability: Serene Grace
+Level: 50
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+IVs: 0 Atk
+- Thunder Wave
+- Double Team
+- Substitute
+- Air Slash
+
+Glalie @ Scope Lens
+Ability: Moody
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Ice Beam
+- Shadow Ball
+- Water Pulse
+- Safeguard

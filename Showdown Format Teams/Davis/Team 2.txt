@@ -1,0 +1,32 @@
+Shelgon @ Cheri Berry
+Ability: Overcoat
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Hardy Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Headbutt
+- Dragon Breath
+- Protect
+- Scary Face
+
+Mightyena @ Mental Herb
+Ability: Intimidate
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Jolly Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Bite
+- Poison Fang
+- Taunt
+- Roar
+
+Masquerain @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Timid Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Hydro Pump
+- Air Slash
+- Bug Buzz
+- Stun Spore

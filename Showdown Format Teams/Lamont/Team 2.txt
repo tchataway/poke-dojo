@@ -1,0 +1,32 @@
+Sandshrew @ Soft Sand
+Ability: Sand Rush
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Dig
+- Rock Tomb
+- Sandstorm
+- Sand Attack
+
+Chimecho @ Grip Claw
+Ability: Levitate
+Level: 50
+EVs: 108 HP / 108 Spe
+Jolly Nature
+IVs: 0 Atk / 0 Def / 0 SpA / 0 SpD
+- Wrap
+- Yawn
+- Uproar
+- Astonish
+
+Finneon @ Wave Incense
+Ability: Swift Swim
+Level: 50
+EVs: 108 HP / 108 SpA
+Modest Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Water Pulse
+- Gust
+- Attract
+- Aqua Ring

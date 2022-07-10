@@ -1,0 +1,32 @@
+Lanturn @ Rindo Berry
+Ability: Volt Absorb
+Level: 50
+EVs: 148 HP / 4 Atk / 148 Def / 148 SpA / 4 SpD / 4 Spe
+Bold Nature
+IVs: 15 Atk / 15 SpD / 15 Spe
+- Scald
+- Shock Wave
+- Ice Beam
+- Double Team
+
+Shiftry @ Leftovers
+Ability: Early Bird
+Level: 50
+EVs: 148 HP / 4 Atk / 148 Def / 148 SpA / 4 SpD / 4 Spe
+Bold Nature
+IVs: 15 Atk / 15 SpD / 15 Spe
+- Double Team
+- Leech Seed
+- Swagger
+- Synthesis
+
+Empoleon @ Chesto Berry
+Ability: Torrent
+Level: 50
+EVs: 148 HP / 4 Atk / 4 Def / 148 SpA / 148 SpD / 4 Spe
+Calm Nature
+IVs: 15 Atk / 15 Def / 15 Spe
+- Aqua Ring
+- Double Team
+- Whirlpool
+- Rest

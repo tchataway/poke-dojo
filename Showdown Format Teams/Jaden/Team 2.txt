@@ -1,0 +1,32 @@
+Cherubi @ Occa Berry
+Ability: Chlorophyll
+Level: 50
+EVs: 108 SpA / 108 Spe
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Magical Leaf
+- Leech Seed
+- Sunny Day
+- Take Down
+
+Squirtle @ Sitrus Berry
+Ability: Torrent
+Level: 50
+EVs: 108 HP / 108 SpA
+Modest Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Water Pulse
+- Brine
+- Ice Beam
+- Protect
+
+Cranidos @ King's Rock
+Ability: Mold Breaker
+Level: 50
+EVs: 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Headbutt
+- Rock Slide
+- Scary Face
+- Leer

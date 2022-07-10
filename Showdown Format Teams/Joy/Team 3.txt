@@ -1,0 +1,32 @@
+Toxicroak @ Light Ball
+Ability: Dry Skin
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Fling
+- Poison Jab
+- Taunt
+- Sucker Punch
+
+Bronzong @ Custap Berry
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+IVs: 0 Spe
+- Gyro Ball
+- Body Press
+- Iron Defense
+- Earthquake
+
+Yanmega @ Lum Berry
+Ability: Speed Boost
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Modest Nature
+IVs: 0 SpA
+- Detect
+- Air Slash
+- Bug Buzz
+- Giga Drain

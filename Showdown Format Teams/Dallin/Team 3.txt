@@ -1,0 +1,29 @@
+Luxray @ Life Orb
+Ability: Intimidate
+Level: 50
+EVs: 108 HP / 252 Atk / 148 Def
+Adamant Nature
+- Play Rough
+- Quick Attack
+- Wild Charge
+- Fire Fang
+
+Whiscash @ Chesto Berry
+Ability: Oblivious
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpD
+Sassy Nature
+- Fissure
+- Amnesia
+- Spark
+- Rest
+
+Shiftry @ Focus Band
+Ability: Chlorophyll
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Energy Ball
+- Dark Pulse
+- Focus Blast
+- Nasty Plot

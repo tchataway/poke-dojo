@@ -1,0 +1,32 @@
+Anorith @ Scope Lens
+Ability: Battle Armor
+Level: 50
+EVs: 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Metal Claw
+- Fury Cutter
+- Ancient Power
+- Water Gun
+
+Ivysaur @ Persim Berry
+Ability: Overgrow
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpD
+Gentle Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Petal Dance
+- Growth
+- Sweet Scent
+- Take Down
+
+Lairon @ Metal Coat
+Ability: Sturdy
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Sassy Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Metal Claw
+- Rock Tomb
+- Iron Defense
+- Protect

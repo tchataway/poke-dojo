@@ -1,0 +1,32 @@
+Bidoof @ Leftovers
+Ability: Simple
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Curse
+- Headbutt
+- Pluck
+- Yawn
+
+Snorunt @ King's Rock
+Ability: Moody
+Level: 50
+EVs: 108 HP / 108 Atk
+Brave Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Icy Wind
+- Headbutt
+- Protect
+- Bite
+
+Exeggcute @ Persim Berry
+Ability: Chlorophyll
+Level: 50
+EVs: 108 HP / 108 SpA
+Modest Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Confusion
+- Giga Drain
+- Leech Seed
+- Light Screen

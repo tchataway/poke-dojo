@@ -1,0 +1,30 @@
+Cradily @ Sitrus Berry
+Ability: Storm Drain
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Relaxed Nature
+- Mirror Coat
+- Energy Ball
+- Stone Edge
+- Ingrain
+
+Regirock @ Passho Berry
+Ability: Sturdy
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Superpower
+- Stone Edge
+- Rock Tomb
+- Strength
+
+Drapion @ Leftovers
+Ability: Battle Armor
+Level: 50
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+IVs: 0 SpA
+- Toxic Spikes
+- Double Team
+- Roar
+- Payback

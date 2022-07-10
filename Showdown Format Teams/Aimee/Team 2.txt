@@ -1,0 +1,30 @@
+Baltoy @ Twisted Spoon
+Ability: Levitate
+Level: 50
+EVs: 108 HP / 108 SpA
+Modest Nature
+- Psybeam
+- Ancient Power
+- Light Screen
+- Mud-slap
+
+Shedinja @ Choice Band
+Ability: Wonder Guard
+Level: 50
+EVs: 108 Atk / 108 Spe
+Jolly Nature
+- Shadow Claw
+- Metal Claw
+- X-scissor
+- Aerial Ace
+
+Voltorb @ Lax Incense
+Ability: Aftermath
+Level: 50
+EVs: 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Spark
+- Screech
+- Rollout
+- Light Screen

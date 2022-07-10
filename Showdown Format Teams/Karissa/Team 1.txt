@@ -1,0 +1,32 @@
+Onix @ Sitrus Berry
+Ability: Sturdy
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Rock Slide
+- Bind
+- Dragon Breath
+- Sandstorm
+
+Vigoroth @ Focus Band
+Ability: Vital Spirit
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Lonely Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Slash
+- Counter
+- Encore
+- Uproar
+
+Prinplup @ Wacan Berry
+Ability: Torrent
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Bashful Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Whirlpool
+- Metal Claw
+- Peck
+- Double Team

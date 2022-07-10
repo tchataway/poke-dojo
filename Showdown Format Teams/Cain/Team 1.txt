@@ -1,0 +1,29 @@
+Regirock @ Leftovers
+Ability: Clear Body
+Level: 50
+EVs: 252 HP / 4 Atk / 252 SpD
+Careful Nature
+- Stone Edge
+- Earthquake
+- Brick Break
+- Sandstorm
+
+Floatzel @ Bright Powder
+Ability: Swift Swim
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Waterfall
+- Ice Fang
+- Crunch
+- Rain Dance
+
+Entei @ Heat Rock
+Ability: Inner Focus
+Level: 50
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Sunny Day
+- Flamethrower
+- Solar Beam
+- Extrasensory

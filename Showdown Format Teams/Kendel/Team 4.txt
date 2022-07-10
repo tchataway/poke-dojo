@@ -1,0 +1,29 @@
+Tangrowth @ Leftovers
+Ability: Regenerator
+Level: 50
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+- Knock Off
+- Rock Tomb
+- Leech Seed
+- Poison Jab
+
+Snorlax @ Figy Berry
+Ability: Gluttony
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Def
+Adamant Nature
+- Body Slam
+- Curse
+- Heavy Slam
+- Yawn
+
+Typhlosion @ Choice Scarf
+Ability: Flash Fire
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Eruption
+- Flamethrower
+- Extrasensory
+- Focus Blast

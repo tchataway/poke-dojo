@@ -1,0 +1,29 @@
+Raikou @ Wise Glasses
+Ability: Pressure
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Shadow Ball
+- Scald
+- Thunderbolt
+- Volt Switch
+
+Shiftry @ Quick Claw
+Ability: Chlorophyll
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Explosion
+- Fake Out
+- X-scissor
+- Sucker Punch
+
+Heatran @ Bright Powder
+Ability: Flash Fire
+Level: 50
+EVs: 252 HP / 4 Atk / 252 SpA
+Timid Nature
+- Earth Power
+- Magma Storm
+- Dark Pulse
+- Flash Cannon

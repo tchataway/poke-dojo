@@ -1,0 +1,29 @@
+Floatzel @ Sitrus Berry
+Ability: Swift Swim
+Level: 50
+EVs: 252 Atk / 4 SpA / 252 Spe
+Naughty Nature
+- Crunch
+- Waterfall
+- Ice Beam
+- Aqua Jet
+
+Rhydon @ Passho Berry
+Ability: Lightning Rod
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+- Earthquake
+- Hammer Arm
+- Shadow Claw
+- Stone Edge
+
+Houndoom @ White Herb
+Ability: Flash Fire
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Sunny Day
+- Overheat
+- Solar Beam
+- Dark Pulse

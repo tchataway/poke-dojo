@@ -1,0 +1,32 @@
+Illumise @ Liechi Berry
+Ability: Tinted Lens
+Level: 50
+EVs: 108 HP / 108 SpA
+Quirky Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Bug Buzz
+- Wish
+- Quick Attack
+- Helping Hand
+
+Onix @ Sitrus Berry
+Ability: Sturdy
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Rock Slide
+- Bind
+- Dragon Breath
+- Sandstorm
+
+Mawile @ Bright Powder
+Ability: Intimidate
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Crunch
+- Fake Tears
+- Iron Defense
+- Baton Pass

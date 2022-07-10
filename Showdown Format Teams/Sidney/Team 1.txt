@@ -1,0 +1,29 @@
+Regigigas @ Bright Powder
+Ability: Slow Start
+Level: 50
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+- Swagger
+- Psych Up
+- Crush Grip
+- Aerial Ace
+
+Suicune @ Wacan Berry
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 252 Def
+Bold Nature
+- Rest
+- Icy Wind
+- Calm Mind
+- Scald
+
+Articuno @ Chesto Berry
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Agility
+- Ice Beam
+- Water Pulse
+- Rest

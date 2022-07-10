@@ -1,0 +1,31 @@
+Chansey @ Sitrus Berry
+Ability: Serene Grace
+Level: 50
+EVs: 148 HP / 148 Def / 148 SpD
+Relaxed Nature
+- Substitute
+- Seismic Toss
+- Soft-boiled
+- Minimize
+
+Carnivine @ Rose Incense
+Ability: Levitate
+Level: 50
+EVs: 148 HP / 148 Def / 148 SpD
+Sassy Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Power Whip
+- Crunch
+- Sweet Scent
+- Leech Seed
+
+Hitmontop @ Liechi Berry
+Ability: Intimidate
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Def
+Hardy Nature
+IVs: 0 SpA / 0 SpD / 0 Spe
+- Triple Kick
+- Dig
+- Mach Punch
+- Fake Out

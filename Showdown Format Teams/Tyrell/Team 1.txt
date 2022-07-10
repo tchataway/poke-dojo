@@ -1,0 +1,31 @@
+Espeon @ Bright Powder
+Ability: Magic Bounce
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Reflect
+- Shadow Ball
+- Psychic
+- Morning Sun
+
+Cresselia @ Lum Berry
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Double Team
+- Moonlight
+- Calm Mind
+- Ice Beam
+
+Froslass @ Wise Glasses
+Ability: Cursed Body
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Shadow Ball
+- Blizzard
+- Attract
+- Thunderbolt

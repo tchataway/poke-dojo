@@ -1,0 +1,31 @@
+Golem @ Focus Band
+Ability: Sand Veil
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+IVs: 0 SpA / 0 Spe
+- Sandstorm
+- Defense Curl
+- Rock Blast
+- Gyro Ball
+
+Kangaskhan @ Salac Berry
+Ability: Scrappy
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Endure
+- Reversal
+- Crunch
+- Earthquake
+
+Breloom @ Big Root
+Ability: Effect Spore
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Spore
+- Focus Punch
+- Drain Punch
+- Swords Dance

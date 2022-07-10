@@ -1,0 +1,31 @@
+Espeon @ Bright Powder
+Ability: Magic Bounce
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Reflect
+- Shadow Ball
+- Psychic
+- Morning Sun
+
+Regigigas @ Leftovers
+Ability: Slow Start
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Def
+Impish Nature
+- Crush Grip
+- Drain Punch
+- Knock Off
+- Protect
+
+Salamence @ Yache Berry
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Dragon Dance
+- Earthquake
+- Outrage
+- Crunch

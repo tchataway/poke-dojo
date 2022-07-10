@@ -1,0 +1,32 @@
+Beautifly @ Mental Herb
+Ability: Swarm
+Level: 50
+EVs: 108 SpA / 108 Spe
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Bug Buzz
+- Mega Drain
+- Attract
+- Quiver Dance
+
+Nidorino @ Focus Band
+Ability: Poison Point
+Level: 50
+EVs: 108 Atk / 108 SpA
+Quirky Nature
+IVs: 0 HP / 0 Def / 0 SpD / 0 Spe
+- Double Kick
+- Water Pulse
+- Toxic Spikes
+- Flatter
+
+Haunter @ Persim Berry
+Ability: Levitate
+Level: 50
+EVs: 108 Atk / 108 Spe
+Rash Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Shadow Punch
+- Confuse Ray
+- Spite
+- Grudge

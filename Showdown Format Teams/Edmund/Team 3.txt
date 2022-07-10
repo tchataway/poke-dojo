@@ -1,0 +1,27 @@
+Staraptor @ Choice Scarf
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Final Gambit
+- U-turn
+
+Gardevoir @ Choice Specs
+Ability: Trace
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Moonblast
+- Psychic
+- Thunderbolt
+- Mystical Fire
+
+Medicham @ Expert Belt
+Ability: Pure Power
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- High Jump Kick
+- Ice Punch
+- Fire Punch
+- Fake Out

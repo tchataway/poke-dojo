@@ -1,0 +1,32 @@
+Typhlosion @ Salac Berry
+Ability: Blaze
+Level: 50
+EVs: 44 Atk / 220 SpA / 220 Spe
+Docile Nature
+IVs: 0 HP / 25 Def / 25 SpD
+- Eruption
+- Earthquake
+- Endure
+- Reversal
+
+Gyarados @ Lum Berry
+Ability: Intimidate
+Level: 50
+EVs: 44 HP / 220 Atk / 220 Spe
+Adamant Nature
+IVs: 25 Def / 0 SpA / 25 SpD
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang
+
+Jolteon @ Magnet
+Ability: Volt Absorb
+Level: 50
+EVs: 36 HP / 220 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk / 25 Def / 25 SpD
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Yawn

@@ -1,0 +1,29 @@
+Hippowdon @ Life Orb
+Ability: Sand Stream
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Earthquake
+- Stone Edge
+- Ice Fang
+- Yawn
+
+Tangrowth @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+- Giga Drain
+- Focus Blast
+- Sludge Bomb
+- Sleep Powder
+
+Suicune @ Leftovers
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Rest
+- Sleep Talk
+- Scald
+- Ice Beam

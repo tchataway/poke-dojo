@@ -1,0 +1,30 @@
+Cresselia @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Calm Mind
+- Moonlight
+- Psychic
+- Shadow Ball
+
+Latias @ Colbur Berry
+Ability: Levitate
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Psychic
+- Energy Ball
+- Grass Knot
+- Recover
+
+Weavile @ Chople Berry
+Ability: Pickpocket
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Night Slash
+- Ice Shard
+- Ice Punch
+- Fake Out

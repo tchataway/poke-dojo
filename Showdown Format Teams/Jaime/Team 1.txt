@@ -1,0 +1,31 @@
+Scizor @ Bright Powder
+Ability: Technician
+Level: 50
+EVs: 236 HP / 20 Atk / 252 SpD
+Careful Nature
+IVs: 0 SpA
+- Swords Dance
+- Double Team
+- Bullet Punch
+- Roost
+
+Regigigas @ Shell Bell
+Ability: Slow Start
+Level: 50
+EVs: 252 HP / 124 Atk / 124 SpA / 4 SpD / 4 Spe
+Quiet Nature
+- Thunderbolt
+- Focus Blast
+- Earthquake
+- Drain Punch
+
+Skarmory @ Life Orb
+Ability: Weak Armor
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- Brave Bird
+- Iron Head
+- Swords Dance
+- Rock Slide

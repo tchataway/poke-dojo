@@ -1,0 +1,30 @@
+Blastoise @ Quick Claw
+Ability: Rain Dish
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Hydro Pump
+- Ice Beam
+- Focus Blast
+- Rain Dance
+
+Flareon @ White Herb
+Ability: Flash Fire
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+- Overheat
+- Giga Impact
+- Iron Tail
+- Quick Attack
+
+Regice @ Leftovers
+Ability: Clear Body
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Ice Beam
+- Thunderbolt
+- Protect
+- Focus Blast

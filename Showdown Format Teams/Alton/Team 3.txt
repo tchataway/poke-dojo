@@ -1,0 +1,30 @@
+Skarmory @ Occa Berry
+Ability: Sturdy
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Drill Peck
+- Metal Sound
+- Double Team
+- Sand Attack
+
+Staraptor @ Muscle Band
+Ability: Reckless
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Brave Bird
+- Double-edge
+- U-turn
+- Feather Dance
+
+Articuno @ Wacan Berry
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 4 SpA / 252 SpD
+Calm Nature
+- Sheer Cold
+- Ice Beam
+- Aerial Ace
+- Roar

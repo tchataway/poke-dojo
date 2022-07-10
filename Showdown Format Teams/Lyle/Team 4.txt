@@ -1,0 +1,29 @@
+Heracross @ Lum Berry
+Ability: Moxie
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Megahorn
+- Stone Edge
+- Facade
+- Shadow Claw
+
+Regirock @ Liechi Berry
+Ability: Sturdy
+Level: 50
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Rock Polish
+- Earthquake
+- Stone Edge
+- Body Press
+
+Abomasnow @ Choice Scarf
+Ability: Snow Warning
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Blizzard
+- Energy Ball
+- Earth Power
+- Focus Blast

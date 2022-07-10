@@ -1,0 +1,29 @@
+Metagross @ Figy Berry
+Ability: Clear Body
+Level: 50
+EVs: 4 HP / 252 Atk / 68 Def / 4 SpD / 180 Spe
+Jolly Nature
+- Ice Punch
+- Bullet Punch
+- Zen Headbutt
+- Meteor Mash
+
+Slaking @ Sitrus Berry
+Ability: Truant
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Giga Impact
+- Earthquake
+- Night Slash
+- Hammer Arm
+
+Quagsire @ Leftovers
+Ability: Unaware
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Stockpile
+- Whirlpool
+- Toxic
+- Recover

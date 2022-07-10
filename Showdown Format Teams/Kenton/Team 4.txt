@@ -1,0 +1,31 @@
+Rampardos @ Choice Scarf
+Ability: Mold Breaker
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Head Smash
+- Zen Headbutt
+- Earthquake
+- Iron Head
+
+Charizard @ Sitrus Berry
+Ability: Blaze
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Belly Drum
+- Dragon Claw
+- Fire Punch
+- Earthquake
+
+Espeon @ Bright Powder
+Ability: Magic Bounce
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Reflect
+- Shadow Ball
+- Psychic
+- Morning Sun

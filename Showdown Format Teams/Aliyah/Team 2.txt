@@ -1,0 +1,32 @@
+Hitmonchan @ King's Rock
+Ability: Iron Fist
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Mach Punch
+- Ice Punch
+- Detect
+- Counter
+
+Jumpluff @ Lax Incense
+Ability: Chlorophyll
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Docile Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Aerial Ace
+- Swagger
+- Psych Up
+- Synthesis
+
+Seaking @ Sitrus Berry
+Ability: Lightning Rod
+Level: 50
+EVs: 148 HP / 148 Atk / 148 SpA
+Docile Nature
+IVs: 0 Def / 0 SpD / 0 Spe
+- Water Pulse
+- Psybeam
+- Poison Jab
+- Agility

@@ -1,0 +1,31 @@
+Typhlosion @ Wide Lens
+Ability: Blaze
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Hardy Nature
+- Will-o-wisp
+- Focus Blast
+- Double Team
+- Fire Blast
+
+Poliwrath @ Rindo Berry
+Ability: Water Absorb
+Level: 50
+EVs: 204 HP / 204 SpA / 60 Spe
+Modest Nature
+IVs: 0 Atk / 20 Def / 20 SpD
+- Hydro Pump
+- Ice Beam
+- Focus Blast
+- Mind Reader
+
+Heracross @ Focus Band
+Ability: Moxie
+Level: 50
+EVs: 60 HP / 204 Atk / 204 Spe
+Jolly Nature
+IVs: 20 Def / 0 SpA / 20 SpD
+- Close Combat
+- Stone Edge
+- Megahorn
+- Earthquake

@@ -1,0 +1,29 @@
+Jolteon @ Choice Specs
+Ability: Volt Absorb
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Volt Switch
+- Thunderbolt
+- Shadow Ball
+- Baton Pass
+
+Snorlax @ Figy Berry
+Ability: Gluttony
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Def
+Adamant Nature
+- Body Slam
+- Curse
+- Heavy Slam
+- Yawn
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+Level: 50
+EVs: 252 HP / 100 Def / 156 Spe
+Jolly Nature
+- Earthquake
+- Guillotine
+- Substitute
+- Protect

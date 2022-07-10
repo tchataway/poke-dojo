@@ -1,0 +1,30 @@
+Raikou @ Lax Incense
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 4 Def / 252 Spe
+Timid Nature
+- Scald
+- Calm Mind
+- Rest
+- Double Team
+
+Latias @ Lum Berry
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Calm Mind
+- Dragon Pulse
+- Psychic
+- Roost
+
+Claydol @ Wise Glasses
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+IVs: 0 Atk
+- Calm Mind
+- Psychic
+- Earth Power
+- Ice Beam

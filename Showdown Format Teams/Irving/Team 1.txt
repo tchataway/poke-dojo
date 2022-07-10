@@ -1,0 +1,31 @@
+Banette @ Rawst Berry
+Ability: Cursed Body
+Level: 50
+EVs: 148 HP / 148 Def / 148 SpD
+Sassy Nature
+- Night Shade
+- Will-o-wisp
+- Spite
+- Knock Off
+
+Girafarig @ Petaya Berry
+Ability: Sap Sipper
+Level: 50
+EVs: 148 HP / 148 SpA / 148 SpD
+Quiet Nature
+IVs: 0 Atk / 0 Def / 0 Spe
+- Psybeam
+- Thunderbolt
+- Wish
+- Skill Swap
+
+Sandslash @ Sitrus Berry
+Ability: Sand Rush
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Crush Claw
+- Rock Slide
+- Earthquake
+- Sandstorm

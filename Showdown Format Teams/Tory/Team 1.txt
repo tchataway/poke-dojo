@@ -1,0 +1,32 @@
+Altaria @ Petaya Berry
+Ability: Cloud Nine
+Level: 50
+EVs: 204 HP / 60 SpA / 204 SpD
+Calm Nature
+IVs: 0 Atk / 20 Def / 20 Spe
+- Dragon Pulse
+- Roost
+- Perish Song
+- Protect
+
+Muk @ Black Sludge
+Ability: Poison Touch
+Level: 50
+EVs: 204 HP / 60 Atk / 204 Def
+Impish Nature
+IVs: 0 SpA / 20 SpD / 20 Spe
+- Poison Jab
+- Minimize
+- Acid Armor
+- Brick Break
+
+Floatzel @ Life Orb
+Ability: Swift Swim
+Level: 50
+EVs: 60 Atk / 204 SpA / 204 Spe
+Naive Nature
+IVs: 20 HP / 20 Def / 20 SpD
+- Waterfall
+- Aqua Jet
+- Ice Beam
+- Focus Blast

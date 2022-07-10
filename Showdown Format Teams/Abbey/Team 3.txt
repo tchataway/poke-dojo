@@ -1,0 +1,31 @@
+Abomasnow @ Icy Rock
+Ability: Snow Warning
+Level: 50
+EVs: 252 HP / 4 Atk / 252 SpA
+Modest Nature
+IVs: 0 Atk
+- Blizzard
+- Giga Drain
+- Earth Power
+- Ice Shard
+
+Walrein @ Bright Powder
+Ability: Ice Body
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 0 Atk
+- Sheer Cold
+- Fissure
+- Sleep Talk
+- Rest
+
+Mamoswine @ Lax Incense
+Ability: Snow Cloak
+Level: 50
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Earthquake
+- Icicle Spear
+- Ice Shard
+- Rock Tomb

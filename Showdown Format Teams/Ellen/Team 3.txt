@@ -1,0 +1,32 @@
+Numel @ Lax Incense
+Ability: Oblivious
+Level: 50
+EVs: 108 Atk / 108 SpA
+Hardy Nature
+IVs: 0 HP / 0 Def / 0 SpD / 0 Spe
+- Ember
+- Earth Power
+- Rock Tomb
+- Sandstorm
+
+Riolu @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Force Palm
+- Counter
+- Copycat
+- Screech
+
+Aron @ Metal Coat
+Ability: Sturdy
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Metal Claw
+- Aerial Ace
+- Metal Sound
+- Roar

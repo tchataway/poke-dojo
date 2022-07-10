@@ -1,0 +1,31 @@
+Swablu @ Mental Herb
+Ability: Cloud Nine
+Level: 50
+EVs: 108 Atk / 108 Spe
+Lonely Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Take Down
+- Dream Eater
+- Sing
+- Attract
+
+Mudkip @ Rindo Berry
+Ability: Torrent
+Level: 50
+EVs: 108 HP / 108 Atk
+Adamant Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Rock Slide
+- Dig
+- Avalanche
+- Waterfall
+
+Drifloon @ Grip Claw
+Ability: Aftermath
+Level: 50
+EVs: 108 HP / 108 Spe
+Quirky Nature
+- Shadow Ball
+- Will-o-wisp
+- Gust
+- Astonish

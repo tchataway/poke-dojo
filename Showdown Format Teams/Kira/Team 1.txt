@@ -1,0 +1,31 @@
+Vespiquen @ Razor Claw
+Ability: Pressure
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Adamant Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Attack Order
+- Slash
+- Defend Order
+
+Jynx @ Bright Powder
+Ability: Dry Skin
+Level: 50
+EVs: 148 HP / 4 Atk / 148 Def / 148 SpA / 4 SpD / 4 Spe
+Bold Nature
+IVs: 15 Atk / 15 SpD / 15 Spe
+- Mean Look
+- Perish Song
+- Protect
+- Lovely Kiss
+
+Staraptor @ Choice Band
+Ability: Intimidate
+Level: 50
+EVs: 148 HP / 148 Atk / 4 Def / 4 SpA / 4 SpD / 148 Spe
+Adamant Nature
+IVs: 15 Def / 15 SpA / 15 SpD
+- Brave Bird
+- Close Combat
+- U-turn
+- Facade

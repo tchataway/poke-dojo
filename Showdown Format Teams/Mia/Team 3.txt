@@ -1,0 +1,32 @@
+Misdreavus @ Focus Band
+Ability: Levitate
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpD
+Impish Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Pain Split
+- Shadow Ball
+- Confuse Ray
+- Thunder Wave
+
+Chatot @ Yache Berry
+Ability: Big Pecks
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Bashful Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Chatter
+- Torment
+- Sing
+- U-turn
+
+Sunflora @ Persim Berry
+Ability: Solar Power
+Level: 50
+EVs: 108 HP / 108 Atk / 108 Spe
+Quirky Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Petal Dance
+- Ingrain
+- Leech Seed
+- Light Screen

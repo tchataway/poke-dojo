@@ -14,17 +14,17 @@ async def main():
     used_trainer_names = []
 
     # Get specific trainer and team.
-    trainer_name_and_team = team_provider.get_specific_team("Jamison", "Team 2")
-    player = BattleTowerPlayer(
-        player_configuration=PlayerConfiguration(trainer_name_and_team[0], None),
-        battle_format="gen8bdsp3v3singles",
-        server_configuration=LocalhostServerConfiguration,
-        team=trainer_name_and_team[1],
-        log_level=10,
-    )
-    
-    await player.send_challenges("Pugnotaur", n_challenges=1)
-    return
+#    trainer_name_and_team = team_provider.get_specific_team("Jamison", "Team 2")
+#    player = BattleTowerPlayer(
+#        player_configuration=PlayerConfiguration(trainer_name_and_team[0], None),
+#        battle_format="gen8bdsp3v3singles",
+#        server_configuration=LocalhostServerConfiguration,
+#        team=trainer_name_and_team[1],
+#        log_level=10,
+#    )
+#    
+#    await player.send_challenges("Pugnotaur", n_challenges=1)
+#    return
 
     # Standard set rotation
     while current_set < 8: # 8 would be Master.

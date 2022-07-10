@@ -1,0 +1,29 @@
+Electivire @ Focus Sash
+Ability: Motor Drive
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Wild Charge
+- Earthquake
+- Ice Punch
+- Quick Attack
+
+Cresselia @ Wiki Berry
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Calm Mind
+- Moonlight
+- Moonblast
+- Psyshock
+
+Machamp @ Flame Orb
+Ability: Guts
+Level: 50
+EVs: 204 HP / 252 Atk / 12 Def / 36 SpD / 4 Spe
+Adamant Nature
+- Close Combat
+- Ice Punch
+- Knock Off
+- Bullet Punch

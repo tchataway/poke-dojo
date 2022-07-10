@@ -1,0 +1,32 @@
+Castform @ Persim Berry
+Ability: Forecast
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Hasty Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Ember
+- Water Pulse
+- Shock Wave
+- Weather Ball
+
+Chatot @ Yache Berry
+Ability: Big Pecks
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Bashful Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Chatter
+- Torment
+- Sing
+- U-turn
+
+Solrock @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 108 HP / 108 Def / 108 SpD
+Quiet Nature
+IVs: 0 Atk / 0 SpA / 0 Spe
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm

@@ -1,0 +1,32 @@
+Huntail @ Persim Berry
+Ability: Swift Swim
+Level: 50
+EVs: 148 HP / 148 Atk / 148 SpA
+Quiet Nature
+IVs: 10 Def / 10 SpD / 10 Spe
+- Whirlpool
+- Scary Face
+- Screech
+- Bite
+
+Kabutops @ Scope Lens
+Ability: Swift Swim
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Adamant Nature
+IVs: 10 Def / 10 SpA / 10 SpD
+- Slash
+- Dig
+- Night Slash
+- Metal Sound
+
+Torkoal @ Sitrus Berry
+Ability: Drought
+Level: 50
+EVs: 148 HP / 148 Def / 148 SpD
+Relaxed Nature
+IVs: 10 Atk / 10 SpA / 10 Spe
+- Lava Plume
+- Earthquake
+- Stealth Rock
+- Yawn

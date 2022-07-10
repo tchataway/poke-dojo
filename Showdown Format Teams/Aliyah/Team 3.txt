@@ -1,0 +1,32 @@
+Bellossom @ Power Herb
+Ability: Chlorophyll
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Modest Nature
+IVs: 10 Atk / 10 Def / 10 SpD
+- Solar Beam
+- Safeguard
+- Sunny Day
+- Synthesis
+
+Swalot @ Black Sludge
+Ability: Sticky Hold
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Modest Nature
+IVs: 10 Atk / 10 Def / 10 SpD
+- Stockpile
+- Ice Beam
+- Shadow Ball
+- Sludge Bomb
+
+Golbat @ Scope Lens
+Ability: Inner Focus
+Level: 50
+EVs: 148 HP / 148 Atk / 148 Spe
+Jolly Nature
+IVs: 0 Def / 0 SpA / 0 SpD
+- Poison Fang
+- Confuse Ray
+- Wing Attack
+- Steel Wing

@@ -1,0 +1,32 @@
+Riolu @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Force Palm
+- Counter
+- Copycat
+- Screech
+
+Budew @ Big Root
+Ability: Poison Point
+Level: 50
+EVs: 108 SpA / 108 Spe
+Timid Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Giga Drain
+- Stun Spore
+- Worry Seed
+- Growth
+
+Delibird @ Never-Melt Ice
+Ability: Vital Spirit
+Level: 50
+EVs: 108 HP / 108 Spe
+Docile Nature
+IVs: 0 Atk / 0 Def / 0 SpA / 0 SpD
+- Present
+- Ice Beam
+- Aerial Ace
+- Hail

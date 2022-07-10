@@ -1,0 +1,32 @@
+Larvitar @ Persim Berry
+Ability: Guts
+Level: 50
+EVs: 108 Atk / 108 Spe
+Jolly Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Thrash
+- Rock Slide
+- Dig
+- Bite
+
+Aipom @ Silk Scarf
+Ability: Skill Link
+Level: 50
+EVs: 108 Atk / 108 Spe
+Jolly Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Fury Swipes
+- Sand Attack
+- Baton Pass
+- Agility
+
+Lileep @ Lax Incense
+Ability: Storm Drain
+Level: 50
+EVs: 108 HP / 108 SpA
+Docile Nature
+IVs: 0 Atk / 0 Def / 0 SpD / 0 Spe
+- Giga Drain
+- Acid
+- Ingrain
+- Confuse Ray

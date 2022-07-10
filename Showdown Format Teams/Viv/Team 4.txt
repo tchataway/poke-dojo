@@ -1,0 +1,32 @@
+Yanma @ Lax Incense
+Ability: Speed Boost
+Level: 50
+EVs: 108 SpA / 108 Spe
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Bug Buzz
+- Air Slash
+- Double Team
+- Detect
+
+Bonsly @ Passho Berry
+Ability: Sturdy
+Level: 50
+EVs: 108 HP / 108 SpD
+Careful Nature
+IVs: 0 Atk / 0 Def / 0 SpA / 0 Spe
+- Fake Tears
+- Rock Throw
+- Copycat
+- Low Kick
+
+Skorupi @ Payapa Berry
+Ability: Battle Armor
+Level: 50
+EVs: 108 HP / 108 Def
+Impish Nature
+IVs: 0 Atk / 0 SpA / 0 SpD / 0 Spe
+- Poison Sting
+- Bite
+- Scary Face
+- Toxic Spikes

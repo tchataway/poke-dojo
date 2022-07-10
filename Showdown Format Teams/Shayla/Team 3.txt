@@ -1,0 +1,32 @@
+Swalot @ Black Sludge
+Ability: Sticky Hold
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Modest Nature
+IVs: 10 Atk / 10 Def / 10 SpD
+- Stockpile
+- Ice Beam
+- Shadow Ball
+- Sludge Bomb
+
+Magneton @ Choice Specs
+Ability: Sturdy
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Modest Nature
+IVs: 10 Atk / 10 Def / 10 SpD
+- Shock Wave
+- Volt Switch
+- Thunder Wave
+- Flash Cannon
+
+Camerupt @ Sitrus Berry
+Ability: Solid Rock
+Level: 50
+EVs: 148 HP / 148 SpA / 148 Spe
+Quirky Nature
+IVs: 10 Atk / 10 Def / 10 SpD
+- Eruption
+- Protect
+- Sandstorm
+- Rock Slide

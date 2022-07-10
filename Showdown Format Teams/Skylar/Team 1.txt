@@ -1,0 +1,31 @@
+Armaldo @ Wide Lens
+Ability: Battle Armor
+Level: 50
+EVs: 204 HP / 60 Atk / 204 SpD
+Careful Nature
+- Stone Edge
+- Slash
+- X-scissor
+- Iron Tail
+
+Bastiodon @ Custap Berry
+Ability: Sturdy
+Level: 50
+EVs: 60 HP / 204 Atk / 204 Spe
+Adamant Nature
+IVs: 20 Def / 0 SpA / 20 SpD
+- Metal Burst
+- Taunt
+- Iron Head
+- Stone Edge
+
+Drapion @ Rawst Berry
+Ability: Battle Armor
+Level: 50
+EVs: 204 HP / 204 Atk / 60 Spe
+Adamant Nature
+IVs: 20 Def / 0 SpA / 20 SpD
+- Acupressure
+- Toxic Spikes
+- Crunch
+- Cross Poison

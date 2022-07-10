@@ -1,0 +1,32 @@
+Porygon2 @ Leftovers
+Ability: Analytic
+Level: 50
+EVs: 204 HP / 60 SpA / 204 SpD
+Calm Nature
+IVs: 0 Atk / 20 Def / 20 Spe
+- Magnet Rise
+- Conversion
+- Recover
+- Charge Beam
+
+Donphan @ Lum Berry
+Ability: Sturdy
+Level: 50
+EVs: 60 HP / 204 Atk / 20 Def / 20 SpD / 204 Spe
+Adamant Nature
+IVs: 20 Def / 0 SpA / 20 SpD
+- Earthquake
+- Ice Shard
+- Rock Slide
+- Play Rough
+
+Lickilicky @ Chesto Berry
+Ability: Own Tempo
+Level: 50
+EVs: 204 HP / 60 Atk / 204 SpD
+Careful Nature
+IVs: 20 Def / 0 SpA / 20 Spe
+- Belly Drum
+- Rest
+- Explosion
+- Earthquake

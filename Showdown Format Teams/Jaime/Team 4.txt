@@ -1,0 +1,31 @@
+Rhyperior @ Muscle Band
+Ability: Solid Rock
+Level: 50
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 0 SpA
+- Rock Slide
+- Earthquake
+- Ice Punch
+- Thunder Punch
+
+Medicham @ Choice Scarf
+Ability: Pure Power
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 0 SpA
+- High Jump Kick
+- Thunder Punch
+- Zen Headbutt
+- Ice Punch
+
+Starmie @ Focus Sash
+Ability: Natural Cure
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Hydro Pump
+- Dazzling Gleam
+- Ice Beam
+- Psychic

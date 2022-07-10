@@ -1,0 +1,32 @@
+Skarmory @ Leftovers
+Ability: Sturdy
+Level: 50
+EVs: 252 HP / 252 Def / 4 Spe
+Impish Nature
+IVs: 0 SpA
+- Roost
+- Stealth Rock
+- Whirlwind
+- Rock Tomb
+
+Gengar @ Life Orb
+Ability: Cursed Body
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Icy Wind
+- Shadow Ball
+- Sludge Wave
+- Thunderbolt
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance

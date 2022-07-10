@@ -1,0 +1,32 @@
+Typhlosion @ Salac Berry
+Ability: Blaze
+Level: 50
+EVs: 44 Atk / 220 SpA / 220 Spe
+Docile Nature
+IVs: 0 HP / 25 Def / 25 SpD
+- Eruption
+- Earthquake
+- Endure
+- Reversal
+
+Rhyperior @ Expert Belt
+Ability: Solid Rock
+Level: 50
+EVs: 44 HP / 220 SpA / 220 SpD
+Quiet Nature
+IVs: 0 Atk / 0 SpD / 0 Spe
+- Rock Wrecker
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Electivire @ Cheri Berry
+Ability: Motor Drive
+Level: 50
+EVs: 220 HP / 44 Atk / 220 Def
+Impish Nature
+IVs: 0 SpA / 25 SpD / 25 Spe
+- Thunder Punch
+- Cross Chop
+- Thunder Wave
+- Screech

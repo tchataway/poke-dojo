@@ -1,0 +1,31 @@
+Duskull @ Spell Tag
+Ability: Levitate
+Level: 50
+EVs: 108 HP / 108 Def
+Impish Nature
+- Shadow Sneak
+- Will-o-wisp
+- Disable
+- Confuse Ray
+
+Corphish @ Mystic Water
+Ability: Adaptability
+Level: 50
+EVs: 108 HP / 108 Atk
+Brave Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Crabhammer
+- Water Pulse
+- Knock Off
+- Protect
+
+Krabby @ Focus Sash
+Ability: Hyper Cutter
+Level: 50
+EVs: 108 Atk / 108 Spe
+Adamant Nature
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD
+- Crabhammer
+- Mud Shot
+- Flail
+- Guillotine

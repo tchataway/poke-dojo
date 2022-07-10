@@ -1,0 +1,31 @@
+Chatot @ Yache Berry
+Ability: Big Pecks
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Bashful Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Chatter
+- Torment
+- Sing
+- U-turn
+
+Seadra @ Mystic Water
+Ability: Sniper
+Level: 50
+EVs: 108 HP / 108 SpA / 108 Spe
+Sassy Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Aurora Beam
+- Smokescreen
+- Water Gun
+- Rain Dance
+
+Marshtomp @ Focus Band
+Ability: Torrent
+Level: 50
+EVs: 108 HP / 108 Atk / 108 SpA
+Hardy Nature
+- Mud Shot
+- Water Gun
+- Rock Tomb
+- Mud-slap

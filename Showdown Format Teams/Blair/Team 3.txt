@@ -1,0 +1,31 @@
+Ludicolo @ Leftovers
+Ability: Rain Dish
+Level: 50
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+IVs: 0 Atk
+- Leech Seed
+- Double Team
+- Scald
+- Substitute
+
+Whiscash @ Zoom Lens
+Ability: Oblivious
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+IVs: 0 Atk
+- Hydro Pump
+- Blizzard
+- Fissure
+- Future Sight
+
+Sceptile @ Occa Berry
+Ability: Overgrow
+Level: 50
+EVs: 4 Atk / 252 SpA / 252 Spe
+Serious Nature
+- Leaf Storm
+- Aerial Ace
+- Leaf Blade
+- Focus Blast

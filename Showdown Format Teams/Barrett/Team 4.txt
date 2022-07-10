@@ -1,0 +1,30 @@
+Blissey @ Leftovers
+Ability: Serene Grace
+Level: 50
+EVs: 252 Def / 252 SpA / 4 Spe
+Bold Nature
+- Soft-boiled
+- Calm Mind
+- Flamethrower
+- Substitute
+
+Typhlosion @ Choice Scarf
+Ability: Flash Fire
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Eruption
+- Flamethrower
+- Extrasensory
+- Focus Blast
+
+Machamp @ Muscle Band
+Ability: No Guard
+Level: 50
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 0 SpA
+- Rock Slide
+- Dynamic Punch
+- Ice Punch
+- Thunder Punch

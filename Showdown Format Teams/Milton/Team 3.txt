@@ -1,0 +1,32 @@
+Snubbull @ Scope Lens
+Ability: Intimidate
+Level: 50
+EVs: 108 HP / 108 Atk
+Brave Nature
+IVs: 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Bite
+- Charm
+- Swagger
+- Scary Face
+
+Cyndaquil @ Sitrus Berry
+Ability: Blaze
+Level: 50
+EVs: 108 Atk / 108 SpA
+Docile Nature
+IVs: 0 HP / 0 Def / 0 SpD / 0 Spe
+- Flame Charge
+- Lava Plume
+- Aerial Ace
+- Rollout
+
+Tentacool @ Pecha Berry
+Ability: Liquid Ooze
+Level: 50
+EVs: 108 SpA / 108 Spe
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpD
+- Bubble Beam
+- Acid
+- Sludge Bomb
+- Wrap

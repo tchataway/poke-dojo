@@ -1,0 +1,31 @@
+Vileplume @ Black Sludge
+Ability: Chlorophyll
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 0 Atk
+- Toxic
+- Grass Knot
+- Double Team
+- Attract
+
+Vespiquen @ Wise Glasses
+Ability: Pressure
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+IVs: 0 Atk
+- Bug Buzz
+- Sludge Bomb
+- Power Gem
+- Roost
+
+Electrode @ Jaboca Berry
+Ability: Aftermath
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Thunderbolt
+- Volt Switch
+- Swift
+- Thunder Wave

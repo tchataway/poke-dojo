@@ -1,0 +1,30 @@
+Scizor @ Sitrus Berry
+Ability: Technician
+Level: 50
+EVs: 236 HP / 252 Atk / 20 Def
+Adamant Nature
+- Bullet Punch
+- Thief
+- Roost
+- Swords Dance
+
+Lucario @ Focus Sash
+Ability: Inner Focus
+Level: 50
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Aura Sphere
+- Flash Cannon
+- Dark Pulse
+- Vacuum Wave
+
+Venusaur @ Black Sludge
+Ability: Overgrow
+Level: 50
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+- Giga Drain
+- Sludge Bomb
+- Earth Power
+- Sleep Powder
