@@ -6,6 +6,7 @@ from poke_env.server_configuration import LocalhostServerConfiguration
 from showdown_team_provider import ShowdownTeamProvider
 from battle_tower_player import BattleTowerPlayer
 import random
+import os.path
 
 async def main():
     team_provider = ShowdownTeamProvider()
@@ -13,6 +14,10 @@ async def main():
     current_battle = 1
     used_trainer_names = []
     player_to_challenge = "Default"
+
+    if not os.path.exists('.\\config\\challenger.txt'):
+        print("No challenger file found. If you haven't already, follow the setup steps in the README.")
+        return
 
     with open('.\\config\\challenger.txt') as challenger_file:
         lines = challenger_file.readlines()
