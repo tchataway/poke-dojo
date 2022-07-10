@@ -26,8 +26,8 @@ class DamageCalculatorFormatPokemon():
             self.ability = ability_dex.get_ability(pokemon.ability)
 
         if pokemon.item is None:
-            # API shits its little pants if there's no value here, so put garbage in.
-            self.item = "poopypants"
+            # API requires a non-null value for hold item.
+            self.item = "no_item"
         else:
             self.item = pokemon.item
 
