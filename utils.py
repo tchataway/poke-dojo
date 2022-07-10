@@ -54,7 +54,10 @@ class UtilityFunctions():
         if move.volatile_status == "confusion" and target_ability == "Own Tempo":
             return True
 
-        if move.volatile_status == "attract" and target_ability == "Oblivious":
-            return True
+        if target_ability == "Oblivious":
+            if move.volatile_status == "attract":
+                return True
+            if move.volatile_status == "taunt":
+                return True
 
         return False

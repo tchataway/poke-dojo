@@ -33,3 +33,6 @@ class UtilityFunctionTests(unittest.TestCase):
         attract = Move("attract")
         self.assertFalse(utils.is_move_negated_by_ability(attract, "Mold Breaker", "Oblivious"))
         self.assertTrue(utils.is_move_negated_by_ability(attract, "Adaptability", "Oblivious"))
+        taunt = Move("taunt")
+        self.assertFalse(utils.is_move_negated_by_ability(taunt, "Mold Breaker", "Oblivious"))
+        self.assertTrue(utils.is_move_negated_by_ability(taunt, "Adaptability", "Oblivious"))
