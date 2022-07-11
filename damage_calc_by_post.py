@@ -2,6 +2,16 @@ import requests
 import random
 
 class SimpleDamageCalculator():
+    # Expected format:
+#    attackerObject = {
+#    "species": "Serperior", //species name AS IT IS IN THE POKEDEX  [REQUIRED]
+#    "ability": "Contrary", //ability [REQUIRED]
+#    "item": "Leftovers",  //item [REQUIRED]
+#    "level": 100, //level [REQUIRED], must be a number
+#    "nature": "Modest", //not required, defaults to serious
+#    "evs": {"spa": 252, "spe": 252},  //not required, defaults to 0 in all stats. Valid stats are "hp", "atk", "spa", "def", "spd", "spe"
+#    "ivs": {"atk": 0} //not required, defaults to 31 in any stat not specified
+#}
     def calculate(self, attacker, defender, move):
         #attackerObject = {
         #    "species": attacker.species, #species name AS IT IS IN THE POKEDEX  [REQUIRED]
