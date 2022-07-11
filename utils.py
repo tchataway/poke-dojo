@@ -61,3 +61,6 @@ class UtilityFunctions():
                 return True
 
         return False
+
+    def move_heals_user(self, move):
+        return move.heal > 0 or "heal" in move.flags

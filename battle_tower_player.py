@@ -1,4 +1,5 @@
 from poke_env.environment.effect import Effect
+from poke_env.environment.status import Status
 from poke_env.environment.move_category import MoveCategory
 from poke_env.environment.field import Field
 from poke_env.environment.pokemon_gender import PokemonGender
@@ -13,6 +14,7 @@ import math
 
 class BattleTowerPlayer(Player):
     def choose_move(self, battle):
+        utils = UtilityFunctions()
         # switch if about to faint due to Perish Song
         if Effect.PERISH1 in battle.active_pokemon.effects:
             if battle.available_switches:
@@ -50,7 +52,7 @@ class BattleTowerPlayer(Player):
                         # Can't use status moves while taunted.
                         continue
 
-                    if move.heal > 0:
+                    if utils.move_heals_user(move):
                         # Heal logic is handled elsewhere.
                         continue
 
@@ -65,16 +67,24 @@ class BattleTowerPlayer(Player):
                         # Don't use weather move if weather for move already active.
                         continue
 
-                    if move.pseudo_weather != None and self.is_pseudo_weather_in_fields(move.pseudo_weather, battle.fields):
+                    if move.pseudo_weather != None and self.is_id_in_enum_dict(move.pseudo_weather, battle.fields):
                         # E.g. don't use Trick Room when it's already up.
                         continue
+
+                    if move.side_condition != None and self.is_id_in_enum_dict(
+                        move.side_condition, battle.side_conditions):
+                        # E.g. don't use light screen when it's already up.
+                        continue
+
+                    # Check slot condition (e.g. Wish)
 
                     if move.status != None or move.volatile_status != None:
                         # If we have one of these and got to this point,
                         # we want to use it over everything except preferred
                         # moves and staying alive.
-                        preferred_status_moves.append(move)
-                        continue
+                        if self.is_preferred_status_move(move):
+                            preferred_status_moves.append(move)
+                            continue
 
                     status_moves.append(move)
                     continue
@@ -94,7 +104,21 @@ class BattleTowerPlayer(Player):
                 elif move.damage > 0:
                     simulated_damage = move.damage
                 else:
-                    simulated_damage = damage_calculator.calculate(active_formatter.formatted(), opponent_formatter.formatted(), move_name)
+                    num_hits = random.randint(move.n_hit[0], move.n_hit[1])
+                    simulated_damage = 0
+                    hit_count = 0
+
+                    while hit_count < num_hits:
+                        simulated_damage = simulated_damage + damage_calculator.calculate(active_formatter.formatted(), opponent_formatter.formatted(), move_name)
+                        hit_count = hit_count + 1
+
+                if not simulated_damage > 0 and self.move_works_against_target(
+                    move, battle.active_pokemon, battle.opponent_active_pokemon):
+                    # If damage is 0, but move seems like it should work, the
+                    # calculator may be missing something, so treat it as a
+                    # normal status move for now.
+                    print(move.id + " simulated 0 damage but seems like it should do something. Adding as status option.")
+                    status_moves.append(move)
 
                 print("Damage simulated was " + str(simulated_damage))
 
@@ -131,6 +155,9 @@ class BattleTowerPlayer(Player):
                     if move.current_pp == 0:
                         continue
 
+                    if not utils.move_heals_user(move):
+                        continue
+
                     if move.heal > best_heal:
                         best_heal_move = move
                         best_heal = move.heal
@@ -144,8 +171,31 @@ class BattleTowerPlayer(Player):
 
             return self.create_order(best_move)
         # If no attack is available, a random switch will be made
+        elif len(battle.available_switches) > 0:
+            return self.create_order(self.make_smart_switch(
+                battle.opponent_active_pokemon, battle.available_switches))
         else:
             return self.choose_random_move(battle)
+
+    def make_smart_switch(self, opponent_pokemon, available_switches):
+        if len(available_switches) == 1:
+            # It may not be the smart choice, but it's our only choice.
+            return available_switches[0]
+
+        good_switch_ins = []
+        for switch_option in available_switches:
+            for move in switch_option.moves.values():
+                if opponent_pokemon.damage_multiplier(move) > 1:
+                    # This Pokemon has a super effective move against the
+                    # opponent. Add to our good switch-in list.
+                    good_switch_ins.append(switch_option)
+
+        if len(good_switch_ins) > 0:
+            # We have at least one good switch-in! Choose one at random.
+            return random.choice(good_switch_ins)
+
+        # Otherwise... choose anything. It's all the same.
+        return random.choice(available_switches)
 
     def teampreview(self, battle):
         return "/team 123"
@@ -172,7 +222,7 @@ class BattleTowerPlayer(Player):
             # E.g. confusion, taunted, leech seed -- can't have same one twice.
             target_effects = list(target.effects.keys())
             for effect in target_effects:
-                if effect.name == move.volatile_status.upper(): # TODO: Implement better conversion for volatile status IDs
+                if self.id_from_enum_value(effect) == move.volatile_status:
                     return False
                 
             if move.volatile_status == "followme":
@@ -216,14 +266,27 @@ class BattleTowerPlayer(Player):
 
         return False
 
-    def is_pseudo_weather_in_fields(self, pseudo_weather, fields):
-        for field in fields.keys():
-            if pseudo_weather == self.id_from_field(field):
+    def is_id_in_enum_dict(self, id_text, enum_dict):
+        for enum_value in enum_dict.keys():
+            if id_text == self.id_from_enum_value(enum_value):
                 return True
 
         return False
 
-    def id_from_field(self, field):
-        field_text = field.name
-        field_text = field_text.lower()
-        return field_text.replace("_", "")
+    def id_from_enum_value(self, enum_value):
+        enum_value_text = enum_value.name
+        enum_value_text = enum_value_text.lower()
+        return enum_value_text.replace("_", "")
+
+    def is_preferred_status_move(self, move):
+        if move.status == Status.SLP:
+            # Love sleepy-byes.
+            return True
+
+        if move.volatile_status == Effect.ATTRACT:
+            return True
+
+        if move.volatile_status == Effect.CONFUSION:
+            return True
+
+        return False
