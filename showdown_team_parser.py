@@ -18,12 +18,13 @@ class ShowdownTeamParser():
             if "species" not in current_pokemon.keys():
                 # Parse species and hold item line.
                 parts = re.findall("([A-Za-z\\s]{2,})", line)
-                print("Species line, I think. Line: " + line)
-                print("RegEx findall result:")
-                print(parts)
                 has_nickname = "(" in line
                 has_hold_item = "@" in line
-                current_pokemon["species"] = parts[0].strip()
+
+                if has_nickname:
+                    current_pokemon["species"] = parts[1].strip()
+                else:
+                    current_pokemon["species"] = parts[0].strip()
 
                 if has_nickname and has_hold_item:
                     current_pokemon["item"] = parts[2].strip()
@@ -33,15 +34,15 @@ class ShowdownTeamParser():
                 continue
 
             if line.startswith("Ability: "):
-                current_pokemon["ability"] = line.replace("Ability: ", "")
+                current_pokemon["ability"] = line.replace("Ability: ", "").strip()
                 continue
 
             if line.startswith("Level: "):
-                current_pokemon["level"] = line.replace("Level: ", "")
+                current_pokemon["level"] = line.replace("Level: ", "").strip()
                 continue
 
             if line.endswith(" Nature"):
-                current_pokemon["nature"] = line.replace(" Nature", "")
+                current_pokemon["nature"] = line.replace(" Nature", "").strip()
                 continue
 
             if line.startswith("EVs: "):
@@ -58,7 +59,7 @@ class ShowdownTeamParser():
                 if "moves" not in current_pokemon.keys():
                     current_pokemon["moves"] = []
 
-                current_pokemon["moves"].append(line.replace("- ", ""))
+                current_pokemon["moves"].append(line.replace("- ", "").strip())
                 continue
 
         result[current_pokemon["species"]] = current_pokemon

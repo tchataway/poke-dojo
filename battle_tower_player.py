@@ -4,15 +4,55 @@ from poke_env.environment.move_category import MoveCategory
 from poke_env.environment.field import Field
 from poke_env.environment.pokemon_gender import PokemonGender
 from poke_env.player.player import Player
+from poke_env.player_configuration import PlayerConfiguration
+from poke_env.server_configuration import ServerConfiguration
+from poke_env.teambuilder.teambuilder import Teambuilder
 from damage_calc_by_post import SimpleDamageCalculator
 from poke_env.data import MOVES
 from poke_env.data import POKEDEX
 from damage_calculator_format_pokemon import DamageCalculatorFormatPokemon
+from showdown_team_parser import ShowdownTeamParser
 from utils import UtilityFunctions
 import random
 import math
+from typing import Optional, Union
+from os import listdir
+from os.path import isfile, join
+import os.path
 
 class BattleTowerPlayer(Player):
+    def __init__(
+        self,
+        player_configuration: Optional[PlayerConfiguration] = None,
+        *,
+        avatar: Optional[int] = None,
+        battle_format: Optional[str] = None,
+        log_level: Optional[int] = None,
+        max_concurrent_battles: int = 1,
+        save_replays: Union[bool, str] = False,
+        server_configuration: Optional[ServerConfiguration] = None,
+        start_timer_on_battle_start: bool = False,
+        start_listening: bool = True,
+        team: Optional[Union[str, Teambuilder]] = None,
+    ):
+        # Cache our own team deets for use in damage calculation later.
+        showdown_team_parser = ShowdownTeamParser()
+        self.team_directory = showdown_team_parser.parse_team(team)
+        self.opponent_team_directory = {}
+
+        super().__init__(
+            player_configuration=player_configuration,
+            avatar=avatar,
+            battle_format=battle_format,
+            log_level=log_level,
+            max_concurrent_battles=max_concurrent_battles,
+            save_replays=save_replays,
+            server_configuration=server_configuration,
+            start_timer_on_battle_start=start_timer_on_battle_start,
+            start_listening=start_listening,
+            team=team,
+        )
+
     def choose_move(self, battle):
         utils = UtilityFunctions()
         # switch if about to faint due to Perish Song
@@ -30,8 +70,20 @@ class BattleTowerPlayer(Player):
         damage_calculator = SimpleDamageCalculator()
         if battle.available_moves:
             print(battle.available_moves)
-            active_formatter = DamageCalculatorFormatPokemon(battle.active_pokemon)
-            opponent_formatter = DamageCalculatorFormatPokemon(battle.opponent_active_pokemon)
+            active_pokemon_stats = self.team_directory[self.pokemon_species(battle.active_pokemon.species)]
+            opponent_active_pokemon_stats = DamageCalculatorFormatPokemon(battle.opponent_active_pokemon).formatted()
+
+            print("Checking if opponent_team_directory is populated...")
+            if len(self.opponent_team_directory.keys()) > 0:
+                print("It is:")
+                print(self.opponent_team_directory)
+                # Use challenger's team stats to help with damage calculation.
+                opponent_active_pokemon_stats = self.opponent_team_directory[self.pokemon_species(battle.opponent_active_pokemon.species)]
+
+                # The AI knows everything about the opposing Pokemon... unless its
+                # species has more than one ability to choose from. Get or guess that
+                # here.
+                opponent_active_pokemon_stats["ability"] = utils.get_or_guess_ability(battle.opponent_active_pokemon)
 
             best_move = random.choice(battle.available_moves)
             best_damage = 0
@@ -109,7 +161,7 @@ class BattleTowerPlayer(Player):
                     hit_count = 0
 
                     while hit_count < num_hits:
-                        simulated_damage = simulated_damage + damage_calculator.calculate(active_formatter.formatted(), opponent_formatter.formatted(), move_name)
+                        simulated_damage = simulated_damage + damage_calculator.calculate(active_pokemon_stats, opponent_active_pokemon_stats, move_name)
                         hit_count = hit_count + 1
 
                 if not simulated_damage > 0 and self.move_works_against_target(
@@ -122,7 +174,7 @@ class BattleTowerPlayer(Player):
 
                 print("Damage simulated was " + str(simulated_damage))
 
-                if simulated_damage > self.guess_current_hp(battle.opponent_active_pokemon):
+                if simulated_damage >= self.guess_current_hp(battle.opponent_active_pokemon):
                     # Does this move knock out our opponent? If so, add to preferred moves.
                     preferred_moves.append(move)
 
@@ -198,7 +250,58 @@ class BattleTowerPlayer(Player):
         return random.choice(available_switches)
 
     def teampreview(self, battle):
+        # Try to cache opponent's team's stats for damage calculation.
+        opponent_team_path = ".\\config\\Challenger Teams"
+        print("Attempting to find opponent's team on disk...")
+        if os.path.exists(opponent_team_path):
+            print("Team path found...")
+            showdown_team_parser = ShowdownTeamParser()
+            print("Gathering file names...")
+            team_files = [f for f in listdir(opponent_team_path) if isfile(join(opponent_team_path, f))]
+            print(str(len(team_files)) + " found:")
+            print(team_files)
+
+            for team_file in team_files:
+                print("Reading " + team_file + "...")
+                lines = []
+                team = ""
+                with open(opponent_team_path + "\\" + team_file) as f:
+                    #lines = f.readlines()
+                    team = f.read()
+                
+                print("Parsing team...")
+                team_dir = showdown_team_parser.parse_team(team)
+                find_count = 0
+
+                print("Iterating over opponent's team in preview...")
+                for opponent_pokemon in battle.opponent_team.values():
+                    print("Checking pokemon species in team dir's keys...")
+                    print("Opponent pokemon species is: " + self.pokemon_species(opponent_pokemon.species))
+                    print("Team dir's keys are:")
+                    print(team_dir.keys())
+                    if self.pokemon_species(opponent_pokemon.species) in team_dir.keys():
+                        print("Pokemon found! Incrementing find count to " + str(find_count))
+                        find_count = find_count + 1
+                    else:
+                        print("No match. Wrong file.")
+                        break
+
+                print("Checking find count (it's " + str(find_count) + ")")
+                if find_count == len(battle.opponent_team.values()):
+                    print("They're all here! Update opponent_team_directory.")
+                    # Found the whole team in this showdown file.
+                    self.opponent_team_directory = team_dir
+                    print("opponent_team_directory is:")
+                    print(self.opponent_team_directory)
+                    break
+
         return "/team 123"
+
+    def pokemon_species(self, species_id):
+        if species_id not in POKEDEX.keys():
+            return species_id
+
+        return POKEDEX[species_id].get('name')
 
     def guess_current_hp(self, pokemon):
         print("Guessing " + pokemon.species + "'s current HP.")
@@ -211,7 +314,30 @@ class BattleTowerPlayer(Player):
     def guess_max_hp(self, pokemon):
         pokedex_entry = POKEDEX[pokemon.species];
         hp_base = pokedex_entry.get('baseStats').get('hp')
-        return math.floor(0.01 * (2 * hp_base + 31 + math.floor(0.25 * 0)) * pokemon.level) + pokemon.level + 10
+        iv = 31
+        ev = 0
+
+        if pokedex_entry.get('name') in self.opponent_team_directory.keys():
+            # We have the exact stats for this one. Use those instead.
+            directory_pokemon = self.opponent_team_directory[pokedex_entry.get('name')]
+            ivs = {}
+            evs = {}
+
+            if "ivs" in directory_pokemon.keys():
+                ivs = directory_pokemon["ivs"]
+
+            if "evs" in directory_pokemon.keys():
+                evs = directory_pokemon["evs"]
+
+            if "hp" in ivs.keys():
+                print("Found HP IV for opponent Pokemon, changing default.")
+                iv = int(ivs["hp"])
+
+            if "hp" in evs.keys():
+                print("Found HP EV for opposing Pokemon, changing from default.")
+                ev = int(evs["hp"])
+
+        return math.floor(0.01 * (2 * hp_base + iv + math.floor(0.25 * ev)) * pokemon.level) + pokemon.level + 10
 
     def move_works_against_target(self, move, user, target):
         if move.status is not None and target.status is not None:
@@ -249,7 +375,6 @@ class BattleTowerPlayer(Player):
         if move.volatile_status == "attract" and not self.genders_are_attract_compatible(user.gender, target.gender):
             return False
 
-        utils = UtilityFunctions()
         if move.target != "self" and Effect.SUBSTITUTE in list(target.effects.keys()):
             if move.category == MoveCategory.STATUS and utils.move_targets_single_pokemon(move.target):
                 # Status moves don't work on substitutes of other Pokemon.
