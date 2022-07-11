@@ -22,20 +22,28 @@ async def main():
     with open('.\\config\\challenger.txt') as challenger_file:
         lines = challenger_file.readlines()
         if len(lines) > 0:
-            player_to_challenge = lines[0]
+            player_to_challenge = lines[0].strip()
 
-    # Get specific trainer and team.
-#    trainer_name_and_team = team_provider.get_specific_team("Jamison", "Team 2")
-#    player = BattleTowerPlayer(
-#        player_configuration=PlayerConfiguration(trainer_name_and_team[0], None),
-#        battle_format="gen8bdsp3v3singles",
-#        server_configuration=LocalhostServerConfiguration,
-#        team=trainer_name_and_team[1],
-#        log_level=10,
-#    )
-#    
-#    await player.send_challenges(player_to_challenge, n_challenges=1)
-#    return
+    # Check for specific trainer and team config.
+    specific_trainer_config_path = '.\\config\\specific_trainer_and_team.txt'
+    if os.path.exists(specific_trainer_config_path):
+        with open(specific_trainer_config_path) as specific_team_file:
+            lines = specific_team_file.readlines()
+            if len(lines) > 1:
+                trainer_name = lines[0].strip()
+                team_name = lines[1].strip()
+
+                trainer_name_and_team = team_provider.get_specific_team(trainer_name, team_name)
+                player = BattleTowerPlayer(
+                    player_configuration=PlayerConfiguration(trainer_name, None),
+                    battle_format="gen8bdsp3v3singles",
+                    server_configuration=LocalhostServerConfiguration,
+                    team=trainer_name_and_team[1],
+                    log_level=10,
+                )
+                
+                await player.send_challenges(player_to_challenge, n_challenges=1)
+                return
 
     # Standard set rotation
     while current_set < 8: # 8 would be Master.
