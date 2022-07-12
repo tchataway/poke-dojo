@@ -63,11 +63,11 @@ class BattleTowerPlayer(Player):
                 self.logger.debug("Found perish1, switching")
                 return self.create_order(random.choice(battle.available_switches))
 
-        preferred_moves = [] # preferred moves are the tactical chefs' kiss. If
+        top_priority_moves = [] # preferred moves are the tactical chefs' kiss. If
                              # any moves are in this list after assessing options,
                              # one of them will be chosen.
         status_moves = [] # Any status category moves (moves that don't deal damage)
-        preferred_status_moves = [] # Moves like Attract, Will-O-Wisp, etc.
+        high_priority_moves = [] # Moves like Attract, Will-O-Wisp, etc.
 
         damage_calculator = SimpleDamageCalculator()
         if battle.available_moves:
@@ -130,14 +130,14 @@ class BattleTowerPlayer(Player):
                         # E.g. don't use light screen when it's already up.
                         continue
 
-                    # Check slot condition (e.g. Wish)
+                    # TODO: Check slot condition (e.g. Wish)
 
                     if move.status != None or move.volatile_status != None:
                         # If we have one of these and got to this point,
                         # we want to use it over everything except preferred
                         # moves and staying alive.
                         if self.is_preferred_status_move(move):
-                            preferred_status_moves.append(move)
+                            high_priority_moves.append(move)
                             continue
 
                     status_moves.append(move)
@@ -178,17 +178,17 @@ class BattleTowerPlayer(Player):
 
                 if simulated_damage >= self.guess_current_hp(battle.opponent_active_pokemon):
                     # Does this move knock out our opponent? If so, add to preferred moves.
-                    preferred_moves.append(move)
+                    top_priority_moves.append(move)
 
                 if simulated_damage > best_damage:
                     print("Which is greater than current best, which was " + str(best_damage) + ", updating best move to " + move_name)
                     best_damage = simulated_damage
                     best_move = move
 
-            if len(preferred_moves) > 0:
-                print("Selecting a potential KO move from " + str(len(preferred_moves)) + " preferred moves:")
-                print(preferred_moves)
-                return self.create_order(random.choice(preferred_moves))
+            if len(top_priority_moves) > 0:
+                print("Selecting a potential KO move from " + str(len(top_priority_moves)) + " preferred moves:")
+                print(top_priority_moves)
+                return self.create_order(random.choice(top_priority_moves))
 
             # We don't see any potential KOs at present, so combine best damage move
             # with status moves into a single pool and set that as our current
@@ -205,12 +205,15 @@ class BattleTowerPlayer(Player):
                 print("Below 50% HP; checking for healing moves...")
                 best_heal = 0
                 best_heal_move = random.choice(battle.available_moves)
+                all_heals = []
                 for move in battle.available_moves:
                     if move.current_pp == 0:
                         continue
 
                     if not utils.move_heals_user(move):
                         continue
+
+                    all_heals.append(move)
 
                     if move.heal > best_heal:
                         best_heal_move = move
@@ -219,9 +222,18 @@ class BattleTowerPlayer(Player):
                 if best_heal > 0:
                     print("Determined " + MOVES[best_heal_move.id].get("name", None) + " is best heal, using it.")
                     return self.create_order(best_heal_move)
+                elif len(all_heals) > 0:
+                    # We don't have a move that literally heals us for a
+                    # percentage of our max hp, but we do have one or more
+                    # healing moves (maybe a drain move), so pick one at random.
+                    print("No great heals, but have sub-heals. Choosing one.")
+                    print(all_heals)
+                    sub_heal = random.choice(all_heals)
+                    print("Randomly chose " + sub_heal.id + " from options.")
+                    return self.create_order(sub_heal)
 
-            if len(preferred_status_moves) > 0:
-                return self.create_order(random.choice(preferred_status_moves))
+            if len(high_priority_moves) > 0:
+                return self.create_order(random.choice(high_priority_moves))
 
             return self.create_order(best_move)
         elif len(battle.available_switches) > 0:
