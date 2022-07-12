@@ -24,6 +24,16 @@ async def main():
         if len(lines) > 0:
             player_to_challenge = lines[0].strip()
 
+    # Check for custom start point.
+    start_point_path = '.\\config\\start_point.txt'
+    if os.path.exists(start_point_path):
+        with open(start_point_path) as start_point_file:
+            lines = start_point_file.readlines()
+            if len(lines) > 1:
+                current_set = int(lines[0].strip())
+                current_battle = int(lines[1].strip())
+
+
     # Check for specific trainer and team config.
     specific_trainer_config_path = '.\\config\\specific_trainer_and_team.txt'
     if os.path.exists(specific_trainer_config_path):
@@ -88,6 +98,11 @@ async def main():
         else:
             current_set = current_set + 1
             current_battle = 1
+
+        if os.path.exists(start_point_path):
+            # Overwrite start point to save progress, if file exists.
+            with open(start_point_path, 'w') as start_point_file:
+                start_point_file.writelines([str(current_set), '\n', str(current_battle)])
 
     print("Battle Tower simulation complete.")
 
