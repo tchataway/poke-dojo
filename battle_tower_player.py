@@ -39,6 +39,7 @@ class BattleTowerPlayer(Player):
         showdown_team_parser = ShowdownTeamParser()
         self.team_directory = showdown_team_parser.parse_team(team)
         self.opponent_team_directory = {}
+        self.active_pokemon_turn_counter = 0
 
         super().__init__(
             player_configuration=player_configuration,
@@ -55,6 +56,7 @@ class BattleTowerPlayer(Player):
 
     def choose_move(self, battle):
         utils = UtilityFunctions()
+        self.active_pokemon_turn_counter = self.active_pokemon_turn_counter + 1
         # switch if about to faint due to Perish Song
         if Effect.PERISH1 in battle.active_pokemon.effects:
             if battle.available_switches:
@@ -141,7 +143,7 @@ class BattleTowerPlayer(Player):
                     status_moves.append(move)
                     continue
 
-                if move.id == "fakeout" and not battle.active_pokemon.first_turn:
+                if move.id == "fakeout" and self.active_pokemon_turn_counter > 1:
                     # Fake Out only works on the first turn, so skip.
                     continue
 
@@ -222,11 +224,13 @@ class BattleTowerPlayer(Player):
                 return self.create_order(random.choice(preferred_status_moves))
 
             return self.create_order(best_move)
-        # If no attack is available, a random switch will be made
         elif len(battle.available_switches) > 0:
+            self.active_pokemon_turn_counter = 0
             return self.create_order(self.make_smart_switch(
                 battle.opponent_active_pokemon, battle.available_switches))
         else:
+            # Random switch.
+            self.active_pokemon_turn_counter = 0
             return self.choose_random_move(battle)
 
     def make_smart_switch(self, opponent_pokemon, available_switches):
