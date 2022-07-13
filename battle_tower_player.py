@@ -145,6 +145,12 @@ class BattleTowerPlayer(Player):
 
                     # TODO: Check slot condition (e.g. Wish)
 
+                    if move.boosts != None and self.utility_functions.move_boosts_are_useless(battle.active_pokemon, move):
+                        # This move boosts stats, but all of the stats it boosts
+                        # are already at maximum boost level.
+                        print("Move boosts stats, but all stats it boosts are already maxed. Skipping.")
+                        continue
+
                     if self.utility_functions.move_drops_target_speed(move) and self.is_target_faster_than_user(battle.opponent_active_pokemon, battle.active_pokemon) and self.get_boost_for_stat(battle.opponent_active_pokemon.boosts, "spe") > -6:
                         # This move drops the opponent's speed, they're faster than us, AND they're not
                         # at minimum speed yet.

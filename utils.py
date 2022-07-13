@@ -201,3 +201,26 @@ class UtilityFunctions():
             return False
 
         return True
+
+    def move_boosts_are_useless(self, user, move):
+        if len(user.boosts.keys()) == 0:
+            # User has no boosts, so any boosts are useful!
+            return False
+            
+        if move.boosts is None:
+            # Not sure why this function was called if the move doesn't even
+            # boost anything. If it doesn't boost anything, it does something
+            # else, and therefore isn't definitely a useless move.
+            return False
+
+        for boost in move.boosts.keys():
+            if move.boosts[boost] < 1:
+                # We only care about buffs.
+                continue
+
+            if boost in user.boosts.keys():
+                if user.boosts[boost] < 6:
+                    # Room for improvement!
+                    return False
+
+        return True
