@@ -152,12 +152,15 @@ class BattleTowerPlayer(Player):
                         high_priority_moves.append(move)
                         continue
 
+                    if self.utility_functions.is_useable_setup_move(battle.active_pokemon, move) and self.is_user_able_to_survive_turn(battle.active_pokemon, active_pokemon_stats, opponent_active_pokemon_stats):
+                        # If we have a setup move, and our opponent can't KO us this turn,
+                        # add to high priorities.
+                        high_priority_moves.append(move)
+                        continue
+
                     if move.status != None or move.volatile_status != None:
-                        # If we have one of these and got to this point,
-                        # we want to use it over everything except preferred
-                        # moves and staying alive.
                         print("It inflicts either a primary or secondary status.")
-                        if self.is_preferred_status_move(move, battle.active_pokemon, battle.opponent_active_pokemon):
+                        if self.is_high_priority_status_move(move, battle.active_pokemon, battle.opponent_active_pokemon):
                             print("Status is high priority. Adding to high priority moves.")
                             high_priority_moves.append(move)
                             continue
@@ -443,7 +446,7 @@ class BattleTowerPlayer(Player):
         enum_value_text = enum_value_text.lower()
         return enum_value_text.replace("_", "")
 
-    def is_preferred_status_move(self, move, user, target):
+    def is_high_priority_status_move(self, move, user, target):
         if move.status != None:
             # All primary status is good.
             return True
@@ -511,3 +514,16 @@ class BattleTowerPlayer(Player):
 
         print("Found boost. It's " + str(boosts[stat]))
         return boosts[stat]
+
+    def is_user_able_to_survive_turn(self, active_pokemon, active_pokemon_stats, opponent_active_pokemon_stats):
+        damage_calculator = SimpleDamageCalculator()
+
+        for move in opponent_active_pokemon_stats["moves"]:
+            # Holy crap we're actually using the moves from the stat block.
+            simulated_damage = damage_calculator.calculate(active_pokemon_stats, opponent_active_pokemon_stats, move)
+
+            if simulated_damage >= active_pokemon.current_hp:
+                # Move could knock us out. RIP.
+                return False
+
+        return True

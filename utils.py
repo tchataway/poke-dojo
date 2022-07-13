@@ -163,3 +163,41 @@ class UtilityFunctions():
 
         print("Move does damage.")
         return False
+
+    def is_useable_setup_move(self, user, move):
+        if move.target != "self":
+            return False
+
+        if move.boosts is None:
+            return False
+
+        attack_boost = 0
+        special_attack_boost = 0
+
+        if "atk" in move.boosts.keys():
+            attack_boost = move.boosts["atk"]
+
+        if "spa" in move.boosts.keys():
+            special_attack_boost = move.boosts["spa"]
+
+        if attack_boost < 1 and special_attack_boost < 1:
+            return False
+
+        user_attack_stage = 0
+        user_special_attack_stage = 0
+
+        if "atk" in user.boosts.keys():
+            user_attack_stage = user.boosts["atk"]
+
+        if "spa" in user.boosts.keys():
+            user_special_attack_stage = user.boosts["spa"]        
+
+        boosted_atk = min(user_attack_stage + attack_boost, 6)
+        boosted_spa = min(user_special_attack_stage + special_attack_boost, 6)
+
+        if boosted_atk == user_attack_stage and boosted_spa == user_special_attack_stage:
+            # In other words, would boosting effectively do nothing at all to either
+            # stat?
+            return False
+
+        return True

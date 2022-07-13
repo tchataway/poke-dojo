@@ -69,3 +69,19 @@ class UtilityFunctionTests(unittest.TestCase):
         self.assertEqual(self.utils.calculate_stat_fraction(4), [6, 2])
         self.assertEqual(self.utils.calculate_stat_fraction(5), [7, 2])
         self.assertEqual(self.utils.calculate_stat_fraction(6), [8, 2])
+
+    def test_is_setup_move_success(self):
+        # Yes, this charmander knows charge beam.
+        charmander = Pokemon("charmander")
+
+        # Swords Dance (true)
+        swords_dance = Move("swordsdance")
+        self.assertTrue(self.utils.is_setup_move(charmander, swords_dance))
+
+        # Flamethrower (false)
+        flamethrower = Move("flamethrower")
+        self.assertFalse(self.utils.is_setup_move(charmander, flamethrower))
+
+        # Charge Beam (false)
+        charge_beam = Move("chargebeam")
+        self.assertFalse(self.utils.is_setup_move(charmander, charge_beam))
