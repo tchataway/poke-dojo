@@ -40,6 +40,7 @@ class BattleTowerPlayer(Player):
         self.team_directory = showdown_team_parser.parse_team(team)
         self.opponent_team_directory = {}
         self.active_pokemon_turn_counter = 0
+        self.utility_functions = UtilityFunctions()
 
         super().__init__(
             player_configuration=player_configuration,
@@ -55,7 +56,6 @@ class BattleTowerPlayer(Player):
         )
 
     def choose_move(self, battle):
-        utils = UtilityFunctions()
         self.active_pokemon_turn_counter = self.active_pokemon_turn_counter + 1
         # switch if about to faint due to Perish Song
         if Effect.PERISH1 in battle.active_pokemon.effects:
@@ -85,69 +85,97 @@ class BattleTowerPlayer(Player):
                 # The AI knows everything about the opposing Pokemon... unless its
                 # species has more than one ability to choose from. Get or guess that
                 # here.
-                opponent_active_pokemon_stats["ability"] = utils.get_or_guess_ability(battle.opponent_active_pokemon)
+                opponent_active_pokemon_stats["ability"] = self.utility_functions.get_or_guess_ability(battle.opponent_active_pokemon)
 
             best_move = random.choice(battle.available_moves)
             best_damage = 0
+            print("Iterating over available_moves, which are currently:")
+            print(battle.available_moves)
             for move in battle.available_moves:
+                print("Evaluating " + move.id + "...")
                 if move.current_pp == 0:
                     # Skip if out of PP.
+                    print("Out of PP.")
                     continue
 
                 if move.id not in MOVES.keys():
                     # Might be a forced "move" like recharging after a Hyper Beam
+                    print("Couldn't find move in dict.")
                     continue
 
                 # Special handling for status moves.
                 if move.category == MoveCategory.STATUS:
                     # If it's a move we can use, add it to status moves list.
+                    print("It's a status move...")
                     
                     if Effect.TAUNT in battle.active_pokemon.effects:
                         # Can't use status moves while taunted.
+                        print("Taunted, can't use.")
                         continue
 
-                    if utils.move_heals_user(move):
+                    if self.utility_functions.move_heals_user(move) and self.utility_functions.move_does_no_damage(move):
                         # Heal logic is handled elsewhere.
+                        print("Healing move, handle elsewhere.")
                         continue
 
                     if move.target != "self" and not self.move_works_against_target(move, battle.active_pokemon, battle.opponent_active_pokemon):
                         # Skip if move targets a foe but foe is immune to it.
+                        print("Foe immune to move.")
                         continue
                     elif move.target == "self" and not self.move_works_against_target(move, battle.active_pokemon, battle.active_pokemon):
                         # Skip if we can't use move on ourself (e.g. Substitute while Substitute is active)
+                        print("Can't use this move on ourselves for some reason.")
                         continue
 
                     if move.weather != None and move.weather in battle.weather.keys():
                         # Don't use weather move if weather for move already active.
+                        print("Weather already active.")
                         continue
 
                     if move.pseudo_weather != None and self.is_id_in_enum_dict(move.pseudo_weather, battle.fields):
                         # E.g. don't use Trick Room when it's already up.
+                        print("pseudo_weather already active.")
                         continue
 
                     if move.side_condition != None and self.is_id_in_enum_dict(
                         move.side_condition, battle.side_conditions):
                         # E.g. don't use light screen when it's already up.
+                        print("Side condition already active.")
                         continue
 
                     # TODO: Check slot condition (e.g. Wish)
+
+                    if self.utility_functions.move_drops_target_speed(move) and self.is_target_faster_than_user(battle.opponent_active_pokemon, battle.active_pokemon) and self.get_boost_for_stat(battle.opponent_active_pokemon.boosts, "spe") > -6:
+                        # This move drops the opponent's speed, they're faster than us, AND they're not
+                        # at minimum speed yet.
+                        print("It controls speed, opponent is faster, and opponent isn't at min speed. Adding to high priority moves.")
+                        high_priority_moves.append(move)
+                        continue
 
                     if move.status != None or move.volatile_status != None:
                         # If we have one of these and got to this point,
                         # we want to use it over everything except preferred
                         # moves and staying alive.
-                        if self.is_preferred_status_move(move):
+                        print("It inflicts either a primary or secondary status.")
+                        if self.is_preferred_status_move(move, battle.active_pokemon, battle.opponent_active_pokemon):
+                            print("Status is high priority. Adding to high priority moves.")
                             high_priority_moves.append(move)
                             continue
 
+                    print("Normal, viable status move. Adding to status move list.")
                     status_moves.append(move)
                     continue
 
                 if move.id == "fakeout" and self.active_pokemon_turn_counter > 1:
                     # Fake Out only works on the first turn, so skip.
+                    print("It's fake out. Skipping due to turn counter.")
                     continue
+                elif move.id == "fakeout":
+                    # Otherwise, use it! One of the few scenarios where we want
+                    # to use it even if we have a potential KO.
+                    return self.create_order(move)
 
-                print("Simulating damage rolls...")
+                print("Simulating damage roll for " + move.id)
                 move_name = MOVES[move.id].get("name", None)
                 print("Simulating damage for " + move_name)
                 simulated_damage = 0
@@ -179,6 +207,13 @@ class BattleTowerPlayer(Player):
                 if simulated_damage >= self.guess_current_hp(battle.opponent_active_pokemon):
                     # Does this move knock out our opponent? If so, add to preferred moves.
                     top_priority_moves.append(move)
+                    continue
+
+                if self.utility_functions.move_drops_target_speed(move) and self.is_target_faster_than_user(battle.opponent_active_pokemon, battle.active_pokemon) and self.get_boost_for_stat(battle.opponent_active_pokemon.boosts, "spe") > -6:
+                    # Speed control is second only to potential KOs.
+                    print("Judged target to be faster than us, and " + move.id + " seems to lower speed. Adding to high priority moves.")
+                    high_priority_moves.append(move)
+                    continue
 
                 if simulated_damage > best_damage:
                     print("Which is greater than current best, which was " + str(best_damage) + ", updating best move to " + move_name)
@@ -186,7 +221,7 @@ class BattleTowerPlayer(Player):
                     best_move = move
 
             if len(top_priority_moves) > 0:
-                print("Selecting a potential KO move from " + str(len(top_priority_moves)) + " preferred moves:")
+                print("Selecting a potential KO move from " + str(len(top_priority_moves)) + " top priority moves:")
                 print(top_priority_moves)
                 return self.create_order(random.choice(top_priority_moves))
 
@@ -195,10 +230,9 @@ class BattleTowerPlayer(Player):
             # best move.
             move_options = status_moves
             move_options.append(best_move)
-            print("Move options at this point are ")
+            print("Normal move options at this point are ")
             print(move_options)
             best_move = random.choice(move_options)
-            print("Randomly selected " + best_move.id + " from move options")            
 
             if battle.active_pokemon.current_hp_fraction < 0.5:
                 # We're damaged; check for healing moves.
@@ -210,7 +244,7 @@ class BattleTowerPlayer(Player):
                     if move.current_pp == 0:
                         continue
 
-                    if not utils.move_heals_user(move):
+                    if not self.utility_functions.move_heals_user(move):
                         continue
 
                     all_heals.append(move)
@@ -233,8 +267,12 @@ class BattleTowerPlayer(Player):
                     return self.create_order(sub_heal)
 
             if len(high_priority_moves) > 0:
+                print("1 or more high priority moves found:")
+                print(high_priority_moves)
+                print("Selecting one.")
                 return self.create_order(random.choice(high_priority_moves))
 
+            print("Randomly selected " + best_move.id + " from move options")            
             return self.create_order(best_move)
         elif len(battle.available_switches) > 0:
             self.active_pokemon_turn_counter = 0
@@ -336,22 +374,9 @@ class BattleTowerPlayer(Player):
         if pokedex_entry.get('name') in self.opponent_team_directory.keys():
             # We have the exact stats for this one. Use those instead.
             directory_pokemon = self.opponent_team_directory[pokedex_entry.get('name')]
-            ivs = {}
-            evs = {}
-
-            if "ivs" in directory_pokemon.keys():
-                ivs = directory_pokemon["ivs"]
-
-            if "evs" in directory_pokemon.keys():
-                evs = directory_pokemon["evs"]
-
-            if "hp" in ivs.keys():
-                print("Found HP IV for opponent Pokemon, changing default.")
-                iv = int(ivs["hp"])
-
-            if "hp" in evs.keys():
-                print("Found HP EV for opposing Pokemon, changing from default.")
-                ev = int(evs["hp"])
+            
+            ev = self.utility_functions.get_ev_from_stat_block(directory_pokemon, "hp")
+            iv = self.utility_functions.get_iv_from_stat_block(directory_pokemon, "hp")
 
         return math.floor(0.01 * (2 * hp_base + iv + math.floor(0.25 * ev)) * pokemon.level) + pokemon.level + 10
 
@@ -380,10 +405,9 @@ class BattleTowerPlayer(Player):
             return False
 
         print("Checking abilities...")
-        utils = UtilityFunctions()
-        if utils.is_move_negated_by_ability(move,
-            utils.get_or_guess_ability(user),
-            utils.get_or_guess_ability(target)):
+        if self.utility_functions.is_move_negated_by_ability(move,
+            self.utility_functions.get_or_guess_ability(user),
+            self.utility_functions.get_or_guess_ability(target)):
             return False
 
         # TODO: Check item.
@@ -392,7 +416,7 @@ class BattleTowerPlayer(Player):
             return False
 
         if move.target != "self" and Effect.SUBSTITUTE in list(target.effects.keys()):
-            if move.category == MoveCategory.STATUS and utils.move_targets_single_pokemon(move.target):
+            if move.category == MoveCategory.STATUS and self.utility_functions.move_targets_single_pokemon(move.target):
                 # Status moves don't work on substitutes of other Pokemon.
                 return False
 
@@ -419,15 +443,71 @@ class BattleTowerPlayer(Player):
         enum_value_text = enum_value_text.lower()
         return enum_value_text.replace("_", "")
 
-    def is_preferred_status_move(self, move):
-        if move.status == Status.SLP:
-            # Love sleepy-byes.
+    def is_preferred_status_move(self, move, user, target):
+        if move.status != None:
+            # All primary status is good.
             return True
 
-        if move.volatile_status == Effect.ATTRACT:
+        if move.volatile_status == "attract":
             return True
 
-        if move.volatile_status == Effect.CONFUSION:
+        if move.volatile_status == "confusion":
+            return True
+
+        if move.volatile_status == "partiallyTrapped":
             return True
 
         return False
+
+    def is_target_faster_than_user(self, target, user):
+        target_speed_nom_and_dom = [2, 2]
+        if target.boosts != None and "spe" in target.boosts.keys():
+            target_speed_nom_and_dom = self.utility_functions.calculate_stat_fraction(target.boosts["spe"])
+
+        user_speed_nom_and_dom = [2, 2]
+        if user.boosts != None and "spe" in user.boosts.keys():
+            user_speed_nom_and_dom = self.utility_functions.calculate_stat_fraction(user.boosts["spe"])
+
+        target_speed_factor = target_speed_nom_and_dom[0] / target_speed_nom_and_dom[1]
+        user_speed_factor = user_speed_nom_and_dom[0] / user_speed_nom_and_dom[1]
+
+        target_base_speed = self.calculate_speed_stat(target, False)
+        user_base_speed = self.calculate_speed_stat(user, True)
+
+        target_actual_speed = math.floor(target_base_speed * target_speed_factor)
+        print("Calculated target's actual speed at " + str(target_actual_speed))
+
+        user_actual_speed = math.floor(user_base_speed * user_speed_factor)
+        print("Calculated user's actual speed at " + str(user_actual_speed))
+
+        return target_actual_speed > user_actual_speed
+
+    def calculate_speed_stat(self, pokemon, is_own):
+        stat_block = {}
+        pokemon_name = self.pokemon_species(pokemon.species)
+
+        if is_own:
+            stat_block = self.team_directory[self.pokemon_species(pokemon.species)]
+        else:
+            stat_block = self.opponent_team_directory[self.pokemon_species(pokemon.species)]
+
+        base_speed = POKEDEX[pokemon.species].get("baseStats").get("spe")
+        iv = self.utility_functions.get_iv_from_stat_block(stat_block, "spe")
+        ev = self.utility_functions.get_ev_from_stat_block(stat_block, "spe")
+
+        nature_mod = self.utility_functions.get_mod_for_nature(stat_block.get("nature"), "spe")
+
+        result = (math.floor(0.01 * (2 * base_speed + iv + math.floor(0.25 * ev)) * pokemon.level) + 5) * nature_mod
+        print("Calculated " + pokemon_name + "'s unmodified speed at " + str(int(result)))
+        return result
+
+    def get_boost_for_stat(self, boosts, stat):
+        print("Getting " + stat + " boost level.")
+        if boosts is None:
+            return 0
+
+        if stat not in boosts.keys():
+            return 0
+
+        print("Found boost. It's " + str(boosts[stat]))
+        return boosts[stat]

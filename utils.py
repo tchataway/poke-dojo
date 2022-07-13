@@ -64,3 +64,102 @@ class UtilityFunctions():
 
     def move_heals_user(self, move):
         return move.heal > 0 or "heal" in move.flags
+
+    def move_drops_target_speed(self, move):
+        if move.target == "self":
+            return False
+
+        move_affects_speed_primary = move.boosts != None and "spe" in move.boosts.keys()
+        move_affects_speed_secondary = len(move.secondary) > 0 and move.secondary[0].get("boosts", None) != None and "spe" in move.secondary[0].get("boosts").keys()
+
+        if not move_affects_speed_primary and not move_affects_speed_secondary:
+            return False
+
+        primary_boost = 0
+        secondary_boost = 0
+
+        if move_affects_speed_primary:
+            primary_boost = move.boosts["spe"]
+
+        if move_affects_speed_secondary:
+            secondary_boost = move.secondary[0].get("boosts")["spe"]
+
+        if not primary_boost < 0 and not secondary_boost < 0:
+            # Doesn't debuff speed.
+            return False
+
+        if move_affects_speed_secondary and move.secondary[0].get("chance") < 100:
+            return False
+
+        return True
+
+    def calculate_stat_fraction(self, stage: int):
+        if stage < -6 or stage > 6:
+            return [2, 2]
+
+        nominator = 2
+        denominator = 2
+
+        if stage < 0:
+            denominator = denominator + abs(stage)
+        else:
+            nominator = nominator + stage
+
+        return [nominator, denominator]
+
+    def get_iv_from_stat_block(self, stat_block, stat: str):
+        ivs = {}
+        iv = 31
+        
+        if "ivs" in stat_block.keys():
+            ivs = stat_block["ivs"]
+
+        if stat in ivs.keys():
+            iv = int(ivs[stat])
+
+        return iv
+
+    def get_ev_from_stat_block(self, stat_block, stat: str):
+        evs = {}
+        ev = 0
+        
+        if "evs" in stat_block.keys():
+            evs = stat_block["evs"]
+
+        if stat in evs.keys():
+            ev = int(evs[stat])
+
+        return ev
+
+    def get_mod_for_nature(self, nature: str, stat: str):
+        # I'm really lazy so I'm only checking speed for now. What? It's late!
+        match stat:
+            case "spe":
+                match nature:
+                    case "Timid":
+                        return 1.1
+                    case "Jolly":
+                        return 1.1
+                    case "Hasty":
+                        return 1.1
+                    case "Naive":
+                        return 1.1
+                    case "Brave":
+                        return 0.9
+                    case "Relaxed":
+                        return 0.9
+                    case "Quiet":
+                        return 0.9
+                    case "Sassy":
+                        return 0.9
+
+        return 1.0
+
+    def move_does_no_damage(self, move):
+        print("Checking if move does damage...")
+        if move.damage == 0 and move.base_power == 0:
+            print("Move does not do damage.")
+            return True
+
+        print("Move does damage.")
+        return False
