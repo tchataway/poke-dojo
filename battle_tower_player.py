@@ -204,7 +204,7 @@ class BattleTowerPlayer(Player):
                         hit_count = hit_count + 1
 
                 if not simulated_damage > 0 and self.move_works_against_target(
-                    move, battle.active_pokemon, battle.opponent_active_pokemon):
+                    move, battle.active_pokemon, battle.opponent_active_pokemon) and damage_calculator.check_for_error(active_pokemon_stats, opponent_active_pokemon_stats, move_name) == "OK":
                     # If damage is 0, but move seems like it should work, the
                     # calculator may be missing something, so treat it as a
                     # normal status move for now.

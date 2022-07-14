@@ -31,7 +31,6 @@ class SimpleDamageCalculator():
         print(defender)
         url = "https://calc-api.herokuapp.com/calc-api"
         payload = { 'attacker': attacker, 'defender': defender, 'move': move }
-        #payload = { 'attacker': attackerObject, 'defender': attackerObject, 'move': move }
         result = requests.post(url, json = payload)
         jsonResult = result.json()
         print(jsonResult)
@@ -42,3 +41,15 @@ class SimpleDamageCalculator():
             return 0
 
         return random.choice(jsonResult['damage'])
+
+    def check_for_error(self, attacker, defender, move):
+        url = "https://calc-api.herokuapp.com/calc-api"
+        payload = { 'attacker': attacker, 'defender': defender, 'move': move }
+        result = requests.post(url, json = payload)
+        jsonResult = result.json()
+
+        if 'error' in jsonResult:
+            # Something went wrong. Print error and return 0.
+            return jsonResult['error']
+
+        return "OK"
