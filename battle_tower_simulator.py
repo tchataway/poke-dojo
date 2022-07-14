@@ -55,6 +55,8 @@ async def main():
                 await player.send_challenges(player_to_challenge, n_challenges=1)
                 return
 
+    rematch = False
+    rematch_trainer_name_and_team = []
     # Standard set rotation
     while current_set < 8: # 8 would be Master.
         if current_battle < 8: # Only 7 battles in each set.
@@ -69,7 +71,10 @@ async def main():
                     set_name = "49 Streak Battle"
     
             # Get random trainer and team from set.
-            trainer_name_and_team = team_provider.get_random_team(set_name)
+            trainer_name_and_team = rematch_trainer_name_and_team
+
+            if not rematch:
+                trainer_name_and_team = team_provider.get_random_team(set_name)
 
             # Check if we've used this trainer before; if so, update their name.
             trainer_name = trainer_name_and_team[0]
@@ -93,8 +98,14 @@ async def main():
             print("Starting battle for set " + str(current_set) + ", battle number " + str(current_battle))
             await player.send_challenges(player_to_challenge, n_challenges=1)
     
-            # Battle complete; proceed to next one (even if we won!).
-            current_battle = current_battle + 1
+            if player.n_won_battles == 0:
+                # Only progress to next battle if challenger won.
+                current_battle = current_battle + 1
+                rematch = False
+            else:
+                rematch = True
+                rematch_trainer_name_and_team = trainer_name_and_team
+
         else:
             current_set = current_set + 1
             current_battle = 1
