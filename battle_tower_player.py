@@ -185,7 +185,7 @@ class BattleTowerPlayer(Player):
                     return self.create_order(move)
 
                 move_data = MOVES[move.id]
-                if "ohko" in move_data.keys() and move_data.get("ohko"):
+                if "ohko" in move_data.keys() and move_data.get("ohko") and self.move_works_against_target(move, battle.active_pokemon, battle.opponent_active_pokemon):
                     # Treat OHKO moves as status moves priority; i.e.,
                     # equal chance to come out as best move, other status moves,
                     # but not favoured over high priority moves and staying
@@ -414,6 +414,8 @@ class BattleTowerPlayer(Player):
         return math.floor(0.01 * (2 * hp_base + iv + math.floor(0.25 * ev)) * pokemon.level) + pokemon.level + 10
 
     def move_works_against_target(self, move, user, target):
+        move_data = MOVES[move.id]
+
         if move.status is not None and target.status is not None:
             # Pokemon can only have one major status ailment at a time.
             return False
@@ -437,6 +439,10 @@ class BattleTowerPlayer(Player):
                 # Yawn doesn't work if the opponent can't sleep.
                 return False
 
+            if move.volatile_status == "stockpile" and Effect.STOCKPILE3 in user.effects:
+                # Can't stockpile more than 3 times.
+                return False
+
         if not (target.damage_multiplier(move) > 0):
             # Move doesn't work due to typing.
             return False
@@ -450,6 +456,10 @@ class BattleTowerPlayer(Player):
         # TODO: Check item.
 
         if move.volatile_status == "attract" and not self.genders_are_attract_compatible(user.gender, target.gender):
+            return False
+
+        if "sleepUsable" in move_data.keys() and move_data.get("sleepUsable") and user.status != Status.SLP:
+            # Can't use sleep usable move if we're not asleep.
             return False
 
         if move.target != "self" and Effect.SUBSTITUTE in list(target.effects.keys()):
