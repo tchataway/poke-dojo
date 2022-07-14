@@ -87,7 +87,7 @@ class BattleTowerPlayer(Player):
                 # here.
                 opponent_active_pokemon_stats["ability"] = self.utility_functions.get_or_guess_ability(battle.opponent_active_pokemon)
 
-            best_move = random.choice(battle.available_moves)
+            best_move = None
             best_damage = 0
             print("Iterating over available_moves, which are currently:")
             print(battle.available_moves)
@@ -184,6 +184,15 @@ class BattleTowerPlayer(Player):
                     # to use it even if we have a potential KO.
                     return self.create_order(move)
 
+                move_data = MOVES[move.id]
+                if "ohko" in move_data.keys() and move_data.get("ohko"):
+                    # Treat OHKO moves as status moves priority; i.e.,
+                    # equal chance to come out as best move, other status moves,
+                    # but not favoured over high priority moves and staying
+                    # alive.
+                    status_moves.append(move)
+                    continue
+
                 print("Simulating damage roll for " + move.id)
                 move_name = MOVES[move.id].get("name", None)
                 print("Simulating damage for " + move_name)
@@ -238,16 +247,21 @@ class BattleTowerPlayer(Player):
             # with status moves into a single pool and set that as our current
             # best move.
             move_options = status_moves
-            move_options.append(best_move)
+
+            if best_move is not None:
+                move_options.append(best_move)
+            
             print("Normal move options at this point are ")
             print(move_options)
-            best_move = random.choice(move_options)
+
+            if len(move_options) > 0:
+                best_move = random.choice(move_options)
 
             if battle.active_pokemon.current_hp_fraction < 0.5:
                 # We're damaged; check for healing moves.
                 print("Below 50% HP; checking for healing moves...")
                 best_heal = 0
-                best_heal_move = random.choice(battle.available_moves)
+                best_heal_move = None
                 all_heals = []
                 for move in battle.available_moves:
                     if move.current_pp == 0:
@@ -280,6 +294,16 @@ class BattleTowerPlayer(Player):
                 print(high_priority_moves)
                 print("Selecting one.")
                 return self.create_order(random.choice(high_priority_moves))
+
+            if best_move is None:
+                print("No good moves! Trying to switch...")
+                if len(battle.available_switches) > 0:
+                    self.active_pokemon_turn_counter = 0
+                    return self.create_order(self.make_smart_switch(
+                    battle.opponent_active_pokemon, battle.available_switches))
+
+                print("No switches available! Choose random move.")
+                return self.choose_random_move(battle)
 
             print("Randomly selected " + best_move.id + " from move options")            
             return self.create_order(best_move)
