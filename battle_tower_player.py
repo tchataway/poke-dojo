@@ -192,6 +192,10 @@ class BattleTowerPlayer(Player):
                     # alive.
                     status_moves.append(move)
                     continue
+                if "damageCallback" in move_data.keys():
+                    # Moves like counter, metal burst, mirror coat, and endeavor.
+                    # Treat as status moves.
+                    status_moves.append(move)
 
                 print("Simulating damage roll for " + move.id)
                 move_name = MOVES[move.id].get("name", None)
