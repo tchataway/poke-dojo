@@ -526,7 +526,7 @@ class BattleTowerPlayer(Player):
 
         for move in opponent_active_pokemon_stats["moves"]:
             # Holy crap we're actually using the moves from the stat block.
-            simulated_damage = damage_calculator.calculate(active_pokemon_stats, opponent_active_pokemon_stats, move)
+            simulated_damage = damage_calculator.calculate(opponent_active_pokemon_stats, active_pokemon_stats, move)
 
             if simulated_damage >= active_pokemon.current_hp:
                 # Move could knock us out. RIP.
