@@ -409,6 +409,10 @@ class BattleTowerPlayer(Player):
                 # Don't try to encore when they haven't performed yet.
                 return False
 
+            if move.volatile_status == "yawn" and target.status is not None:
+                # Yawn doesn't work if the opponent can't sleep.
+                return False
+
         if not (target.damage_multiplier(move) > 0):
             # Move doesn't work due to typing.
             return False
