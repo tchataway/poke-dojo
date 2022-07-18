@@ -145,7 +145,7 @@ class BattleTowerPlayer(Player):
 
                     # TODO: Check slot condition (e.g. Wish)
 
-                    if move.boosts != None and self.utility_functions.move_boosts_are_useless(battle.active_pokemon, move):
+                    if self.utility_functions.move_buffs_user(battle.active_pokemon, move) and self.utility_functions.move_boosts_are_useless(battle.active_pokemon, move):
                         # This move boosts stats, but all of the stats it boosts
                         # are already at maximum boost level.
                         print("Move boosts stats, but all stats it boosts are already maxed. Skipping.")
@@ -228,6 +228,7 @@ class BattleTowerPlayer(Player):
 
                 if simulated_damage >= self.guess_current_hp(battle.opponent_active_pokemon):
                     # Does this move knock out our opponent? If so, add to preferred moves.
+                    print("Potential KO; adding to top priority moves.")
                     top_priority_moves.append(move)
                     continue
 

@@ -1,5 +1,6 @@
 from poke_env.data import POKEDEX
 from poke_env.environment.pokemon import Pokemon
+from poke_env.environment.pokemon_type import PokemonType
 from ability_dex import AbilityDex
 import random
 
@@ -165,6 +166,11 @@ class UtilityFunctions():
         return False
 
     def is_useable_setup_move(self, user, move):
+        if move.id == "curse" and PokemonType.GHOST not in user.types:
+            # Special handling for curse because it doesn't present as a
+            # traditional buff in the move database.
+            return user.boosts["atk"] < 6
+
         if move.target != "self":
             return False
 
@@ -173,6 +179,7 @@ class UtilityFunctions():
 
         attack_boost = 0
         special_attack_boost = 0
+        evasion_boost = 0
 
         if "atk" in move.boosts.keys():
             attack_boost = move.boosts["atk"]
@@ -180,33 +187,75 @@ class UtilityFunctions():
         if "spa" in move.boosts.keys():
             special_attack_boost = move.boosts["spa"]
 
-        if attack_boost < 1 and special_attack_boost < 1:
+        if "evasion" in move.boosts.keys():
+            print("Evasion boost is: " + str(move.boosts["evasion"]))
+            evasion_boost = move.boosts["evasion"]
+
+        if attack_boost < 1 and special_attack_boost < 1 and evasion_boost < 1:
             return False
 
         user_attack_stage = 0
         user_special_attack_stage = 0
+        user_evasion_stage = 0
 
         if "atk" in user.boosts.keys():
             user_attack_stage = user.boosts["atk"]
 
         if "spa" in user.boosts.keys():
-            user_special_attack_stage = user.boosts["spa"]        
+            user_special_attack_stage = user.boosts["spa"]
+
+        if "evasion" in user.boosts.keys():
+            print("User evasion stage currently: " + str(user.boosts["evasion"]))
+            user_evasion_stage = user.boosts["evasion"]
 
         boosted_atk = min(user_attack_stage + attack_boost, 6)
         boosted_spa = min(user_special_attack_stage + special_attack_boost, 6)
+        boosted_eva = min(user_evasion_stage + evasion_boost, 6)
+        print("Calculated user evasion stage after boosting to be: " + str(boosted_eva))
 
-        if boosted_atk == user_attack_stage and boosted_spa == user_special_attack_stage:
+        if boosted_atk == user_attack_stage and boosted_spa == user_special_attack_stage and boosted_eva == user_evasion_stage:
             # In other words, would boosting effectively do nothing at all to either
             # stat?
             return False
 
         return True
 
+    def move_buffs_user(self, user, move):
+        if move.id == "curse" and PokemonType.GHOST not in user.types:
+            # Special handling for curse as it doesn't present as a traditional
+            # buff in the move database. Basically, it buffs non-ghost types.
+            return True
+
+        print("Checking if " + move.id + " buffs user...")
+        print("Checking move target...")
+        if move.target != "self":
+            print("Move doesn't target self.")
+            return False
+
+        print("Move.boosts are:")
+        print(move.boosts)
+        if move.boosts is None:
+            return False
+
+        print(move.id + " has boosts. Checking to see if they buff user...")
+        print("boost values are:")
+        print(move.boosts.values())
+        for boost in move.boosts.values():
+            if boost > 0:
+                return True
+
+        return False
+
     def move_boosts_are_useless(self, user, move):
         if len(user.boosts.keys()) == 0:
             # User has no boosts, so any boosts are useful!
             return False
-            
+        
+        if move.id == "curse" and PokemonType.GHOST not in user.types:
+            # Special handling for curse, which doesn't have boost details in its
+            # data, but boosts anyway for non-ghost types.
+            return user.boosts["atk"] == 6
+
         if move.boosts is None:
             # Not sure why this function was called if the move doesn't even
             # boost anything. If it doesn't boost anything, it does something
@@ -222,5 +271,9 @@ class UtilityFunctions():
                 if user.boosts[boost] < 6:
                     # Room for improvement!
                     return False
+            else:
+                # If user doesn't have boost yet, then of course there's room for
+                # improvement.
+                return False
 
         return True
