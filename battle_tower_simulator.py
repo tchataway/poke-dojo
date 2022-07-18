@@ -44,16 +44,21 @@ async def main():
                 team_name = lines[1].strip()
 
                 trainer_name_and_team = team_provider.get_specific_team(trainer_name, team_name)
-                player = BattleTowerPlayer(
-                    player_configuration=PlayerConfiguration(trainer_name, None),
-                    battle_format="gen8bdsp3v3singles",
-                    server_configuration=LocalhostServerConfiguration,
-                    team=trainer_name_and_team[1],
-                    log_level=10,
-                )
+                battle_count = 0
+                base_trainer_name = trainer_name
+
+                while True:
+                    player = BattleTowerPlayer(
+                        player_configuration=PlayerConfiguration(trainer_name, None),
+                        battle_format="gen8bdsp3v3singles",
+                        server_configuration=LocalhostServerConfiguration,
+                        team=trainer_name_and_team[1],
+                        log_level=10,
+                    )
                 
-                await player.send_challenges(player_to_challenge, n_challenges=1)
-                return
+                    await player.send_challenges(player_to_challenge, n_challenges=1)
+                    battle_count = battle_count + 1
+                    trainer_name = base_trainer_name + str(battle_count)
 
     rematch = False
     rematch_trainer_name_and_team = []
@@ -79,10 +84,11 @@ async def main():
             # Check if we've used this trainer before; if so, update their name.
             trainer_name = trainer_name_and_team[0]
             name_count = 0
+            base_trainer_name = trainer_name
 
             while trainer_name in used_trainer_names:
                 name_count = name_count + 1
-                trainer_name = trainer_name + str(name_count)
+                trainer_name = base_trainer_name + str(name_count)
 
             used_trainer_names.append(trainer_name)
     
