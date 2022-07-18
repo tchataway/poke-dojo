@@ -17,7 +17,7 @@ class ShowdownTeamParser():
 
             if "species" not in current_pokemon.keys():
                 # Parse species and hold item line.
-                parts = re.findall("([A-Za-z\\s]{2,})", line)
+                parts = re.findall("([A-Z0-9a-z-\\s]{2,})", line)
                 has_nickname = "(" in line
                 has_hold_item = "@" in line
 
