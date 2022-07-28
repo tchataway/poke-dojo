@@ -26,13 +26,16 @@ async def main():
 
     # Check for custom start point.
     start_point_path = '.\\config\\start_point.txt'
+    master_mode = False
     if os.path.exists(start_point_path):
         with open(start_point_path) as start_point_file:
             lines = start_point_file.readlines()
             if len(lines) > 1:
                 current_set = int(lines[0].strip())
                 current_battle = int(lines[1].strip())
-
+            elif len(lines) == 1 and lines[0].strip().lower() == "master":
+                master_mode = True
+                set_name = "M"
 
     # Check for specific trainer and team config.
     specific_trainer_config_path = '.\\config\\specific_trainer_and_team.txt'
@@ -63,11 +66,12 @@ async def main():
     rematch = False
     rematch_trainer_name_and_team = []
     # Standard set rotation
-    while current_set < 8: # 8 would be Master.
+    while current_set < 8 or master_mode: # 8 is Master.
         if current_battle < 8: # Only 7 battles in each set.
-            set_name = str(current_set)
+            if not master_mode:
+                set_name = str(current_set)
 
-            if current_battle == 7:
+            if current_battle == 7 and not master_mode:
                 if current_set == 3:
                     # 21st battle, load special set.
                     set_name = "21 Streak Battle"
